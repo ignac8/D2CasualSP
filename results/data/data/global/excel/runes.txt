@@ -36,7 +36,7 @@ Runeword34	Enlightenment	1		111	tors									PulRalSur	r21	r08	r12				hit-skill	
 Runeword35	Envy																																																0
 Runeword36	Eternity	1		110	mele									AmnBerIstSolSur	r11	r30	r24	r12	r29		dmg%		260	310	indestruct		1	1	slow		33	33	charged	Revive	88	8	regen		16	16	regen-mana		16	16	nofreeze		1	1	0
 Runeword37	Exile	1		110	pala									VexOhmIstDol	r26	r27	r24	r14			block2		30	30	freeze		1	1	ac%		220	260	aura	Defiance	13	16	skilltab	10	2	2	hit-skill	Life Tap	15	5	rep-dur	25			0
-Runeword38	Faith	1		110, Previously Ladder Only	miss									OhmJahLemEld	r27	r31	r20	r02			dmg%		280	280	att%		300	300	dmg-fire		120	120	res-all		15	15	aura	Fanaticism	12	15	reanimate	1	10	10	allskills		1	2	0
+Runeword38	Faith	1		"110, Previously Ladder Only"	miss									OhmJahLemEld	r27	r31	r20	r02			dmg%		280	280	att%		300	300	dmg-fire		120	120	res-all		15	15	aura	Fanaticism	12	15	reanimate	1	10	10	allskills		1	2	0
 Runeword39	Famine	1			axe	hamm								FalOhmOrtJah	r19	r27	r09	r31			dmg%		270	320	lifesteal		12	12	swing2		30	30	noheal		1	1	dmg-mag		180	200	dmg-elem		50	200	ethereal		1	1	0
 Runeword40	Flickering Flame	1	1	D2R Ladder 1	helm									NefPulVex	r04	r21	r26				fireskill		3	3	aura	Resist Fire	4	8	pierce-fire		10	15	mana		50	75	half-freeze		1	1	res-pois-len		50	50					0
 Runeword41	Fortitude	1		Previously Ladder Only	weap	tors								ElSolDolLo	r01	r12	r14	r28			ac%		200	200	dmg%		300	300	cast3		25	25	gethit-skill	Chilling Armor	20	15	dmg-to-mana		12	12	hp/lvl		8	12	res-all		25	30	0
