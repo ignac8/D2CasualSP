@@ -1,0 +1,11 @@
+None	
+Head	head
+Neck	neck
+Torso	tors
+Right Arm	rarm
+Left Arm	larm
+Right Ring	rrin
+Left Ring	lrin
+Belt	belt
+Feet	feet
+Gloves	glov
