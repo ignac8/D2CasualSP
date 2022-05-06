@@ -1,16 +1,12 @@
 import csv
 import os
 
-
-def no_drop(filename, row):
-    if filename == 'treasureclassex.txt':
-        if row['NoDrop']:
-            row['NoDrop'] = 0
-    return row
+import modifiers
 
 
 def main():
-    functions = [no_drop]
+    modifiers_list = list(filter(lambda x: callable(x) and not (x.__name__.startswith('__')),
+                                 map(lambda x: getattr(modifiers, x), dir(modifiers))))
     excel_dir = 'data/data/global/excel'
     templates_dir = 'templates'
     results_dir = 'results'
@@ -24,8 +20,8 @@ def main():
                                         dialect='excel-tab', quoting=csv.QUOTE_NONE, quotechar=None)
                 writer.writeheader()
                 for row in reader:
-                    for function in functions:
-                        row = function(filename, row)
+                    for modifier in modifiers_list:
+                        row = modifier(filename, row)
                     writer.writerow(row)
 
 
