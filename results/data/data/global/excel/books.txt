@@ -1,0 +1,3 @@
+Tome of Town Portal	tsc	tbk	2	-1	Scroll of Townportal	Book of Townportal	250	50
+Tome of Identify	isc	ibk	1	0	Scroll of Identify	Book of Identify	200	40
+Tome of Resurrect			-1	-1			500	100
