@@ -1,3 +1,4 @@
-Lite	lit
-Medium	med
-Heavy	hvy
+Name	Token
+Lite	lit
+Medium	med
+Heavy	hvy
