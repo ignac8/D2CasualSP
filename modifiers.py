@@ -1,4 +1,5 @@
 import csv
+import math
 import os
 
 
@@ -12,9 +13,8 @@ def disable_no_drop(filename, row):
 def more_common_drops(filename, row):
     if filename == 'itemratio.txt':
         for value in row.items():
-            if value[1].isnumeric() and not (value[0].endswith("Divisor")) and not (
-                    value[0].endswith("Min")):
-                row[value[0]] = int(int(value[1]) / 10)
+            if value[0] == "Unique" or value[0] == "Rare" or value[0] == "Set" or value[0] == "Magic":
+                row[value[0]] = math.ceil(int(value[1]) / 10)
     return row
 
 
