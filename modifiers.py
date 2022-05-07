@@ -1,6 +1,4 @@
-import csv
 import math
-import os
 
 
 def disable_no_drop(filename, row):
@@ -27,13 +25,21 @@ def better_rune_drop(filename, row):
     return row
 
 
-def disable_ladder_only(filename, row):
+def disable_ladder_only_cube_recipes(filename, row):
     if filename == 'cubemain.txt':
         if row['ladder'] and int(row['ladder']):
             row['ladder'] = int(False)
+    return row
+
+
+def disable_ladder_only_runewords(filename, row):
     if filename == 'runes.txt':
         if row['server'] and int(row['server']):
             row['server'] = int(False)
+    return row
+
+
+def disable_ladder_only_unique_items(filename, row):
     if filename == 'uniqueitems.txt':
         if row['ladder'] and int(row['ladder']):
             row['ladder'] = int(False)
@@ -48,12 +54,32 @@ def more_monsters(filename, row):
     return row
 
 
-def more_power(filename, row):
+def more_champions(filename, row):
+    if filename == 'levels.txt':
+        for value in row.items():
+            if value[0].startswith('MonUMax') and value[1].isnumeric():
+                number = int(int(value[1]) * 2)
+                row[value[0]] = number
+                row[value[0].replace('Max', 'Min')] = number
+    return row
+
+
+def more_stats_per_level(filename, row):
     if filename == 'charstats.txt':
         if row['StatPerLevel']:
             row['StatPerLevel'] = int(int(row['StatPerLevel']) * 2)
+    return row
+
+
+def more_skills_per_level(filename, row):
+    if filename == 'charstats.txt':
         if row['SkillsPerLevel']:
             row['SkillsPerLevel'] = int(int(row['SkillsPerLevel']) * 2)
+    return row
+
+
+def more_power(filename, row):
+    if filename == 'charstats.txt':
         if row['ManaRegen']:
             row['ManaRegen'] = int(int(row['ManaRegen']) / 2)
     return row
@@ -69,9 +95,10 @@ def higher_selling_price(filename, row):
 
 def better_gambling(filename, row):
     if filename == 'difficultylevels.txt':
-        row['GambleRare'] = int(100000 / 2)
-        row['GambleSet'] = int(100000 / 10)
-        row['GambleUnique'] = int(100000 / 20)
+        max_chance = 100000
+        row['GambleRare'] = int(max_chance / 2)
+        row['GambleSet'] = int(max_chance / 5)
+        row['GambleUnique'] = int(max_chance / 10)
     return row
 
 
