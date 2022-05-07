@@ -27,7 +27,7 @@ def main():
                 writer.writeheader()
                 for row in reader:
                     for modifier in modifiers_list:
-                        row = modifier(file, row)
+                        row = modifier(file.name, row)
                     writer.writerow(row)
 
 
