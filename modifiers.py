@@ -1,4 +1,5 @@
 import math
+import re
 
 
 def disable_no_drop(filename, row):
@@ -58,6 +59,17 @@ def more_monster_types(filename, row):
         for value in row.items():
             if value[0].startswith('MonDen') and value[1].isnumeric():
                 row[value[0]] = int(int(value[1]) * 2)
+    return row
+
+
+def easier_rune_cubing(filename, row):
+    if filename == 'cubemain.txt':
+        match = re.match('r(\d{2})', row['output'])
+        if match:
+            for value in row.items():
+                if value[0].startswith('input'):
+                    row[value[0]] = ''
+                row['input 1'] = f'r{str(int(match.group(1)) - 1).rjust(2, str(0))},qty=2'
     return row
 
 
