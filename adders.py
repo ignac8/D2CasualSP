@@ -9,6 +9,7 @@ def devolve_runes(filename):
             row['numinputs'] = '2'
             row['input 1'] = f'r{str(i + 1).rjust(2, str(0))}'
             row['input 2'] = 'ibk'
-            row['output'] = f'r{str(i).rjust(2, str(0))},qty=2'
+            row['output'] = f'r{str(i).rjust(2, str(0))}'
+            row['output b'] = f'r{str(i).rjust(2, str(0))}'
             rows.append(row)
     return rows
