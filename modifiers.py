@@ -70,7 +70,7 @@ def easier_rune_cubing(filename, row):
                 if value[0].startswith('input'):
                     row[value[0]] = ''
                 row['numinputs'] = str(1)
-                row['input 1'] = f'r{str(int(match.group(1)) - 1).rjust(2, str(0))},qty=2'
+                row['input 1'] = f'"r{str(int(match.group(1)) - 1).rjust(2, str(0))},qty=2"'
     return row
 
 
