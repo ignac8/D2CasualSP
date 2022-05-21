@@ -2,12 +2,13 @@ import csv
 import shutil
 from pathlib import Path
 
+import adders
 import modifiers
 
 
 def main():
-    modifiers_list = list(filter(lambda x: callable(x) and not (x.__name__.startswith('__')),
-                                 map(lambda x: getattr(modifiers, x), dir(modifiers))))
+    modifiers_list = get_methods(modifiers)
+    adders_list = get_methods(adders)
     templates = Path('templates')
     results = Path('results')
     excel = Path('D2RCasualSP').joinpath(Path('D2RCasualSP.mpq')).joinpath(Path('data')).joinpath(
@@ -28,6 +29,14 @@ def main():
                     for modifier in modifiers_list:
                         row = modifier(file.name, row)
                     writer.writerow(row)
+                for adder in adders_list:
+                    for row in adder(file.name):
+                        writer.writerow(row)
+
+
+def get_methods(package):
+    return list(filter(lambda x: callable(x) and not (x.__name__.startswith('__')),
+                       map(lambda x: getattr(package, x), dir(package))))
 
 
 if __name__ == '__main__':
