@@ -73,6 +73,15 @@ def easier_rune_cubing(filename, row):
     return row
 
 
+def easier_socketing(filename, row):
+    if filename == 'cubemain.txt':
+        if 'nor,nos' in row['input 1']:
+            row['input 2'] = 'ibk'
+            row['input 3'] = ''
+            row['input 4'] = ''
+    return row
+
+
 def more_champions(filename, row):
     if filename == 'levels.txt':
         for value in row.items():
