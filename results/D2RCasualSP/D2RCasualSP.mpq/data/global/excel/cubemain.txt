@@ -50,15 +50,15 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 3 Flawed Skulls -> Standard Skull	1			0					3	"skf,qty=3"							sku																																																																																							0
 3 Standard Skulls -> Flawless Skull	1			0					3	"sku,qty=3"							skl																																																																																							0
 3 Flawless Skulls -> Perfect Skull	1			0					3	"skl,qty=3"							skz																																																																																							0
-3 El Runes -> Eld Rune	1			100					1	r01,qty=2							r02																																																																																							0
-3 Eld Runes -> Tir Rune	1			100					1	r02,qty=2							r03																																																																																							0
-3 Tir Runes -> Nef Rune	1			100					1	r03,qty=2							r04																																																																																							0
-3 Nef Runes -> Eth Rune	1			100					1	r04,qty=2							r05																																																																																							0
-3 Eth Runes -> Ith Rune	1			100					1	r05,qty=2							r06																																																																																							0
-3 Ith Runes -> Tal Rune	1			100					1	r06,qty=2							r07																																																																																							0
-3 Tal Runes -> Ral Rune	1			100					1	r07,qty=2							r08																																																																																							0
-3 Ral Runes -> Ort Rune	1			100					1	r08,qty=2							r09																																																																																							0
-3 Ort Runes -> Thul Rune	1			100					1	r09,qty=2							r10																																																																																							0
+3 El Runes -> Eld Rune	1			100					1	"r01,qty=2"							r02																																																																																							0
+3 Eld Runes -> Tir Rune	1			100					1	"r02,qty=2"							r03																																																																																							0
+3 Tir Runes -> Nef Rune	1			100					1	"r03,qty=2"							r04																																																																																							0
+3 Nef Runes -> Eth Rune	1			100					1	"r04,qty=2"							r05																																																																																							0
+3 Eth Runes -> Ith Rune	1			100					1	"r05,qty=2"							r06																																																																																							0
+3 Ith Runes -> Tal Rune	1			100					1	"r06,qty=2"							r07																																																																																							0
+3 Tal Runes -> Ral Rune	1			100					1	"r07,qty=2"							r08																																																																																							0
+3 Ral Runes -> Ort Rune	1			100					1	"r08,qty=2"							r09																																																																																							0
+3 Ort Runes -> Thul Rune	1			100					1	"r09,qty=2"							r10																																																																																							0
 3 Perfect Gems (Any) + 1 Magic Item -> Re-rolled Magic Item	1			100					4	"any,mag"	"gem4,qty=3"						"usetype,mag"			100																																																																																				0
 6 Perfect Skulls + 1 Rare Item -> 1 Low Quality Rare Item	1			0					7	"any,rar"	"skz,qty=6"						"usetype,rar"		40	40																																																																																				0
 1 Perfect Skull + 1 Rare Item + 1 Stone of Jordan -> 1 High Quality Rare Item	1			0					3	"any,rar"	skz	The Stone of Jordan					"usetype,rar"		66	66																																																																																				0
@@ -99,29 +99,29 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Magic Amulet + 1 Jewel + 1 Thul Rune + 1 Perfect Emerald -> Safety Amulet	1			100					4	"amul,mag"	jew	r10	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
 1 Magic Ring + 1 Jewel + 1 Amn Rune + 1 Perfect Emerald -> Safety Ring	1			100					4	"ring,mag"	jew	r11	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
 1 Magic Spear + 1 Jewel + 1 Sol Rune + 1 Perfect Emerald -> Safety Weapon	1			100					4	"spea,mag"	jew	r12	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
-3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100					1	r10,qty=2							r11																																																																																							0
-3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					1	r11,qty=2							r12																																																																																							0
-3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					1	r12,qty=2							r13																																																																																							0
-3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100					1	r13,qty=2							r14																																																																																							0
-3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					1	r14,qty=2							r15																																																																																							0
-3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					1	r15,qty=2							r16																																																																																							0
-3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					1	r16,qty=2							r17																																																																																							0
-3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					1	r17,qty=2							r18																																																																																							0
-3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					1	r18,qty=2							r19																																																																																							0
-3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					1	r19,qty=2							r20																																																																																							0
-3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					1	r20,qty=2							r21																																																																																							0
-2 Pul Runes + 1 Flawed Diamond -> Um Rune	1			100					1	r21,qty=2							r22																																																																																							0
-2 Um Runes + 1 Standard Topaz -> Mal Rune	1			100					1	r22,qty=2							r23																																																																																							0
-2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1			100					1	r23,qty=2							r24																																																																																							0
-2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1			100					1	r24,qty=2							r25																																																																																							0
-2 Gul Runes + 1 Standard Ruby -> Vex Rune	1			100					1	r25,qty=2							r26																																																																																							0
-2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1			100					1	r26,qty=2							r27																																																																																							0
-2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1			100					1	r27,qty=2							r28																																																																																							0
-2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1			100					1	r28,qty=2							r29																																																																																							0
-2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1			100					1	r29,qty=2							r30																																																																																							0
-2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1			100					1	r30,qty=2							r31																																																																																							0
-2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1			100					1	r31,qty=2							r32																																																																																							0
-2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1			100					1	r32,qty=2							r33																																																																																							0
+3 Thul Runes + 1 Chipped Topaz -> Amn Rune	1			100					1	"r10,qty=2"							r11																																																																																							0
+3 Amn Runes + 1 Chipped Amethyst -> Sol Rune	1			100					1	"r11,qty=2"							r12																																																																																							0
+3 Sol Runes + 1 Chipped Sapphire -> Shael Rune	1			100					1	"r12,qty=2"							r13																																																																																							0
+3 Shael Runes + 1 Chipped Ruby -> Dol Rune	1			100					1	"r13,qty=2"							r14																																																																																							0
+3 Dol Runes + 1 Chipped Emerald -> Hel Rune	1			100					1	"r14,qty=2"							r15																																																																																							0
+3 Hel Runes + 1 Chipped Diamond -> Io Rune	1			100					1	"r15,qty=2"							r16																																																																																							0
+3 Io Runes + 1 Flawed Topaz -> Lum Rune	1			100					1	"r16,qty=2"							r17																																																																																							0
+3 Lum Runes + 1 Flawed Amethyst -> Ko Rune	1			100					1	"r17,qty=2"							r18																																																																																							0
+3 Ko Runes + 1 Flawed Sapphire -> Fal Rune	1			100					1	"r18,qty=2"							r19																																																																																							0
+3 Fal Runes + 1 Flawed Ruby -> Lem Rune	1			100					1	"r19,qty=2"							r20																																																																																							0
+3 Lem Runes + 1 Flawed Emerald -> Pul Rune	1			100					1	"r20,qty=2"							r21																																																																																							0
+2 Pul Runes + 1 Flawed Diamond -> Um Rune	1			100					1	"r21,qty=2"							r22																																																																																							0
+2 Um Runes + 1 Standard Topaz -> Mal Rune	1			100					1	"r22,qty=2"							r23																																																																																							0
+2 Mal Runes + 1 Standard Amethyst -> Ist Rune	1			100					1	"r23,qty=2"							r24																																																																																							0
+2 Ist Runes + 1 Standard Sapphire -> Gul Rune	1			100					1	"r24,qty=2"							r25																																																																																							0
+2 Gul Runes + 1 Standard Ruby -> Vex Rune	1			100					1	"r25,qty=2"							r26																																																																																							0
+2 Vex Runes + 1 Standard Emerald -> Ohm Rune	1			100					1	"r26,qty=2"							r27																																																																																							0
+2 Ohm Runes + 1 Standard Diamond -> Lo Rune	1			100					1	"r27,qty=2"							r28																																																																																							0
+2 Lo Runes + 1 Flawless Topaz -> Sur Rune	1			100					1	"r28,qty=2"							r29																																																																																							0
+2 Sur Runes + 1 Flawless Amethyst -> Ber Rune	1			100					1	"r29,qty=2"							r30																																																																																							0
+2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1			100					1	"r30,qty=2"							r31																																																																																							0
+2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1			100					1	"r31,qty=2"							r32																																																																																							0
+2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1			100					1	"r32,qty=2"							r33																																																																																							0
 1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor	1			100					2	"tors,nor,nos"	ibk						useitem				sock			1	6																																																																															0
 1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon	1			100					2	"weap,nor,nos"	ibk						useitem				sock			1	6																																																																															0
 1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm	1			100					2	"helm,nor,nos"	ibk						useitem				sock			1	6																																																																															0
@@ -154,36 +154,36 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor	1	0		100					4	"armo,bas,set"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon	1	0		100					4	"weap,exc,set"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor	1	0		100					4	"armo,exc,set"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r1	1			100					2	r02	ibk						r01,qty=2																																																																																							
-r2	1			100					2	r03	ibk						r02,qty=2																																																																																							
-r3	1			100					2	r04	ibk						r03,qty=2																																																																																							
-r4	1			100					2	r05	ibk						r04,qty=2																																																																																							
-r5	1			100					2	r06	ibk						r05,qty=2																																																																																							
-r6	1			100					2	r07	ibk						r06,qty=2																																																																																							
-r7	1			100					2	r08	ibk						r07,qty=2																																																																																							
-r8	1			100					2	r09	ibk						r08,qty=2																																																																																							
-r9	1			100					2	r10	ibk						r09,qty=2																																																																																							
-r10	1			100					2	r11	ibk						r10,qty=2																																																																																							
-r11	1			100					2	r12	ibk						r11,qty=2																																																																																							
-r12	1			100					2	r13	ibk						r12,qty=2																																																																																							
-r13	1			100					2	r14	ibk						r13,qty=2																																																																																							
-r14	1			100					2	r15	ibk						r14,qty=2																																																																																							
-r15	1			100					2	r16	ibk						r15,qty=2																																																																																							
-r16	1			100					2	r17	ibk						r16,qty=2																																																																																							
-r17	1			100					2	r18	ibk						r17,qty=2																																																																																							
-r18	1			100					2	r19	ibk						r18,qty=2																																																																																							
-r19	1			100					2	r20	ibk						r19,qty=2																																																																																							
-r20	1			100					2	r21	ibk						r20,qty=2																																																																																							
-r21	1			100					2	r22	ibk						r21,qty=2																																																																																							
-r22	1			100					2	r23	ibk						r22,qty=2																																																																																							
-r23	1			100					2	r24	ibk						r23,qty=2																																																																																							
-r24	1			100					2	r25	ibk						r24,qty=2																																																																																							
-r25	1			100					2	r26	ibk						r25,qty=2																																																																																							
-r26	1			100					2	r27	ibk						r26,qty=2																																																																																							
-r27	1			100					2	r28	ibk						r27,qty=2																																																																																							
-r28	1			100					2	r29	ibk						r28,qty=2																																																																																							
-r29	1			100					2	r30	ibk						r29,qty=2																																																																																							
-r30	1			100					2	r31	ibk						r30,qty=2																																																																																							
-r31	1			100					2	r32	ibk						r31,qty=2																																																																																							
-r32	1			100					2	r33	ibk						r32,qty=2																																																																																							
-r33	1			100					2	r34	ibk						r33,qty=2																																																																																							
+r1	1			100					2	r02	ibk						r01																													r01																																																										
+r2	1			100					2	r03	ibk						r02																													r02																																																										
+r3	1			100					2	r04	ibk						r03																													r03																																																										
+r4	1			100					2	r05	ibk						r04																													r04																																																										
+r5	1			100					2	r06	ibk						r05																													r05																																																										
+r6	1			100					2	r07	ibk						r06																													r06																																																										
+r7	1			100					2	r08	ibk						r07																													r07																																																										
+r8	1			100					2	r09	ibk						r08																													r08																																																										
+r9	1			100					2	r10	ibk						r09																													r09																																																										
+r10	1			100					2	r11	ibk						r10																													r10																																																										
+r11	1			100					2	r12	ibk						r11																													r11																																																										
+r12	1			100					2	r13	ibk						r12																													r12																																																										
+r13	1			100					2	r14	ibk						r13																													r13																																																										
+r14	1			100					2	r15	ibk						r14																													r14																																																										
+r15	1			100					2	r16	ibk						r15																													r15																																																										
+r16	1			100					2	r17	ibk						r16																													r16																																																										
+r17	1			100					2	r18	ibk						r17																													r17																																																										
+r18	1			100					2	r19	ibk						r18																													r18																																																										
+r19	1			100					2	r20	ibk						r19																													r19																																																										
+r20	1			100					2	r21	ibk						r20																													r20																																																										
+r21	1			100					2	r22	ibk						r21																													r21																																																										
+r22	1			100					2	r23	ibk						r22																													r22																																																										
+r23	1			100					2	r24	ibk						r23																													r23																																																										
+r24	1			100					2	r25	ibk						r24																													r24																																																										
+r25	1			100					2	r26	ibk						r25																													r25																																																										
+r26	1			100					2	r27	ibk						r26																													r26																																																										
+r27	1			100					2	r28	ibk						r27																													r27																																																										
+r28	1			100					2	r29	ibk						r28																													r28																																																										
+r29	1			100					2	r30	ibk						r29																													r29																																																										
+r30	1			100					2	r31	ibk						r30																													r30																																																										
+r31	1			100					2	r32	ibk						r31																													r31																																																										
+r32	1			100					2	r33	ibk						r32																													r32																																																										
+r33	1			100					2	r34	ibk						r33																													r33																																																										
