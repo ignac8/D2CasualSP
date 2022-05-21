@@ -48,6 +48,13 @@ def disable_ladder_only_unique_items(filename, row):
 
 def more_monsters(filename, row):
     if filename == 'levels.txt':
+        if row['NumMon']:
+            row['NumMon'] = 25
+    return row
+
+
+def more_monster_types(filename, row):
+    if filename == 'levels.txt':
         for value in row.items():
             if value[0].startswith('MonDen') and value[1].isnumeric():
                 row[value[0]] = int(int(value[1]) * 2)
