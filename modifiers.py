@@ -12,7 +12,7 @@ def disable_no_drop(filename, row):
 def more_common_drops(filename, row):
     if filename == 'itemratio.txt':
         for value in row.items():
-            if value[0] == "Unique" or value[0] == "Rare" or value[0] == "Set" or value[0] == "Magic":
+            if value[0] == 'Unique' or value[0] == 'Rare' or value[0] == 'Set' or value[0] == 'Magic':
                 row[value[0]] = math.ceil(int(value[1]) / 10)
     return row
 
@@ -21,7 +21,7 @@ def better_rune_drop(filename, row):
     if filename == 'treasureclassex.txt':
         if row['Treasure Class'].startswith('Runes'):
             for value in row.items():
-                if value[1].isnumeric() and value[0].startswith("Prob"):
+                if value[1].isnumeric() and value[0].startswith('Prob'):
                     row[value[0]] = 1
     return row
 
@@ -70,7 +70,7 @@ def easier_rune_cubing(filename, row):
                 if value[0].startswith('input'):
                     row[value[0]] = ''
                 row['numinputs'] = str(1)
-                row['input 1'] = f'"r{str(int(match.group(1)) - 1).rjust(2, str(0))},qty=2"'
+                row['input 1'] = f'r{str(int(match.group(1)) - 1).rjust(2, str(0))},qty=2'
     return row
 
 
