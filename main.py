@@ -1,37 +1,10 @@
-import csv
 import shutil
 from pathlib import Path
 
 import adders
 import modifiers
-
-
-def main():
-    modifiers_list = get_methods(modifiers)
-    adders_list = get_methods(adders)
-    templates = Path('templates')
-    results = Path('results')
-    excel = Path('D2RCasualSP').joinpath(Path('D2RCasualSP.mpq')).joinpath(Path('data')).joinpath(
-        Path('global')).joinpath(Path('excel'))
-
-    shutil.rmtree(results, ignore_errors=True)
-    shutil.copytree(templates, results)
-
-    for file in templates.joinpath(excel).iterdir():
-        with open(file, mode='r', newline='') as template_file:
-            with open(results.joinpath(excel).joinpath(file.name), mode='w', newline='') as result_file:
-                reader = csv.DictReader(template_file, delimiter='\t', dialect='excel-tab', quoting=csv.QUOTE_NONE,
-                                        quotechar=None)
-                writer = csv.DictWriter(result_file, delimiter='\t', fieldnames=reader.fieldnames,
-                                        dialect='excel-tab', quoting=csv.QUOTE_NONE, quotechar=None)
-                writer.writeheader()
-                for row in reader:
-                    for modifier in modifiers_list:
-                        row = modifier(file.name, row)
-                    writer.writerow(row)
-                for adder in adders_list:
-                    for row in adder(file.name):
-                        writer.writerow(row)
+from diablo_reader import DiabloReader
+from diablo_writer import DiabloWriter
 
 
 def get_methods(package):
@@ -40,4 +13,24 @@ def get_methods(package):
 
 
 if __name__ == '__main__':
-    main()
+    modifiers_list = get_methods(modifiers)
+    adders_list = get_methods(adders)
+    templates = Path('templates')
+    results = Path('results')
+    excel = Path('D2RCasualSP').joinpath(Path('D2RCasualSP.mpq')).joinpath(Path('data')).joinpath(
+        Path('global')).joinpath(Path('excel'))
+    shutil.rmtree(results, ignore_errors=True)
+    shutil.copytree(templates, results)
+    for file in templates.joinpath(excel).iterdir():
+        with open(file, mode='r', newline='') as template_file:
+            with open(results.joinpath(excel).joinpath(file.name), mode='w', newline='') as result_file:
+                reader = DiabloReader(template_file)
+                writer = DiabloWriter(result_file, fieldnames=reader.fieldnames)
+                writer.write_header()
+                for row in reader:
+                    for modifier in modifiers_list:
+                        row = modifier(file.name, row)
+                    writer.write_row(row)
+                for adder in adders_list:
+                    for row in adder(file.name):
+                        writer.write_row(row)
