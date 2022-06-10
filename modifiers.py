@@ -129,8 +129,8 @@ def better_gambling(filename, row):
         row['GambleRare'] = int(max_chance / 2)
         row['GambleSet'] = int(max_chance / 5)
         row['GambleUnique'] = int(max_chance / 10)
-        row['GambleUber'] = 10000
-        row['GambleUltra'] = 10000
+        row['GambleUber'] = int(row['GambleUber']) * 10
+        row['GambleUltra'] = int(row['GambleUltra']) * 10
     return row
 
 
