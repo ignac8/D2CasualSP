@@ -139,3 +139,9 @@ def better_shrines(filename, row):
         if row['Duration in frames']:
             row['Duration in frames'] = int(int(row['Duration in frames']) * 10)
     return row
+
+
+def no_experience_penalty(filename, row):
+    if filename == 'experience.txt':
+        row['ExpRatio'] = 1024
+    return row
