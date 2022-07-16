@@ -111,13 +111,13 @@ def more_skills_per_level(filename, row):
 def more_power(filename, row):
     if filename == 'charstats.txt':
         if row['ManaRegen']:
-            row['ManaRegen'] = int(int(row['ManaRegen']) / 10)
+            row['ManaRegen'] = int(int(row['ManaRegen']) / 5)
         if row['WalkVelocity']:
-            row['WalkVelocity'] = int(int(row['WalkVelocity']) * 1.5)
+            row['WalkVelocity'] = int(int(row['WalkVelocity']) * 1.25)
         if row['RunVelocity']:
-            row['RunVelocity'] = int(int(row['RunVelocity']) * 1.5)
+            row['RunVelocity'] = int(int(row['RunVelocity']) * 1.25)
         if row['RunDrain']:
-            row['RunDrain'] = int(int(row['RunDrain']) / 10)
+            row['RunDrain'] = int(int(row['RunDrain']) / 5)
         if row['LightRadius']:
             row['LightRadius'] = int(int(row['LightRadius']) * 2)
     return row
