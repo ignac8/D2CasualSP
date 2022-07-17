@@ -111,13 +111,13 @@ def more_skills_per_level(filename, row):
 def more_power(filename, row):
     if filename == 'charstats.txt':
         if row['ManaRegen']:
-            row['ManaRegen'] = int(int(row['ManaRegen']) / 5)
+            row['ManaRegen'] = int(int(row['ManaRegen']) / 10)
         if row['WalkVelocity']:
             row['WalkVelocity'] = int(int(row['WalkVelocity']) * 1.25)
         if row['RunVelocity']:
             row['RunVelocity'] = int(int(row['RunVelocity']) * 1.25)
         if row['RunDrain']:
-            row['RunDrain'] = int(int(row['RunDrain']) / 5)
+            row['RunDrain'] = int(int(row['RunDrain']) / 2)
         if row['LightRadius']:
             row['LightRadius'] = int(int(row['LightRadius']) * 2)
     return row
@@ -135,8 +135,8 @@ def better_gambling(filename, row):
     if filename == 'difficultylevels.txt':
         max_chance = 100000
         row['GambleRare'] = int(max_chance / 2)
-        row['GambleSet'] = int(max_chance / 5)
-        row['GambleUnique'] = int(max_chance / 10)
+        row['GambleSet'] = int(max_chance / 10)
+        row['GambleUnique'] = int(max_chance / 5)
         row['GambleUber'] = int(row['GambleUber']) * 10
         row['GambleUltra'] = int(row['GambleUltra']) * 10
     return row
@@ -152,4 +152,11 @@ def better_shrines(filename, row):
 def no_experience_penalty(filename, row):
     if filename == 'experience.txt':
         row['ExpRatio'] = 1024
+    return row
+
+
+def skills_on_left(filename, row):
+    if filename == 'skills.txt':
+        row['leftskill'] = int(True)
+        row['rightskill'] = int(True)
     return row
