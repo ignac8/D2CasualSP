@@ -155,8 +155,9 @@ def no_experience_penalty(filename, row):
     return row
 
 
-def skills_on_left(filename, row):
+def skill_freedom(filename, row):
     if filename == 'skills.txt':
         row['leftskill'] = int(True)
         row['rightskill'] = int(True)
+        row['InTown'] = int(True)
     return row
