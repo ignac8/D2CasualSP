@@ -28,22 +28,29 @@ def better_rune_drop(filename, row):
 
 def disable_ladder_only_cube_recipes(filename, row):
     if filename == 'cubemain.txt':
-        if row['ladder'] and int(row['ladder']):
-            row['ladder'] = int(False)
+        row['firstLadderSeason'] = ''
+        row['lastLadderSeason'] = ''
     return row
 
 
 def disable_ladder_only_runewords(filename, row):
     if filename == 'runes.txt':
-        if row['server'] and int(row['server']):
-            row['server'] = int(False)
+        row['firstLadderSeason'] = ''
+        row['lastLadderSeason'] = ''
     return row
 
 
 def disable_ladder_only_unique_items(filename, row):
     if filename == 'uniqueitems.txt':
-        if row['ladder'] and int(row['ladder']):
-            row['ladder'] = int(False)
+        row['firstLadderSeason'] = ''
+        row['lastLadderSeason'] = ''
+    return row
+
+
+def disable_ladder_only_drops(filename, row):
+    if filename == 'treasureclassex.txt':
+        row['firstLadderSeason'] = ''
+        row['lastLadderSeason'] = ''
     return row
 
 
