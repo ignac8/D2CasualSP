@@ -122,10 +122,10 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1				0	28				
 2 Ber Runes + 1 Flawless Sapphire -> Jah Rune	1				100					2	"r30,qty=2"							r31																																																																																							0
 2 Jah Runes + 1 Flawless Ruby -> Cham Rune	1				100					2	"r31,qty=2"							r32																																																																																							0
 2 Cham Runes + 1 Flawless Emerald -> Zod Rune	1				100					2	"r32,qty=2"							r33																																																																																							0
-1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor	1				100					2	"tors,nor,nos"	ibk						useitem				sock			1	6																																																																															0
-1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon	1				100					2	"weap,nor,nos"	ibk						useitem				sock			1	6																																																																															0
-1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm	1				100					2	"helm,nor,nos"	ibk						useitem				sock			1	6																																																																															0
-1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield	1				100					2	"shld,nor,nos"	ibk						useitem				sock			1	6																																																																															0
+1 Tal Rune + 1 Thul Rune + 1 Perfect Topaz + 1 Normal Torso Armor -> Socketed Torso Armor	1				100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
+1 Ral Rune + 1 Amn Rune + 1 Perfect Amethyst + 1 Normal Weapon -> Socketed Weapon	1				100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
+1 Ral Rune + 1 Thul Rune + 1 Perfect Sapphire + 1 Normal Helm -> Socketed Helm	1				100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
+1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield	1				100					4	"shld,nor,nos"	r07	r11	gpr				useitem				sock			1	6																																																																															0
 1 Eld Rune + 1 Chipped Gem (Any) + 1 Low Quality Weapon -> Normal Weapon	1				100					3	"weap,low"	r02	gem0					"usetype,nor"																																																																																							0
 1 El Rune + 1 Chipped Gem (Any) + 1 Low Quality Armor -> Normal Armor	1				100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Unique Weapon -> Exceptional Unique Weapon	1				100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
@@ -154,36 +154,37 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1				0	28				
 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor	1				100					4	"armo,bas,set"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon	1				100					4	"weap,exc,set"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor	1				100					4	"armo,exc,set"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r1	1				100					2	r02	ibk						r01																													r01																																																										
-r2	1				100					2	r03	ibk						r02																													r02																																																										
-r3	1				100					2	r04	ibk						r03																													r03																																																										
-r4	1				100					2	r05	ibk						r04																													r04																																																										
-r5	1				100					2	r06	ibk						r05																													r05																																																										
-r6	1				100					2	r07	ibk						r06																													r06																																																										
-r7	1				100					2	r08	ibk						r07																													r07																																																										
-r8	1				100					2	r09	ibk						r08																													r08																																																										
-r9	1				100					2	r10	ibk						r09																													r09																																																										
-r10	1				100					2	r11	ibk						r10																													r10																																																										
-r11	1				100					2	r12	ibk						r11																													r11																																																										
-r12	1				100					2	r13	ibk						r12																													r12																																																										
-r13	1				100					2	r14	ibk						r13																													r13																																																										
-r14	1				100					2	r15	ibk						r14																													r14																																																										
-r15	1				100					2	r16	ibk						r15																													r15																																																										
-r16	1				100					2	r17	ibk						r16																													r16																																																										
-r17	1				100					2	r18	ibk						r17																													r17																																																										
-r18	1				100					2	r19	ibk						r18																													r18																																																										
-r19	1				100					2	r20	ibk						r19																													r19																																																										
-r20	1				100					2	r21	ibk						r20																													r20																																																										
-r21	1				100					2	r22	ibk						r21																													r21																																																										
-r22	1				100					2	r23	ibk						r22																													r22																																																										
-r23	1				100					2	r24	ibk						r23																													r23																																																										
-r24	1				100					2	r25	ibk						r24																													r24																																																										
-r25	1				100					2	r26	ibk						r25																													r25																																																										
-r26	1				100					2	r27	ibk						r26																													r26																																																										
-r27	1				100					2	r28	ibk						r27																													r27																																																										
-r28	1				100					2	r29	ibk						r28																													r28																																																										
-r29	1				100					2	r30	ibk						r29																													r29																																																										
-r30	1				100					2	r31	ibk						r30																													r30																																																										
-r31	1				100					2	r32	ibk						r31																													r31																																																										
-r32	1				100					2	r33	ibk						r32																													r32																																																										
-r33	1				100					2	r34	ibk						r33																													r33																																																										
+r1	1				0					2	r02	ibk						r01																													r01																																																										
+r2	1				0					2	r03	ibk						r02																													r02																																																										
+r3	1				0					2	r04	ibk						r03																													r03																																																										
+r4	1				0					2	r05	ibk						r04																													r04																																																										
+r5	1				0					2	r06	ibk						r05																													r05																																																										
+r6	1				0					2	r07	ibk						r06																													r06																																																										
+r7	1				0					2	r08	ibk						r07																													r07																																																										
+r8	1				0					2	r09	ibk						r08																													r08																																																										
+r9	1				0					2	r10	ibk						r09																													r09																																																										
+r10	1				0					2	r11	ibk						r10																													r10																																																										
+r11	1				0					2	r12	ibk						r11																													r11																																																										
+r12	1				0					2	r13	ibk						r12																													r12																																																										
+r13	1				0					2	r14	ibk						r13																													r13																																																										
+r14	1				0					2	r15	ibk						r14																													r14																																																										
+r15	1				0					2	r16	ibk						r15																													r15																																																										
+r16	1				0					2	r17	ibk						r16																													r16																																																										
+r17	1				0					2	r18	ibk						r17																													r17																																																										
+r18	1				0					2	r19	ibk						r18																													r18																																																										
+r19	1				0					2	r20	ibk						r19																													r19																																																										
+r20	1				0					2	r21	ibk						r20																													r20																																																										
+r21	1				0					2	r22	ibk						r21																													r21																																																										
+r22	1				0					2	r23	ibk						r22																													r22																																																										
+r23	1				0					2	r24	ibk						r23																													r23																																																										
+r24	1				0					2	r25	ibk						r24																													r24																																																										
+r25	1				0					2	r26	ibk						r25																													r25																																																										
+r26	1				0					2	r27	ibk						r26																													r26																																																										
+r27	1				0					2	r28	ibk						r27																													r27																																																										
+r28	1				0					2	r29	ibk						r28																													r28																																																										
+r29	1				0					2	r30	ibk						r29																													r29																																																										
+r30	1				0					2	r31	ibk						r30																													r30																																																										
+r31	1				0					2	r32	ibk						r31																													r31																																																										
+r32	1				0					2	r33	ibk						r32																													r32																																																										
+runeword ready weapon	1				0					2	weap	ibk						"usetype,nor"				sock			1	6																																																																															
+runeword ready armor	1				0					2	armo	ibk						"usetype,nor"				sock			1	6																																																																															
