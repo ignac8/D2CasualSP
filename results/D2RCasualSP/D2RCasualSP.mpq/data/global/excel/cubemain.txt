@@ -186,5 +186,5 @@ r29	1				0					2	r30	ibk						r29																													r29
 r30	1				0					2	r31	ibk						r30																													r30																																																										
 r31	1				0					2	r32	ibk						r31																													r31																																																										
 r32	1				0					2	r33	ibk						r32																													r32																																																										
-runeword ready weapon	1				0					2	weap	ibk						"usetype,nor"				sock			1	6																																																																															
-runeword ready armor	1				0					2	armo	ibk						"usetype,nor"				sock			1	6																																																																															
+runeword ready weapon	1				0					2	weap	ibk						"usetype,nor"		50	50	sock			1	6																																																																															
+runeword ready armor	1				0					2	armo	ibk						"usetype,nor"		50	50	sock			1	6																																																																															

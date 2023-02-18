@@ -29,6 +29,8 @@ def prepare_for_runeword(filename):
         row['mod 1'] = 'sock'
         row['mod 1 min'] = str(1)
         row['mod 1 max'] = str(6)
+        row['plvl'] = 50
+        row['ilvl'] = 50
         rows.append(row)
 
         row = row.copy()
