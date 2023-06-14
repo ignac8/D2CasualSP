@@ -26,7 +26,7 @@ def better_rune_drop(filename, row):
     return row
 
 
-def disable_ladder_only(filename, row):
+def disable_ladder_only(_, row):
     row['firstLadderSeason'] = ''
     row['lastLadderSeason'] = ''
     return row
@@ -127,12 +127,4 @@ def better_shrines(filename, row):
 def no_experience_penalty(filename, row):
     if filename == 'experience.txt':
         row['ExpRatio'] = 1024
-    return row
-
-
-def skill_freedom(filename, row):
-    if filename == 'skills.txt':
-        row['leftskill'] = int(True)
-        row['rightskill'] = int(True)
-        row['InTown'] = int(True)
     return row
