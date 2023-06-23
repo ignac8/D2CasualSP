@@ -29,8 +29,8 @@ if __name__ == '__main__':
                 writer.write_header()
                 for row in reader:
                     for modifier in modifiers_list:
-                        row = modifier(file.name, row)
+                        row = modifier(file.name.lower(), row)
                     writer.write_row(row)
                 for adder in adders_list:
-                    for row in adder(file.name):
+                    for row in adder(file.name.lower()):
                         writer.write_row(row)
