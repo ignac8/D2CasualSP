@@ -27,8 +27,8 @@ def better_rune_drop(filename, row):
 
 
 def disable_ladder_only(_, row):
-    row['firstLadderSeason'] = ''
-    row['lastLadderSeason'] = ''
+    if 'ladder' in row and row['ladder']:
+        row['ladder'] = ''
     return row
 
 
@@ -76,11 +76,11 @@ def more_stats_per_level(filename, row):
     return row
 
 
-def more_skills_per_level(filename, row):
-    if filename == 'charstats.txt':
-        if row['SkillsPerLevel']:
-            row['SkillsPerLevel'] = int(int(row['SkillsPerLevel']) * 2)
-    return row
+# def more_skills_per_level(filename, row):
+#     if filename == 'charstats.txt':
+#         if row['SkillsPerLevel']:
+#             row['SkillsPerLevel'] = int(int(row['SkillsPerLevel']) * 2)
+#     return row
 
 
 def more_power(filename, row):
@@ -93,8 +93,8 @@ def more_power(filename, row):
             row['RunVelocity'] = int(int(row['RunVelocity']) * 1.25)
         if row['RunDrain']:
             row['RunDrain'] = int(int(row['RunDrain']) / 2)
-        if row['LightRadius']:
-            row['LightRadius'] = int(int(row['LightRadius']) * 2)
+        # if row['LightRadius']:
+        #     row['LightRadius'] = int(int(row['LightRadius']) * 2)
     return row
 
 
