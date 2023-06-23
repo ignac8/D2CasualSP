@@ -1,17 +1,17 @@
 LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	Cel3	Type4	Cel4
-1 Town	fl	0	1	46	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-1 Town	fl	2	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Town	fl	0	1	46	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+1 Town	fl	2	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Town	fl	2	4	7	River T A	4		-1		-1		-1
-1 Town	fl	2	8	11	River M A	6	River M B	7	River M C	8		-1
-1 Town	fl	2	12	15	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Town	fl	2	8	11	River M A	6	River M C	7	River M C	8		-1
+1 Town	fl	2	12	15	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Town	fl	2	16	19	River T A	4		-1		-1		-1
-1 Town	fl	2	20	24	River M A	6	River M B	7	River M C	8		-1
-1 Town	fl	3	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Town	fl	2	20	24	River M A	6	River M C	7	River M C	8		-1
+1 Town	fl	3	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Town	fl	3	4	7	River B A	5		-1		-1		-1
-1 Town	fl	3	8	11	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Town	fl	3	8	11	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Town	fl	3	12	15	River B A	5		-1		-1		-1
-1 Town	wr	0	0	18	F_WR	60	F_WR B	70		-1		-1
-1 Town	wl	0	0	18	F_WL	61	F_WL B	71		-1		-1
+1 Town	wr	0	0	18	F_WR	60		70		-1		-1
+1 Town	wl	0	0	18	F_WL	61		71		-1		-1
 1 Town	wtlr	0	15	15	F_WTLL	64		-1		-1		-1
 1 Town	wtlr	0	0	1	F_WTLL	64		-1		-1		-1
 1 Town	wtll	0	15	15	F_WR	60		-1		-1		-1
@@ -20,14 +20,14 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Town	wbr	0	5	-1	F_WBR	65		-1		-1		-1
 1 Town	wtr	0	-1	-1	F_WBL	62		-1		-1		-1
 1 Town	wbl	0	-1	-1	F_WTR	63		-1		-1		-1
-1 Town	wr	2	0	3	Stn_WR a	11	Stn_WR b	12		-1		-1
+1 Town	wr	2	0	3	Stn_WR a	11		12		-1		-1
 1 Town	wr	2	4	4	Stn_L R E	18		-1		-1		-1
-1 Town	wl	2	0	3	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Town	wl	2	0	3	Stn_WL a	13		14		-1		-1
 1 Town	wl	2	4	4	Stn_L L E	17		-1		-1		-1
-1 Town	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Town	wtr	2	0	4	Stn_WL a	13		14		-1		-1
 1 Town	wtlr	2	0	4	Stn_X	16		-1		-1		-1
 1 Town	wtll	2	0	4	Stn_X	16		-1		-1		-1
-1 Town	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
+1 Town	wbl	2	0	4	Stn_WR a	11		12		-1		-1
 1 Town	fl	4	0	3	Bridge M	79		-1		-1		-1
 1 Town	fl	4	4	4	Bridge T A	76		-1		-1		-1
 1 Town	fl	4	5	6	Bridge M	79		-1		-1		-1
@@ -90,18 +90,18 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Wilderness	wl	0	1	1	WLD 1	35		-1		-1		-1
 1 Wilderness	wl	0	2	-1	WL A	21		-1		-1		-1
 1 Wilderness	wtll	0	-1	-1	WTLL	24		-1		-1		-1
-1 Wilderness	fl	0	1	47	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	fl	0	1	47	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Wilderness	fl	0	54	54	Waypoint	307		-1		-1		-1
-1 Wilderness	fl	0	49	49	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-1 Wilderness	fl	2	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	fl	0	49	49	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	fl	2	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Wilderness	fl	2	4	7	River T A	4		-1		-1		-1
-1 Wilderness	fl	2	8	11	River M A	6	River M B	7	River M C	8		-1
-1 Wilderness	fl	2	12	15	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	fl	2	8	11	River M A	6	River M C	7	River M C	8		-1
+1 Wilderness	fl	2	12	15	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Wilderness	fl	2	16	19	River T A	4		-1		-1		-1
-1 Wilderness	fl	2	20	24	River M A	6	River M B	7	River M C	8		-1
-1 Wilderness	fl	3	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	fl	2	20	24	River M A	6	River M C	7	River M C	8		-1
+1 Wilderness	fl	3	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Wilderness	fl	3	4	7	River B A	5		-1		-1		-1
-1 Wilderness	fl	3	8	11	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	fl	3	8	11	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Wilderness	fl	3	12	15	River B A	5		-1		-1		-1
 1 Wilderness	wr	10	2	2	WBL	22		-1		-1		-1
 1 Wilderness	wr	10	0	1	WR A	20		-1		-1		-1
@@ -127,14 +127,14 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Wilderness	wr	10	9	9	Crypt_12	437		-1		-1		-1
 1 Wilderness	wr	10	12	12	Crypt_21	438		-1		-1		-1
 1 Wilderness	wl	10	13	13	Crypt_22	439		-1		-1		-1
-1 Wilderness	fl	10	0	0	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-1 Wilderness	fl	10	5	11	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-1 Wilderness	wr	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
-1 Wilderness	wl	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
-1 Wilderness	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Wilderness	fl	10	0	0	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	fl	10	5	11	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+1 Wilderness	wr	2	0	4	Stn_WR a	11		12		-1		-1
+1 Wilderness	wl	2	0	4	Stn_WL a	13		14		-1		-1
+1 Wilderness	wtr	2	0	4	Stn_WL a	13		14		-1		-1
 1 Wilderness	wtlr	2	0	4	Stn_X	16		-1		-1		-1
 1 Wilderness	wtll	2	0	4	Stn_X	16		-1		-1		-1
-1 Wilderness	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
+1 Wilderness	wbl	2	0	4	Stn_WR a	11		12		-1		-1
 1 Wilderness	wr	2	0	13	F_WR	60		-1		-1		-1
 1 Wilderness	wl	2	0	13	F_WL	61		-1		-1		-1
 1 Wilderness	wtlr	2	-1	-1	F_WTLL	64		-1		-1		-1
@@ -142,22 +142,22 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Wilderness	wbr	2	-1	-1	F_WBR	65		-1		-1		-1
 1 Wilderness	wtr	2	-1	-1	F_WTR	63		-1		-1		-1
 1 Wilderness	wbl	2	-1	-1	F_WBL	62		-1		-1		-1
-1 Wilderness	wr	2	14	23	Stn_WR a	11	Stn_WR b	12		-1		-1
-1 Wilderness	wl	2	14	23	Stn_WL a	13	Stn_WL b	14		-1		-1
-1 Wilderness	wr	3	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-1 Wilderness	wl	3	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
-1 Wilderness	wtr	3	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+1 Wilderness	wr	2	14	23	Stn_WR a	11		12		-1		-1
+1 Wilderness	wl	2	14	23	Stn_WL a	13		14		-1		-1
+1 Wilderness	wr	3	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+1 Wilderness	wl	3	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
+1 Wilderness	wtr	3	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 1 Wilderness	wtlr	3	-1	-1	C_WTLL	55		-1		-1		-1
 1 Wilderness	wtll	3	-1	-1	C_WTLL	55		-1		-1		-1
 1 Wilderness	wbr	3	-1	-1	C_WBR	50		-1		-1		-1
 1 Wilderness	wbl	3	-1	-1	C_WL b	52		-1		-1		-1
-1 Wilderness	wr	23	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-1 Wilderness	wl	23	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+1 Wilderness	wr	23	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+1 Wilderness	wl	23	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 1 Wilderness	wtr	23	-1	-1	C_WRE 2	59		-1		-1		-1
 1 Wilderness	wtlr	23	-1	-1	C_WTLL	55		-1		-1		-1
 1 Wilderness	wtll	23	-1	-1	C_WTLL	55		-1		-1		-1
 1 Wilderness	wbr	23	-1	-1	C_WBR	50		-1		-1		-1
-1 Wilderness	wbl	23	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
+1 Wilderness	wbl	23	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
 1 Wilderness	wle	3	0	0	C_WLE 1	56		-1		-1		-1
 1 Wilderness	wle	3	1	1	C_WLE 2	57		-1		-1		-1
 1 Wilderness	wre	4	0	0	C_WRE 1	58		-1		-1		-1
@@ -228,11 +228,11 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Wilderness	wle	0	0	0	WLE B	33		-1		-1		-1
 1 Wilderness	wle	1	0	0	WLE A	32		-1		-1		-1
 1 Wilderness	wle	1	1	1	WLE B	33		-1		-1		-1
-1 Wilderness	wl	2	-1	-1	WL A	21	WL B	39		-1		-1
-1 Wilderness	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+1 Wilderness	wl	2	-1	-1	WL A	21		39		-1		-1
+1 Wilderness	wl	4	-1	-1	WL A	21		39		-1		-1
 1 Catacombs	fl	5	3	3	Waypoint	307		-1		-1		-1
-1 Catacombs	wr	0	-1	-1	WR A	20	WR B	38		-1		-1
-1 Catacombs	wl	0	-1	-1	WL A	21	WL B	39		-1		-1
+1 Catacombs	wr	0	-1	-1	WR A	20		38		-1		-1
+1 Catacombs	wl	0	-1	-1	WL A	21		39		-1		-1
 1 Catacombs	wtlr	0	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wtll	0	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wbr	0	-1	-1	WBR	25		-1		-1		-1
@@ -247,8 +247,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Catacombs	wle	1	0	0	WLE A	32		-1		-1		-1
 1 Catacombs	wle	1	1	1	WLE B	33		-1		-1		-1
 1 Catacombs	co	1	0	3	WBR	25		-1		-1		-1
-1 Catacombs	wr	2	-1	-1	WR A	20	WR B	38		-1		-1
-1 Catacombs	wl	2	-1	-1	WL A	21	WL B	39		-1		-1
+1 Catacombs	wr	2	-1	-1	WR A	20		38		-1		-1
+1 Catacombs	wl	2	-1	-1	WL A	21		39		-1		-1
 1 Catacombs	wtlr	2	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wtll	2	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wbr	2	-1	-1	WBR	25		-1		-1		-1
@@ -329,8 +329,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Catacombs	wre	10	1	1	Cave M BCT	159		-1		-1		-1
 1 Catacombs	wre	10	3	3	Cave M RWS D	158		-1		-1		-1
 1 Catacombs	wre	10	0	0	G_WLE A BROKE	86		-1		-1		-1
-1 Catacombs	wr	0	-1	-1	WR A	20	WR B	38		-1		-1
-1 Catacombs	wl	0	-1	-1	WL A	21	WL B	39		-1		-1
+1 Catacombs	wr	0	-1	-1	WR A	20		38		-1		-1
+1 Catacombs	wl	0	-1	-1	WL A	21		39		-1		-1
 1 Catacombs	wtlr	0	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wtll	0	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wbr	0	-1	-1	WBR	25		-1		-1		-1
@@ -345,8 +345,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Catacombs	wle	1	0	0	WLE A	32		-1		-1		-1
 1 Catacombs	wle	1	1	1	WLE B	33		-1		-1		-1
 1 Catacombs	co	1	0	3	WBR	25		-1		-1		-1
-1 Catacombs	wr	2	-1	-1	WR A	20	WR B	38		-1		-1
-1 Catacombs	wl	2	-1	-1	WL A	21	WL B	39		-1		-1
+1 Catacombs	wr	2	-1	-1	WR A	20		38		-1		-1
+1 Catacombs	wl	2	-1	-1	WL A	21		39		-1		-1
 1 Catacombs	wtlr	2	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wtll	2	-1	-1	WTLL	24		-1		-1		-1
 1 Catacombs	wbr	2	-1	-1	WBR	25		-1		-1		-1
@@ -357,8 +357,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Catacombs	wld	2	1	1	WLD A	28		-1		-1		-1
 1 Catacombs	wld	2	0	0	WLD B	29		-1		-1		-1
 1 Catacombs	wre	10	2	2	G_WLE B - PD2 END	87		-1		-1		-1
-1 Crypt	wr	0	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	0	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	0	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	0	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	0	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	0	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	0	-1	-1	WBR	25		-1		-1		-1
@@ -375,8 +375,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	wle	0	0	0	WLE B	33		-1		-1		-1
 1 Crypt	wle	1	0	0	WLE A	32		-1		-1		-1
 1 Crypt	wle	1	1	1	WLE B	33		-1		-1		-1
-1 Crypt	wr	0	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	0	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	0	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	0	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	0	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	0	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	0	-1	-1	WBR	25		-1		-1		-1
@@ -393,8 +393,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	co	0	0	0	WBR	25		-1		-1		-1
 1 Crypt	fl	5	6	6	Mona_ALTER A	118		-1		-1		-1
 1 Crypt	fl	5	8	8	Mona_ALTER A	118		-1		-1		-1
-1 Crypt	wr	1	0	3	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	1	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	1	0	3	WR A	20		38		-1		-1
+1 Crypt	wl	1	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	1	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	1	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	1	-1	-1	WBR	25		-1		-1		-1
@@ -407,8 +407,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	wre	1	0	0	WRE A	30		-1		-1		-1
 1 Crypt	wre	1	1	1	WRE B	31		-1		-1		-1
 1 Crypt	fl	4	28	28	Waypoint	307		-1		-1		-1
-1 Crypt	wr	4	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	4	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	4	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	4	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	4	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	4	-1	-1	WBR	25		-1		-1		-1
@@ -418,32 +418,32 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	wrd	4	5	5	WRD A	26		-1		-1		-1
 1 Crypt	wrd	4	4	4	WR A	20		-1		-1		-1
 1 Crypt	wrd	4	3	3	WRD B	27		-1		-1		-1
-1 Crypt	wr	14	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	14	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	14	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	14	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	14	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	14	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	14	-1	-1	WBR	25		-1		-1		-1
 1 Crypt	wtr	14	-1	-1	WTR	23		-1		-1		-1
 1 Crypt	wbl	14	-1	-1	WBL	22		-1		-1		-1
 1 Crypt	fl	0	54	54	Waypoint	307		-1		-1		-1
-1 Crypt	wr	1	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	1	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	1	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	1	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	1	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	1	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	1	-1	-1	WBR	25		-1		-1		-1
 1 Crypt	wtr	1	-1	-1	WTR	23		-1		-1		-1
 1 Crypt	wbl	1	-1	-1	WBL	22		-1		-1		-1
-1 Crypt	wr	2	0	3	Stn_WR a	11	Stn_WR b	12		-1		-1
+1 Crypt	wr	2	0	3	Stn_WR a	11		12		-1		-1
 1 Crypt	wr	2	4	4	Stn_L R E	18		-1		-1		-1
-1 Crypt	wl	2	0	3	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Crypt	wl	2	0	3	Stn_WL a	13		14		-1		-1
 1 Crypt	wl	2	4	4	Stn_L L E	17		-1		-1		-1
-1 Crypt	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Crypt	wtr	2	0	4	Stn_WL a	13		14		-1		-1
 1 Crypt	wtlr	2	0	4	Stn_X	16		-1		-1		-1
 1 Crypt	wtll	2	0	4	Stn_X	16		-1		-1		-1
-1 Crypt	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
+1 Crypt	wbl	2	0	4	Stn_WR a	11		12		-1		-1
 1 Crypt	fl	4	28	28	Waypoint	307		-1		-1		-1
-1 Crypt	wr	4	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	4	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	4	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	4	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	4	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	4	-1	-1	WBR	25		-1		-1		-1
@@ -457,8 +457,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	wrd	4	3	3	WRD B	27		-1		-1		-1
 1 Crypt	wld	4	1	1	WLD B	29		-1		-1		-1
 1 Crypt	wld	4	0	0	WLD A	28		-1		-1		-1
-1 Crypt	wr	6	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	6	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	6	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	6	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	6	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	6	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	6	-1	-1	WBR	25		-1		-1		-1
@@ -494,8 +494,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	wbr	33	-1	-1	P_WBR	188		-1		-1		-1
 1 Crypt	wtr	33	-1	-1	P_WTR	186		-1		-1		-1
 1 Crypt	wbl	33	-1	-1	P_WBL	185		-1		-1		-1
-1 Crypt	wr	53	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	53	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	53	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	53	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	53	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	53	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	53	-1	-1	WBR	25		-1		-1		-1
@@ -505,8 +505,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	wrd	53	1	1	WRD 1	34		-1		-1		-1
 1 Crypt	wld	53	1	1	WL A	21		-1		-1		-1
 1 Crypt	wld	53	0	0	WLD 1	35		-1		-1		-1
-1 Crypt	wr	55	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	55	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	55	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	55	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wtlr	55	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wtll	55	-1	-1	WTLL	24		-1		-1		-1
 1 Crypt	wbr	55	-1	-1	WBR	25		-1		-1		-1
@@ -516,8 +516,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Crypt	wrd	55	1	1	WRD 1	34		-1		-1		-1
 1 Crypt	wld	55	1	1	WL A	21		-1		-1		-1
 1 Crypt	wld	55	0	0	WLD 1	35		-1		-1		-1
-1 Crypt	wr	35	-1	-1	WR A	20	WR B	38		-1		-1
-1 Crypt	wl	35	-1	-1	WL A	21	WL B	39		-1		-1
+1 Crypt	wr	35	-1	-1	WR A	20		38		-1		-1
+1 Crypt	wl	35	-1	-1	WL A	21		39		-1		-1
 1 Crypt	wr	45	-1	-1	WR A	20		-1		-1		-1
 1 Crypt	wl	45	0	4	WL A	21		-1		-1		-1
 1 Crypt	wl	45	5	6	WBR	25		-1		-1		-1
@@ -626,23 +626,23 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Jail	fl	21	2	2	FLE 2 L	40		-1		-1		-1
 1 Jail	fl	21	3	3	FLE 3 B	43		-1		-1		-1
 1 Courtyard	fl	0	54	54	Waypoint	307		-1		-1		-1
-1 Courtyard	wr	1	-1	-1	WR A	20	WR B	38		-1		-1
-1 Courtyard	wl	1	-1	-1	WL A	21	WL B	39		-1		-1
+1 Courtyard	wr	1	-1	-1	WR A	20		38		-1		-1
+1 Courtyard	wl	1	-1	-1	WL A	21		39		-1		-1
 1 Courtyard	wtlr	1	-1	-1	WTLL	24		-1		-1		-1
 1 Courtyard	wtll	1	-1	-1	WTLL	24		-1		-1		-1
 1 Courtyard	wbr	1	-1	-1	WBR	25		-1		-1		-1
 1 Courtyard	wtr	1	-1	-1	WTR	23		-1		-1		-1
 1 Courtyard	wbl	1	-1	-1	WBL	22		-1		-1		-1
-1 Courtyard	wr	2	-1	-1	WR A	20	WR B	38		-1		-1
-1 Courtyard	wl	2	-1	-1	WL A	21	WL B	39		-1		-1
+1 Courtyard	wr	2	-1	-1	WR A	20		38		-1		-1
+1 Courtyard	wl	2	-1	-1	WL A	21		39		-1		-1
 1 Courtyard	wtlr	2	-1	-1	WTLL	24		-1		-1		-1
 1 Courtyard	wtll	2	-1	-1	WTLL	24		-1		-1		-1
 1 Courtyard	wbr	2	-1	-1	WBR	25		-1		-1		-1
 1 Courtyard	wtr	2	-1	-1	WTR	23		-1		-1		-1
 1 Courtyard	wbl	2	-1	-1	WBL	22		-1		-1		-1
 1 Courtyard	fl	4	28	28	Waypoint	307		-1		-1		-1
-1 Courtyard	wr	4	-1	-1	WR A	20	WR B	38		-1		-1
-1 Courtyard	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+1 Courtyard	wr	4	-1	-1	WR A	20		38		-1		-1
+1 Courtyard	wl	4	-1	-1	WL A	21		39		-1		-1
 1 Courtyard	wtlr	4	-1	-1	WTLL	24		-1		-1		-1
 1 Courtyard	wtll	4	-1	-1	WTLL	24		-1		-1		-1
 1 Courtyard	wbr	4	-1	-1	WBR	25		-1		-1		-1
@@ -710,39 +710,39 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Cave	fl	0	16	16	Cave LBotX	131		-1		-1		-1
 1 Cave	fl	0	17	17	Cave Lbot	130		-1		-1		-1
 1 Cave	fl	2	0	0	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	1	1	Cave LA	120	Cave LB	169	Cave LC	171		-1
-1 Cave	fl	2	2	2	Cave RA	121	Cave RB	170	Cave RC	172		-1
+1 Cave	fl	2	1	1	Cave LA	120	Cave LC	169	Cave LC	171		-1
+1 Cave	fl	2	2	2	Cave RA	121	Cave RC	170	Cave RC	172		-1
 1 Cave	fl	2	3	3	Cave Bot	122		-1		-1		-1
 1 Cave	fl	2	4	4	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	5	5	Cave LA	120	Cave LB	169	Cave LC	171		-1
+1 Cave	fl	2	5	5	Cave LA	120	Cave LC	169	Cave LC	171		-1
 1 Cave	fl	2	6	6	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	7	7	Cave LA	120	Cave LB	169	Cave LC	171		-1
+1 Cave	fl	2	7	7	Cave LA	120	Cave LC	169	Cave LC	171		-1
 1 Cave	fl	2	8	8	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	9	9	Cave LA	120	Cave LB	169	Cave LC	171		-1
+1 Cave	fl	2	9	9	Cave LA	120	Cave LC	169	Cave LC	171		-1
 1 Cave	fl	2	10	10	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	11	11	Cave LA	120	Cave LB	169	Cave LC	171		-1
+1 Cave	fl	2	11	11	Cave LA	120	Cave LC	169	Cave LC	171		-1
 1 Cave	fl	2	12	12	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	13	13	Cave LA	120	Cave LB	169	Cave LC	171		-1
+1 Cave	fl	2	13	13	Cave LA	120	Cave LC	169	Cave LC	171		-1
 1 Cave	fl	2	14	14	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	15	15	Cave LA	120	Cave LB	169	Cave LC	171		-1
+1 Cave	fl	2	15	15	Cave LA	120	Cave LC	169	Cave LC	171		-1
 1 Cave	fl	2	16	19	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	20	23	Cave RA	121	Cave RB	170	Cave RC	172		-1
+1 Cave	fl	2	20	23	Cave RA	121	Cave RC	170	Cave RC	172		-1
 1 Cave	fl	2	24	25	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	26	27	Cave RA	121	Cave RB	170	Cave RC	172		-1
+1 Cave	fl	2	26	27	Cave RA	121	Cave RC	170	Cave RC	172		-1
 1 Cave	fl	2	28	30	Cave fill	124		-1		-1		-1
 1 Cave	fl	2	31	31	Cave Top	123		-1		-1		-1
 1 Cave	fl	2	46	46	Cave fill	124		-1		-1		-1
-1 Cave	fl	2	47	47	Cave LA	120	Cave LB	169	Cave LC	171		-1
+1 Cave	fl	2	47	47	Cave LA	120	Cave LC	169	Cave LC	171		-1
 1 Cave	fl	2	49	49	Cave fill	124		-1		-1		-1
 1 Cave	fl	2	50	50	Cave BlngXA	139		-1		-1		-1
 1 Cave	fl	2	51	51	Cave BlngL	140		-1		-1		-1
 1 Cave	fl	2	52	52	Cave fill	124		-1		-1		-1
 1 Cave	fl	2	53	53	Cave BlngXA	139		-1		-1		-1
 1 Cave	fl	2	54	54	Cave BlngXB	138		-1		-1		-1
-1 Cave	fl	2	55	55	Cave RA	121	Cave RB	170	Cave RC	172		-1
+1 Cave	fl	2	55	55	Cave RA	121	Cave RC	170	Cave RC	172		-1
 1 Cave	fl	2	56	56	Cave BngR	137		-1		-1		-1
-1 Cave	fl	2	59	59	Cave LA	120	Cave LB	169	Cave LC	171		-1
-1 Cave	fl	2	61	61	Cave RA	121	Cave RB	170	Cave RC	172		-1
+1 Cave	fl	2	59	59	Cave LA	120	Cave LC	169	Cave LC	171		-1
+1 Cave	fl	2	61	61	Cave RA	121	Cave RC	170	Cave RC	172		-1
 1 Cave	fl	2	33	34	Cave fill	124		-1		-1		-1
 1 Cave	fl	2	36	36	Cave fill	124		-1		-1		-1
 1 Cave	fl	2	43	43	Cave fill	124		-1		-1		-1
@@ -808,44 +808,44 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Cave	fl	4	2	2	CDwn_2	179		-1		-1		-1
 1 Cave	fl	4	3	3	CDwn_3	180		-1		-1		-1
 1 Tristram	fl	0	47	47	Cains Gibet	303		-1		-1		-1
-1 Tristram	wr	1	0	6	WR A	20	WR B	38		-1		-1
-1 Tristram	wl	1	0	10	WL A	21	WL B	39		-1		-1
+1 Tristram	wr	1	0	6	WR A	20		38		-1		-1
+1 Tristram	wl	1	0	10	WL A	21		39		-1		-1
 1 Tristram	wtlr	1	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wtll	1	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wbr	1	0	0	WBR	25		-1		-1		-1
 1 Tristram	wtr	1	0	0	WTR	23		-1		-1		-1
 1 Tristram	wbl	1	0	0	WBL	22		-1		-1		-1
-1 Tristram	wr	4	0	4	WR A	20	WR B	38		-1		-1
-1 Tristram	wl	4	0	2	WL A	21	WL B	39		-1		-1
+1 Tristram	wr	4	0	4	WR A	20		38		-1		-1
+1 Tristram	wl	4	0	2	WL A	21		39		-1		-1
 1 Tristram	wtlr	4	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wtll	4	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wbr	4	0	0	WBR	25		-1		-1		-1
 1 Tristram	wtr	4	0	0	WTR	23		-1		-1		-1
 1 Tristram	wbl	4	0	0	WBL	22		-1		-1		-1
-1 Tristram	wr	5	0	2	WR A	20	WR B	38		-1		-1
-1 Tristram	wl	5	0	8	WL A	21	WL B	39		-1		-1
+1 Tristram	wr	5	0	2	WR A	20		38		-1		-1
+1 Tristram	wl	5	0	8	WL A	21		39		-1		-1
 1 Tristram	wtlr	5	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wtll	5	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wbr	5	0	0	WBR	25		-1		-1		-1
 1 Tristram	wtr	5	0	0	WTR	23		-1		-1		-1
 1 Tristram	wbl	5	0	0	WBL	22		-1		-1		-1
-1 Tristram	wr	6	0	7	WR A	20	WR B	38		-1		-1
-1 Tristram	wl	6	4	6	WL A	21	WL B	39		-1		-1
+1 Tristram	wr	6	0	7	WR A	20		38		-1		-1
+1 Tristram	wl	6	4	6	WL A	21		39		-1		-1
 1 Tristram	wtlr	6	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wtll	6	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wbr	6	0	0	WBR	25		-1		-1		-1
 1 Tristram	wtr	6	0	0	WTR	23		-1		-1		-1
 1 Tristram	wbl	6	0	0	WBL	22		-1		-1		-1
 1 Tristram	co	6	4	4	Co	90		-1		-1		-1
-1 Tristram	wr	7	0	5	WR A	20	WR B	38		-1		-1
-1 Tristram	wl	7	0	4	WL A	21	WL B	39		-1		-1
+1 Tristram	wr	7	0	5	WR A	20		38		-1		-1
+1 Tristram	wl	7	0	4	WL A	21		39		-1		-1
 1 Tristram	wtlr	7	0	2	WTLL	24		-1		-1		-1
 1 Tristram	wtll	7	0	1	WTLL	24		-1		-1		-1
 1 Tristram	wbr	7	0	1	WBR	25		-1		-1		-1
 1 Tristram	wtr	7	0	0	WTR	23		-1		-1		-1
 1 Tristram	wbl	7	0	0	WBL	22		-1		-1		-1
-1 Tristram	wr	10	0	7	WR A	20	WR B	38		-1		-1
-1 Tristram	wl	10	4	6	WL A	21	WL B	39		-1		-1
+1 Tristram	wr	10	0	7	WR A	20		38		-1		-1
+1 Tristram	wl	10	4	6	WL A	21		39		-1		-1
 1 Tristram	wtlr	10	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wtll	10	0	0	WTLL	24		-1		-1		-1
 1 Tristram	wbr	10	0	0	WBR	25		-1		-1		-1
@@ -853,26 +853,26 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Tristram	wbl	10	0	0	WBL	22		-1		-1		-1
 1 Tristram	co	10	4	4	Co	90		-1		-1		-1
 1 Tristram	fl	2	4	7	River T A	4		-1		-1		-1
-1 Tristram	fl	2	8	11	River M A	6	River M B	7	River M C	8		-1
-1 Tristram	fl	2	12	15	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Tristram	fl	2	8	11	River M A	6	River M C	7	River M C	8		-1
+1 Tristram	fl	2	12	15	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Tristram	fl	2	16	19	River T A	4		-1		-1		-1
-1 Tristram	fl	2	20	24	River M A	6	River M B	7	River M C	8		-1
-1 Tristram	fl	3	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Tristram	fl	2	20	24	River M A	6	River M C	7	River M C	8		-1
+1 Tristram	fl	3	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Tristram	fl	3	4	7	River B A	5		-1		-1		-1
-1 Tristram	fl	3	8	11	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+1 Tristram	fl	3	8	11	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 1 Tristram	fl	3	12	15	River B A	5		-1		-1		-1
-1 Tristram	wr	2	0	3	Stn_WR a	11	Stn_WR b	12		-1		-1
+1 Tristram	wr	2	0	3	Stn_WR a	11		12		-1		-1
 1 Tristram	wr	2	4	4	Stn_L R E	18		-1		-1		-1
-1 Tristram	wl	2	0	3	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Tristram	wl	2	0	3	Stn_WL a	13		14		-1		-1
 1 Tristram	wl	2	4	4	Stn_L L E	17		-1		-1		-1
-1 Tristram	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Tristram	wtr	2	0	4	Stn_WL a	13		14		-1		-1
 1 Tristram	wtlr	2	0	4	Stn_X	16		-1		-1		-1
 1 Tristram	wtll	2	0	4	Stn_X	16		-1		-1		-1
-1 Tristram	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
-1 Tristram	wr	2	14	23	Stn_WR a	11	Stn_WR b	12		-1		-1
-1 Tristram	wl	2	14	23	Stn_WL a	13	Stn_WL b	14		-1		-1
-1 Cathedral	wr	0	-1	-1	WR A	20	WR B	38		-1		-1
-1 Cathedral	wl	0	-1	-1	WL A	21	WL B	39		-1		-1
+1 Tristram	wbl	2	0	4	Stn_WR a	11		12		-1		-1
+1 Tristram	wr	2	14	23	Stn_WR a	11		12		-1		-1
+1 Tristram	wl	2	14	23	Stn_WL a	13		14		-1		-1
+1 Cathedral	wr	0	-1	-1	WR A	20		38		-1		-1
+1 Cathedral	wl	0	-1	-1	WL A	21		39		-1		-1
 1 Cathedral	wtlr	0	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wtll	0	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wbr	0	-1	-1	WBR	25		-1		-1		-1
@@ -889,8 +889,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Cathedral	co	0	0	0	WBR	25		-1		-1		-1
 1 Cathedral	fl	5	6	6	Mona_ALTER A	118		-1		-1		-1
 1 Cathedral	fl	5	8	8	Mona_ALTER A	118		-1		-1		-1
-1 Cathedral	wr	1	0	3	WR A	20	WR B	38		-1		-1
-1 Cathedral	wl	1	-1	-1	WL A	21	WL B	39		-1		-1
+1 Cathedral	wr	1	0	3	WR A	20		38		-1		-1
+1 Cathedral	wl	1	-1	-1	WL A	21		39		-1		-1
 1 Cathedral	wtlr	1	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wtll	1	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wbr	1	-1	-1	WBR	25		-1		-1		-1
@@ -903,8 +903,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Cathedral	wre	1	0	0	WRE A	30		-1		-1		-1
 1 Cathedral	wre	1	1	1	WRE B	31		-1		-1		-1
 1 Cathedral	fl	4	28	28	Waypoint	307		-1		-1		-1
-1 Cathedral	wr	4	-1	-1	WR A	20	WR B	38		-1		-1
-1 Cathedral	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+1 Cathedral	wr	4	-1	-1	WR A	20		38		-1		-1
+1 Cathedral	wl	4	-1	-1	WL A	21		39		-1		-1
 1 Cathedral	wtlr	4	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wtll	4	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wbr	4	-1	-1	WBR	25		-1		-1		-1
@@ -914,16 +914,16 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Cathedral	wrd	4	5	5	WRD A	26		-1		-1		-1
 1 Cathedral	wrd	4	4	4	WR A	20		-1		-1		-1
 1 Cathedral	wrd	4	3	3	WRD B	27		-1		-1		-1
-1 Cathedral	wr	14	-1	-1	WR A	20	WR B	38		-1		-1
-1 Cathedral	wl	14	-1	-1	WL A	21	WL B	39		-1		-1
+1 Cathedral	wr	14	-1	-1	WR A	20		38		-1		-1
+1 Cathedral	wl	14	-1	-1	WL A	21		39		-1		-1
 1 Cathedral	wtlr	14	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wtll	14	-1	-1	WTLL	24		-1		-1		-1
 1 Cathedral	wbr	14	-1	-1	WBR	25		-1		-1		-1
 1 Cathedral	wtr	14	-1	-1	WTR	23		-1		-1		-1
 1 Cathedral	wbl	14	-1	-1	WBL	22		-1		-1		-1
-1 Monestary	fl	0	1	46	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-1 Monestary	wr	1	-1	-1	WR A	20	WR B	38		-1		-1
-1 Monestary	wl	1	-1	-1	WL A	21	WL B	39		-1		-1
+1 Monestary	fl	0	1	46	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+1 Monestary	wr	1	-1	-1	WR A	20		38		-1		-1
+1 Monestary	wl	1	-1	-1	WL A	21		39		-1		-1
 1 Monestary	wtlr	1	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wtll	1	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wbr	1	-1	-1	WBR	25		-1		-1		-1
@@ -933,16 +933,16 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Monestary	wrd	1	1	1	WRD 1	34		-1		-1		-1
 1 Monestary	wld	1	0	0	WL A	21		-1		-1		-1
 1 Monestary	wld	1	1	1	WLD 1	35		-1		-1		-1
-1 Monestary	wr	2	0	3	Stn_WR a	11	Stn_WR b	12		-1		-1
+1 Monestary	wr	2	0	3	Stn_WR a	11		12		-1		-1
 1 Monestary	wr	2	4	4	Stn_L R E	18		-1		-1		-1
-1 Monestary	wl	2	0	3	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Monestary	wl	2	0	3	Stn_WL a	13		14		-1		-1
 1 Monestary	wl	2	4	4	Stn_L L E	17		-1		-1		-1
-1 Monestary	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+1 Monestary	wtr	2	0	4	Stn_WL a	13		14		-1		-1
 1 Monestary	wtlr	2	0	4	Stn_X	16		-1		-1		-1
 1 Monestary	wtll	2	0	4	Stn_X	16		-1		-1		-1
-1 Monestary	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
-1 Monestary	wr	4	-1	-1	WR A	20	WR B	38		-1		-1
-1 Monestary	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+1 Monestary	wbl	2	0	4	Stn_WR a	11		12		-1		-1
+1 Monestary	wr	4	-1	-1	WR A	20		38		-1		-1
+1 Monestary	wl	4	-1	-1	WL A	21		39		-1		-1
 1 Monestary	wtlr	4	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wtll	4	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wbr	4	-1	-1	WBR	25		-1		-1		-1
@@ -952,8 +952,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Monestary	wrd	4	1	1	WRD A	26		-1		-1		-1
 1 Monestary	wld	4	0	0	WLD A	28		-1		-1		-1
 1 Monestary	wld	4	1	1	WLD B	29		-1		-1		-1
-1 Monestary	wr	6	-1	-1	WR A	20	WR B	38		-1		-1
-1 Monestary	wl	6	-1	-1	WL A	21	WL B	39		-1		-1
+1 Monestary	wr	6	-1	-1	WR A	20		38		-1		-1
+1 Monestary	wl	6	-1	-1	WL A	21		39		-1		-1
 1 Monestary	wtlr	6	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wtll	6	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wbr	6	-1	-1	WBR	25		-1		-1		-1
@@ -961,8 +961,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Monestary	wbl	6	-1	-1	WBL	22		-1		-1		-1
 1 Monestary	wrd	6	0	0	WRE A	30		-1		-1		-1
 1 Monestary	wrd	6	1	1	WRE B	31		-1		-1		-1
-1 Monestary	wr	7	-1	-1	WR A	20	WR B	38		-1		-1
-1 Monestary	wl	7	-1	-1	WL A	21	WL B	39		-1		-1
+1 Monestary	wr	7	-1	-1	WR A	20		38		-1		-1
+1 Monestary	wl	7	-1	-1	WL A	21		39		-1		-1
 1 Monestary	wtlr	7	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wtll	7	-1	-1	WTLL	24		-1		-1		-1
 1 Monestary	wbr	7	-1	-1	WBR	25		-1		-1		-1
@@ -982,43 +982,43 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 1 Monestary	wre	7	3	3	WRE B	31		-1		-1		-1
 1 Monestary	wre	7	0	0	WLE A	32		-1		-1		-1
 1 Monestary	wre	7	2	2	WLE B	33		-1		-1		-1
-2 Town	fl	26	4	4	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	26	9	9	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	26	17	17	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	26	20	20	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	26	33	33	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	26	41	41	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	26	44	44	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	5	5	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	7	7	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	14	14	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	19	19	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	23	23	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	33	33	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	37	37	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	45	45	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	27	48	48	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	6	6	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	10	10	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	13	13	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	16	16	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	23	23	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	28	28	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	36	36	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	39	39	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	45	45	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	50	50	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	28	57	57	rock2	257	rock3	258	rock4	259		-1
-2 Town	fl	39	2	7	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Town	fl	39	10	12	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Town	fl	39	14	17	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Town	fl	39	20	21	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Town	fl	39	25	25	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Town	fl	8	24	24	PD2 FullWater// D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Town	fl	39	13	13	PD2// bridgeLt	568	bridgeLb	569		-1		-1
-2 Town	fl	39	18	19	PD2// bridgeLt	568	bridgeLb	569		-1		-1
-2 Town	fl	39	22	22	PD2// bridgeLt	568	bridgeLb	569		-1		-1
-2 Town	fl	39	24	24	PD2// bridgeLt	568	bridgeLb	569		-1		-1
+2 Town	fl	26	4	4	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	26	9	9	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	26	17	17	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	26	20	20	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	26	33	33	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	26	41	41	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	26	44	44	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	5	5	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	7	7	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	14	14	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	19	19	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	23	23	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	33	33	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	37	37	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	45	45	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	27	48	48	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	6	6	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	10	10	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	13	13	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	16	16	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	23	23	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	28	28	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	36	36	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	39	39	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	45	45	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	50	50	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	28	57	57	rock2	257	rock4	258	rock4	259		-1
+2 Town	fl	39	2	7	PD2// D_Oasis_a	266		267		-1		-1
+2 Town	fl	39	10	12	PD2// D_Oasis_a	266		267		-1		-1
+2 Town	fl	39	14	17	PD2// D_Oasis_a	266		267		-1		-1
+2 Town	fl	39	20	21	PD2// D_Oasis_a	266		267		-1		-1
+2 Town	fl	39	25	25	PD2// D_Oasis_a	266		267		-1		-1
+2 Town	fl	8	24	24	PD2 FullWater// D_Oasis_a	266		267		-1		-1
+2 Town	fl	39	13	13	PD2// bridgeLt	568		569		-1		-1
+2 Town	fl	39	18	19	PD2// bridgeLt	568		569		-1		-1
+2 Town	fl	39	22	22	PD2// bridgeLt	568		569		-1		-1
+2 Town	fl	39	24	24	PD2// bridgeLt	568		569		-1		-1
 2 Town	wld	40	42	43	PD2 Door// RD_arch wr	275		-1		-1		-1
 2 Town	wrd	40	42	43	PD2 Door// RD_arch wl	274		-1		-1		-1
 2 Town	wld	40	48	49	PD2 TallDoor// RD_arch wr	275		-1		-1		-1
@@ -1035,8 +1035,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Town	fl	11	19	19	PD2 - A2/Palace.dt1// StrL	670		-1		-1		-1
 2 Town	fl	40	0	0	PD2 - AerPalace // StrL	670		-1		-1		-1
 2 Town	fl	40	2	5	PD2 - AerPalace // StrR	667		-1		-1		-1
-2 Town	fl	40	59	59	PD2 - InvisFlWalkBlock // ArcaneFloor	337	Arcane_flb	338		-1		-1
-2 Town	fl	40	62	62	PD2 - InvisFlFullBlock // ArcaneFloor	337	Arcane_flb	338		-1		-1
+2 Town	fl	40	59	59	PD2 - InvisFlWalkBlock // ArcaneFloor	337		338		-1		-1
+2 Town	fl	40	62	62	PD2 - InvisFlFullBlock // ArcaneFloor	337		338		-1		-1
 2 Harem	wr	0	5	5	RD_WRD B	113		-1		-1		-1
 2 Harem	wr	0	4	4	RD_WRD A	112		-1		-1		-1
 2 Harem	wl	0	5	5	RD_WLD A	110		-1		-1		-1
@@ -1271,88 +1271,88 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Desert	fl	0	35	35	Waypoint	307		-1		-1		-1
 2 Desert	wre	2	0	0	T_rtent1_wr4914	454		-1		-1		-1
 2 Desert	wre	2	1	1	T_rtent1_wr4912	455		-1		-1		-1
-2 Desert	fl	3	2	2	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	5	6	6	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	5	8	8	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	5	10	10	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	5	12	13	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	3	2	2	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	5	6	6	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	5	8	8	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	5	10	10	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	5	12	13	rock2	257	rock4	258	rock4	259		-1
 2 Desert	wbr	9	0	0	D_Hed_LR90	269		-1		-1		-1
 2 Desert	wr	9	0	0	D_Hed_WR90	270		-1		-1		-1
 2 Desert	fl	10	33	33	Act2 TRTFLR 33	617		-1		-1		-1
 2 Desert	fl	10	35	35	Act2 TRTFLR 35	618		-1		-1		-1
 2 Desert	fl	10	27	27	Act2 TRTFLR 27	619		-1		-1		-1
-2 Desert	fl	15	5	5	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	7	7	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	9	9	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	11	11	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	16	16	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	19	19	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	25	25	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	30	30	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	32	32	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	37	37	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	40	40	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	50	50	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	55	55	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	57	57	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	15	61	61	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	16	5	5	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	16	12	12	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	16	14	14	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	16	19	19	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	16	23	23	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	15	5	5	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	7	7	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	9	9	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	11	11	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	16	16	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	19	19	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	25	25	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	30	30	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	32	32	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	37	37	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	40	40	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	50	50	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	55	55	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	57	57	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	15	61	61	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	16	5	5	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	16	12	12	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	16	14	14	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	16	19	19	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	16	23	23	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	16	41	41	D_Hrd_1641	273		-1		-1		-1
 2 Desert	fl	16	43	43	D_Hed_1643	268		-1		-1		-1
-2 Desert	fl	17	8	8	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	13	13	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	15	15	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	19	19	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	25	25	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	28	28	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	29	29	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	34	34	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	38	38	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	45	45	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	54	54	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	56	56	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	61	61	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	36	36	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	17	60	60	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	18	9	9	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	18	12	12	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	18	14	14	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	17	8	8	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	13	13	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	15	15	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	19	19	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	25	25	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	28	28	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	29	29	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	34	34	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	38	38	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	45	45	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	54	54	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	56	56	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	61	61	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	36	36	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	17	60	60	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	18	9	9	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	18	12	12	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	18	14	14	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	18	38	38	D_Str_1801	263		-1		-1		-1
 2 Desert	fl	18	41	41	D_Str_1802	264		-1		-1		-1
-2 Desert	fl	18	18	18	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	18	18	18	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	19	25	25	D_Str_1902	261		-1		-1		-1
 2 Desert	fl	19	22	22	D_Str_1903	262		-1		-1		-1
-2 Desert	fl	19	23	23	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	5	5	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	9	9	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	20	20	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	22	22	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	24	24	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	55	55	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	48	48	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	41	41	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	43	43	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	20	49	49	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	21	8	8	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	21	11	11	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	21	13	13	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	19	23	23	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	5	5	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	9	9	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	20	20	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	22	22	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	24	24	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	55	55	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	48	48	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	41	41	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	43	43	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	20	49	49	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	21	8	8	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	21	11	11	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	21	13	13	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	22	12	12	D_Hed_2211	271		-1		-1		-1
 2 Desert	fl	22	10	10	D_Hed_2207	272		-1		-1		-1
 2 Desert	fl	21	61	61	D_VK_2161	320		-1		-1		-1
 2 Desert	fl	21	59	59	D_VK_2159	321		-1		-1		-1
 2 Desert	fl	21	55	55	D_VK_2155	322		-1		-1		-1
-2 Desert	fl	21	48	48	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	21	48	48	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	21	49	49	D_VK_2149	323		-1		-1		-1
-2 Desert	fl	21	63	63	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	21	63	63	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	22	41	41	D_VK_2241	324		-1		-1		-1
 2 Desert	fl	22	38	38	D_VK_2238	325		-1		-1		-1
 2 Desert	fl	22	29	29	D_VK_2229	326		-1		-1		-1
-2 Desert	fl	23	8	8	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	23	31	31	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	23	8	8	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	23	31	31	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	23	29	29	D_VK_2329	327		-1		-1		-1
 2 Desert	fl	23	28	28	D_VK_2328	328		-1		-1		-1
 2 Desert	fl	23	20	20	D_VK_2320	329		-1		-1		-1
@@ -1360,49 +1360,49 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Desert	fl	23	61	61	D_VK_2361	331		-1		-1		-1
 2 Desert	fl	23	55	55	D_VK_2355	332		-1		-1		-1
 2 Desert	fl	23	50	50	D_VK_2350	333		-1		-1		-1
-2 Desert	fl	24	62	62	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	24	62	62	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	25	16	16	D_VK_2516	217		-1		-1		-1
 2 Desert	fl	25	26	26	D_VK_2526	218		-1		-1		-1
 2 Desert	fl	25	28	28	D_VK_2528	219		-1		-1		-1
 2 Desert	fl	25	48	48	D_VK_2548	377		-1		-1		-1
 2 Desert	fl	25	58	58	D_VK_2558	378		-1		-1		-1
 2 Desert	fl	25	63	63	D_VK_2563	379		-1		-1		-1
-2 Desert	fl	25	62	62	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	26	4	4	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	26	9	9	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	26	17	17	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	26	20	20	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	26	33	33	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	26	41	41	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	26	44	44	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	5	5	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	7	7	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	14	14	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	19	19	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	23	23	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	33	33	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	37	37	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	45	45	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	27	48	48	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	6	6	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	10	10	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	13	13	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	16	16	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	23	23	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	28	28	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	36	36	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	39	39	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	45	45	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	50	50	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	28	57	57	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	29	4	4	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	29	5	5	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	29	15	15	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	29	17	17	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	30	1	17	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	30	17	31	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	30	32	46	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	30	47	63	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	25	62	62	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	26	4	4	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	26	9	9	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	26	17	17	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	26	20	20	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	26	33	33	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	26	41	41	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	26	44	44	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	5	5	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	7	7	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	14	14	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	19	19	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	23	23	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	33	33	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	37	37	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	45	45	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	27	48	48	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	6	6	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	10	10	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	13	13	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	16	16	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	23	23	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	28	28	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	36	36	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	39	39	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	45	45	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	50	50	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	28	57	57	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	29	4	4	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	29	5	5	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	29	15	15	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	29	17	17	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	30	1	17	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	30	17	31	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	30	32	46	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	30	47	63	rock2	257	rock4	258	rock4	259		-1
 2 Desert	fl	34	11	11	DsrtHd2a	504		-1		-1		-1
 2 Desert	fl	34	13	13	DsrtHd2b	505		-1		-1		-1
 2 Desert	fl	34	6	6	DsrtHd2c	506		-1		-1		-1
@@ -1411,10 +1411,10 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Desert	fl	36	14	14	D_VK_3614	214		-1		-1		-1
 2 Desert	fl	36	26	26	D_VK_3626	215		-1		-1		-1
 2 Desert	fl	36	33	33	D_VK_3633	216		-1		-1		-1
-2 Desert	fl	36	34	34	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	36	27	27	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	36	43	43	rock2	257	rock3	258	rock4	259		-1
-2 Desert	fl	36	49	49	rock2	257	rock3	258	rock4	259		-1
+2 Desert	fl	36	34	34	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	36	27	27	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	36	43	43	rock2	257	rock4	258	rock4	259		-1
+2 Desert	fl	36	49	49	rock2	257	rock4	258	rock4	259		-1
 2 Desert	wbl	36	1	1	DsrtSt1a	507		-1		-1		-1
 2 Desert	wr	36	4	4	DsrtSt1b	508		-1		-1		-1
 2 Desert	wbl	36	0	0	DsrtStFln1a	511		-1		-1		-1
@@ -1430,18 +1430,18 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Desert	wtr	36	-1	-1	Hell_XX	490		-1		-1		-1
 2 Desert	wbl	36	-1	-1	A3 brdge end 4 33	491		-1		-1		-1
 2 Desert	co	36	-1	-1	RD_WBR	105		-1		-1		-1
-2 Desert	fl	38	33	33	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	38	37	37	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	0	0	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	10	11	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	22	22	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	30	31	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	33	34	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	36	39	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	40	41	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	39	44	50	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	40	3	3	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Desert	fl	40	18	19	D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Desert	fl	38	33	33	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	38	37	37	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	0	0	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	10	11	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	22	22	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	30	31	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	33	34	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	36	39	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	40	41	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	39	44	50	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	40	3	3	D_Oasis_a	266		267		-1		-1
+2 Desert	fl	40	18	19	D_Oasis_a	266		267		-1		-1
 2 Desert	wr	48	18	19	dsrt ruin wr	497		-1		-1		-1
 2 Desert	wr	48	26	26	dsrt ruin wr	497		-1		-1		-1
 2 Desert	wr	48	28	29	dsrt ruin wr	497		-1		-1		-1
@@ -1668,18 +1668,18 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Sewer	wbl	3	-1	-1	S WBL	233		-1		-1		-1
 2 Sewer	fl	4	20	20	Waypoint	307		-1		-1		-1
 2 Sewer	fl	0	35	35	Waypoint	307		-1		-1		-1
-2 Sewer	fl	38	33	33	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	38	37	37	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	0	0	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	10	11	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	22	22	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	30	31	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	33	34	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	36	39	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	40	41	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	44	50	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	40	3	3	D_Oasis_a	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	40	18	19	D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Sewer	fl	38	33	33	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	38	37	37	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	0	0	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	10	11	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	22	22	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	30	31	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	33	34	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	36	39	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	40	41	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	39	44	50	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	40	3	3	D_Oasis_a	266		267		-1		-1
+2 Sewer	fl	40	18	19	D_Oasis_a	266		267		-1		-1
 2 Sewer	wr	48	-1	-1	dsrt ruin wr	231		-1		-1		-1
 2 Sewer	wl	48	-1	-1	dsrt ruin wl	232		-1		-1		-1
 2 Sewer	wtll	48	-1	-1	dsrt ruin wtll	235		-1		-1		-1
@@ -1734,19 +1734,19 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Sewer	fl	7	17	19	Water_	266		-1		-1		-1
 2 Sewer	fl	7	12	13	Water_	266		-1		-1		-1
 2 Sewer	tr	0	-1	-1	Trees_	257		258		259		-1
-2 Sewer	fl	38	33	33	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	38	37	37	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	0	0	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	10	11	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	22	22	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	30	31	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	33	34	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	36	39	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	40	41	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	39	44	50	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	40	3	3	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Sewer	fl	40	18	19	PD2 - Oasis	266	D_Oasis_b	267		-1		-1
-2 Arcane	fl	0	-1	-1	Arcane_fla	337	Arcane_flb	338		-1		-1
+2 Sewer	fl	38	33	33	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	38	37	37	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	0	0	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	10	11	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	22	22	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	30	31	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	33	34	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	36	39	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	40	41	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	39	44	50	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	40	3	3	PD2 - Oasis	266		267		-1		-1
+2 Sewer	fl	40	18	19	PD2 - Oasis	266		267		-1		-1
+2 Arcane	fl	0	-1	-1	Arcane_fla	337		338		-1		-1
 2 Arcane	fl	1	3	3	Arcane_str14	503		-1		-1		-1
 2 Arcane	fl	1	4	4	Arcane_str13	502		-1		-1		-1
 2 Arcane	fl	1	7	7	Arcane_str18	501		-1		-1		-1
@@ -1773,23 +1773,23 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Town	wl	3	14	14	T3_wl_314	593		-1		-1		-1
 3 Town	wl	3	15	15	T3_wl_315	594		-1		-1		-1
 3 Town	wl	3	16	16	T3_wl_316	595		-1		-1		-1
-3 Town	fl	3	25	32	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	3	40	47	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	3	51	51	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	3	53	54	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	5	20	20	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	7	20	22	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	7	28	28	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	8	24	24	T3_grnd01	533	T3_grnd02	534		-1		-1
+3 Town	fl	3	25	32	T3_grnd01	533		534		-1		-1
+3 Town	fl	3	40	47	T3_grnd01	533		534		-1		-1
+3 Town	fl	3	51	51	T3_grnd01	533		534		-1		-1
+3 Town	fl	3	53	54	T3_grnd01	533		534		-1		-1
+3 Town	fl	5	20	20	T3_grnd01	533		534		-1		-1
+3 Town	fl	7	20	22	T3_grnd01	533		534		-1		-1
+3 Town	fl	7	28	28	T3_grnd01	533		534		-1		-1
+3 Town	fl	8	24	24	T3_grnd01	533		534		-1		-1
 3 Town	fl	8	32	32	T3_WR	381		-1		-1		-1
-3 Town	fl	8	44	45	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	9	0	0	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	9	25	25	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	9	27	27	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	9	36	37	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	9	41	41	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	9	39	39	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	9	29	29	T3_grnd01	533	T3_grnd02	534		-1		-1
+3 Town	fl	8	44	45	T3_grnd01	533		534		-1		-1
+3 Town	fl	9	0	0	T3_grnd01	533		534		-1		-1
+3 Town	fl	9	25	25	T3_grnd01	533		534		-1		-1
+3 Town	fl	9	27	27	T3_grnd01	533		534		-1		-1
+3 Town	fl	9	36	37	T3_grnd01	533		534		-1		-1
+3 Town	fl	9	41	41	T3_grnd01	533		534		-1		-1
+3 Town	fl	9	39	39	T3_grnd01	533		534		-1		-1
+3 Town	fl	9	29	29	T3_grnd01	533		534		-1		-1
 3 Town	wr	4	-1	-1	G_WR	80		-1		-1		-1
 3 Town	wl	4	-1	-1	G_WL	81		-1		-1		-1
 3 Town	wtlr	4	-1	-1	G_WTLL	84		-1		-1		-1
@@ -1797,7 +1797,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Town	wbr	4	-1	-1	G_WBR	85		-1		-1		-1
 3 Town	wtr	4	-1	-1	G_WTR	83		-1		-1		-1
 3 Town	wbl	4	-1	-1	G_WBL	82		-1		-1		-1
-3 Town	fl	10	0	0	River_A	520	River_B	521	River_C	522		-1
+3 Town	fl	10	0	0	River_A	520	River_C	521	River_C	522		-1
 3 Town	fl	4	1	1	bridgeLt	568		-1		-1		-1
 3 Town	fl	4	5	5	bridgeLt	568		-1		-1		-1
 3 Town	fl	4	9	9	bridgeLt	568		-1		-1		-1
@@ -1819,7 +1819,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Town	fl	4	35	35	bridgeLb	569		-1		-1		-1
 3 Town	fl	4	39	39	bridgeLb	569		-1		-1		-1
 3 Town	fl	4	36	36	RB_WL _T	523		-1		-1		-1
-3 Town	fl	4	40	40	River_A	520	River_B	521	River_C	522		-1
+3 Town	fl	4	40	40	River_A	520	River_C	521	River_C	522		-1
 3 Town	fl	4	43	43	bridgeLb	569		-1		-1		-1
 3 Town	fl	4	47	47	bridgeLb	569		-1		-1		-1
 3 Town	fl	4	51	51	bridgeLb	569		-1		-1		-1
@@ -1956,9 +1956,9 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Town	fl	12	25	25	T3_WBR	383		-1		-1		-1
 3 Town	fl	12	11	11	T3_WL	380		-1		-1		-1
 3 Town	fl	12	18	18	T3_WL	380		-1		-1		-1
-3 Town	fl	12	29	29	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	12	13	15	T3_grnd01	533	T3_grnd02	534		-1		-1
-3 Town	fl	12	7	9	T3_grnd01	533	T3_grnd02	534		-1		-1
+3 Town	fl	12	29	29	T3_grnd01	533		534		-1		-1
+3 Town	fl	12	13	15	T3_grnd01	533		534		-1		-1
+3 Town	fl	12	7	9	T3_grnd01	533		534		-1		-1
 3 Town	fl	13	17	17	T3_ASH_13_17	558		-1		-1		-1
 3 Town	fl	13	24	24	T3_ASH_13_24	559		-1		-1		-1
 3 Town	fl	13	43	43	T3_ASH_13_43	560		-1		-1		-1
@@ -1978,21 +1978,21 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Town	wtr	14	3	-1	G_WTR	83		-1		-1		-1
 3 Town	wbl	14	3	-1	G_WBL	82		-1		-1		-1
 3 Jungle	fl	0	44	44	Waypoint	307		-1		-1		-1
-3 Jungle	fl	4	18	18	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	4	18	18	River_A	520	River_C	521	River_C	522		-1
 3 Jungle	fl	4	33	33	A3 brdge end 4 33	491		-1		-1		-1
 3 Jungle	fl	4	36	36	A3 brdge end 4 36	492		-1		-1		-1
 3 Jungle	fl	4	38	38	A3 brdge end 4 38	493		-1		-1		-1
 3 Jungle	fl	4	39	39	A3 brdge end 4 39	494		-1		-1		-1
 3 Jungle	fl	4	34	35	A3 brdge end 4 34	495		-1		-1		-1
-3 Jungle	fl	4	40	40	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	4	37	37	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	4	40	40	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	4	37	37	River_A	520	River_C	521	River_C	522		-1
 3 Jungle	fl	4	42	42	bridgeLt	568		-1		-1		-1
 3 Jungle	fl	4	46	46	bridgeLt	568		-1		-1		-1
 3 Jungle	fl	4	50	50	bridgeLt	568		-1		-1		-1
 3 Jungle	fl	4	43	43	bridgeLb	569		-1		-1		-1
 3 Jungle	fl	4	47	47	bridgeLb	569		-1		-1		-1
 3 Jungle	fl	4	51	51	bridgeLb	569		-1		-1		-1
-3 Jungle	fl	10	0	0	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	10	0	0	River_A	520	River_C	521	River_C	522		-1
 3 Jungle	fl	10	37	37	RB_WL _T	523		-1		-1		-1
 3 Jungle	fl	10	41	41	RB_WL _T	523		-1		-1		-1
 3 Jungle	fl	10	45	45	RB_WL _T	523		-1		-1		-1
@@ -2004,11 +2004,11 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Jungle	fl	10	56	56	RB_WBL_X	530		-1		-1		-1
 3 Jungle	fl	10	59	59	RB_WL_B	531		-1		-1		-1
 3 Jungle	fl	10	1	3	RB_WR_B	532		-1		-1		-1
-3 Jungle	wr	10	0	7	tree01	472	tree02	473	tree03	474	tree04	475
-3 Jungle	wl	10	0	7	tree01	472	tree02	473	tree03	474	tree04	475
-3 Jungle	wl	10	13	13	tree01	472	tree02	473	tree03	474	tree04	475
-3 Jungle	wtr	10	0	2	tree01	472	tree02	473	tree03	474	tree04	475
-3 Jungle	wbl	10	0	2	tree01	472	tree02	473	tree03	474	tree04	475
+3 Jungle	wr	10	0	7	tree01	472	tree03	473	tree03	474	tree04	475
+3 Jungle	wl	10	0	7	tree01	472	tree03	473	tree03	474	tree04	475
+3 Jungle	wl	10	13	13	tree01	472	tree03	473	tree03	474	tree04	475
+3 Jungle	wtr	10	0	2	tree01	472	tree03	473	tree03	474	tree04	475
+3 Jungle	wbl	10	0	2	tree01	472	tree03	473	tree03	474	tree04	475
 3 Jungle	fl	11	42	42	RB_WTLL_TW	536		-1		-1		-1
 3 Jungle	fl	11	31	31	RB_WL_B	531		-1		-1		-1
 3 Jungle	fl	11	35	35	RB_WL_B	531		-1		-1		-1
@@ -2037,7 +2037,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Jungle	fl	12	6	6	RB_WTR	529		-1		-1		-1
 3 Jungle	fl	12	29	31	RB_WR_T	524		-1		-1		-1
 3 Jungle	fl	12	28	28	RB_WBL	525		-1		-1		-1
-3 Jungle	fl	12	2	2	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	12	2	2	River_A	520	River_C	521	River_C	522		-1
 3 Jungle	fl	12	10	10	RB_WL _T	523		-1		-1		-1
 3 Jungle	fl	12	14	14	RB_WL _T	523		-1		-1		-1
 3 Jungle	fl	12	48	48	RB_WL _T	523		-1		-1		-1
@@ -2053,7 +2053,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Jungle	fl	13	53	53	RB_WR_T	524		-1		-1		-1
 3 Jungle	fl	13	15	16	RB_WR_T	524		-1		-1		-1
 3 Jungle	fl	13	14	14	RB_WBL	525		-1		-1		-1
-3 Jungle	fl	13	0	8	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	13	0	8	River_A	520	River_C	521	River_C	522		-1
 3 Jungle	fl	13	61	61	RB_WL _T	523		-1		-1		-1
 3 Jungle	fl	14	60	60	S Edwn in Twn	223		-1		-1		-1
 3 Jungle	fl	14	18	18	bridgeLt	568		-1		-1		-1
@@ -2089,7 +2089,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Jungle	wtr	14	-1	-1	G_WTR	83		-1		-1		-1
 3 Jungle	wbl	14	-1	-1	G_WBL	82		-1		-1		-1
 3 Jungle	co	14	-1	-1	G_WBR	85		-1		-1		-1
-3 Jungle	fl	15	49	57	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	15	49	57	River_A	520	River_C	521	River_C	522		-1
 3 Jungle	fl	15	36	36	wl_walkway	280		-1		-1		-1
 3 Jungle	fl	15	38	38	wl_walkway	280		-1		-1		-1
 3 Jungle	fl	15	40	40	wl_walkway	280		-1		-1		-1
@@ -2104,17 +2104,17 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Jungle	fl	15	14	14	T3_WL	380		-1		-1		-1
 3 Jungle	wr	15	1	1	DungnEnt_wr151	597		-1		-1		-1
 3 Jungle	wl	15	0	0	DungnEnt_wl150	598		-1		-1		-1
-3 Jungle	fl	15	30	32	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	3	3	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	9	9	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	15	15	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	21	21	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	34	34	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	39	39	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	41	41	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	43	43	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	35	35	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	15	27	27	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	15	30	32	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	3	3	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	9	9	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	15	15	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	21	21	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	34	34	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	39	39	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	41	41	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	43	43	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	35	35	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	15	27	27	River_A	520	River_C	521	River_C	522		-1
 3 Jungle	wbr	16	0	0	act3 pyghut01	516		-1		-1		-1
 3 Jungle	wbr	16	1	1	act3 pyghut02	517		-1		-1		-1
 3 Jungle	fl	16	44	44	GidbinnHolder	478		-1		-1		-1
@@ -2139,9 +2139,9 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Jungle	fl	18	1	1	RB_WL _T	523		-1		-1		-1
 3 Jungle	fl	18	4	4	RB_WL _T	523		-1		-1		-1
 3 Jungle	fl	18	7	7	RB_WL _T	523		-1		-1		-1
-3 Jungle	fl	18	16	16	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	18	5	5	River_A	520	River_B	521	River_C	522		-1
-3 Jungle	fl	18	2	2	River_A	520	River_B	521	River_C	522		-1
+3 Jungle	fl	18	16	16	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	18	5	5	River_A	520	River_C	521	River_C	522		-1
+3 Jungle	fl	18	2	2	River_A	520	River_C	521	River_C	522		-1
 3 Spider	wr	0	0	9	Act3_SL_WR A	600		-1		-1		-1
 3 Spider	wl	0	0	9	Act3_SL_WL A	601		-1		-1		-1
 3 Spider	wr	0	10	10	Act3_SL_WBL	602		-1		-1		-1
@@ -2183,21 +2183,21 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Kurast	wle	2	1	1	WLE B	33		-1		-1		-1
 3 Kurast	wre	3	0	0	WRE A	30		-1		-1		-1
 3 Kurast	wre	3	1	1	WRE B	31		-1		-1		-1
-3 Kurast	wr	10	0	7	tree01	472	tree02	473	tree03	474	tree04	475
-3 Kurast	wl	10	0	7	tree01	472	tree02	473	tree03	474	tree04	475
-3 Kurast	wl	10	13	13	tree01	472	tree02	473	tree03	474	tree04	475
-3 Kurast	wtr	10	0	2	tree01	472	tree02	473	tree03	474	tree04	475
-3 Kurast	wbl	10	0	2	tree01	472	tree02	473	tree03	474	tree04	475
-3 Kurast	wl	10	30	30	tree01	472	tree02	473	tree03	474	tree04	475
-3 Kurast	wr	20	-1	-1	WR A	20	WR B	38		-1		-1
-3 Kurast	wl	20	-1	-1	WL A	21	WL B	39		-1		-1
+3 Kurast	wr	10	0	7	tree01	472	tree03	473	tree03	474	tree04	475
+3 Kurast	wl	10	0	7	tree01	472	tree03	473	tree03	474	tree04	475
+3 Kurast	wl	10	13	13	tree01	472	tree03	473	tree03	474	tree04	475
+3 Kurast	wtr	10	0	2	tree01	472	tree03	473	tree03	474	tree04	475
+3 Kurast	wbl	10	0	2	tree01	472	tree03	473	tree03	474	tree04	475
+3 Kurast	wl	10	30	30	tree01	472	tree03	473	tree03	474	tree04	475
+3 Kurast	wr	20	-1	-1	WR A	20		38		-1		-1
+3 Kurast	wl	20	-1	-1	WL A	21		39		-1		-1
 3 Kurast	wtlr	20	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wtll	20	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wbr	20	-1	-1	WBR	25		-1		-1		-1
 3 Kurast	wtr	20	-1	-1	WTR	23		-1		-1		-1
 3 Kurast	wbl	20	-1	-1	WBL	22		-1		-1		-1
-3 Kurast	wr	20	-1	-1	WR A	20	WR B	38		-1		-1
-3 Kurast	wl	20	-1	-1	WL A	21	WL B	39		-1		-1
+3 Kurast	wr	20	-1	-1	WR A	20		38		-1		-1
+3 Kurast	wl	20	-1	-1	WL A	21		39		-1		-1
 3 Kurast	wtlr	20	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wtll	20	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wbr	20	-1	-1	WBR	25		-1		-1		-1
@@ -2205,8 +2205,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Kurast	wbl	20	-1	-1	WBL	22		-1		-1		-1
 3 Kurast	wrd	20	0	0	WRD 1	34		-1		-1		-1
 3 Kurast	wld	20	0	0	WLD 1	35		-1		-1		-1
-3 Kurast	wr	21	-1	-1	WR A	20	WR B	38		-1		-1
-3 Kurast	wl	21	-1	-1	WL A	21	WL B	39		-1		-1
+3 Kurast	wr	21	-1	-1	WR A	20		38		-1		-1
+3 Kurast	wl	21	-1	-1	WL A	21		39		-1		-1
 3 Kurast	wtlr	21	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wtll	21	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wbr	21	-1	-1	WBR	25		-1		-1		-1
@@ -2218,15 +2218,15 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Kurast	wbl	22	2	2	Kurast arch wbl	674		-1		-1		-1
 3 Kurast	wtr	22	2	2	Kurast arch wtr	675		-1		-1		-1
 3 Kurast	wtll	22	2	2	Kurast arch wtll	676		-1		-1		-1
-3 Kurast	wr	22	-1	-1	WR A	20	WR B	38		-1		-1
-3 Kurast	wl	22	-1	-1	WL A	21	WL B	39		-1		-1
+3 Kurast	wr	22	-1	-1	WR A	20		38		-1		-1
+3 Kurast	wl	22	-1	-1	WL A	21		39		-1		-1
 3 Kurast	wtlr	22	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wtll	22	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wbr	22	-1	-1	WBR	25		-1		-1		-1
 3 Kurast	wtr	22	-1	-1	WTR	23		-1		-1		-1
 3 Kurast	wbl	22	-1	-1	WBL	22		-1		-1		-1
-3 Kurast	wr	24	-1	-1	WR A	20	WR B	38		-1		-1
-3 Kurast	wl	24	-1	-1	WL A	21	WL B	39		-1		-1
+3 Kurast	wr	24	-1	-1	WR A	20		38		-1		-1
+3 Kurast	wl	24	-1	-1	WL A	21		39		-1		-1
 3 Kurast	wtlr	24	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wtll	24	-1	-1	WTLL	24		-1		-1		-1
 3 Kurast	wbr	24	-1	-1	WBR	25		-1		-1		-1
@@ -2239,8 +2239,8 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Kurast	wbl	25	2	2	Kurast arch wbl	674		-1		-1		-1
 3 Kurast	wtr	25	2	2	Kurast arch wtr	675		-1		-1		-1
 3 Kurast	wtll	25	2	2	Kurast arch wtll	676		-1		-1		-1
-3 Kurast	wr	26	2	-1	WR A	20	WR B	38		-1		-1
-3 Kurast	wl	26	2	-1	WL A	21	WL B	39		-1		-1
+3 Kurast	wr	26	2	-1	WR A	20		38		-1		-1
+3 Kurast	wl	26	2	-1	WL A	21		39		-1		-1
 3 Kurast	wr	27	0	0	A3 Ht wr 27	780		-1		-1		-1
 3 Kurast	wr	27	3	8	A3 Ht wr 27	780		-1		-1		-1
 3 Kurast	wl	27	0	0	A3 Ht wl 27	781		-1		-1		-1
@@ -2281,10 +2281,10 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Kurast	wbr	30	-1	-1	Act3_TRC_wbr	625		-1		-1		-1
 3 Kurast	wtr	30	-1	-1	Act3_TRC_wtr	623		-1		-1		-1
 3 Kurast	wbl	30	-1	-1	Act3_TRC_wbl	622		-1		-1		-1
-3 Kurast	fl	29	-1	-1	River_A	520	River_B	521	River_C	522		-1
-3 Kurast	fl	4	53	55	River_A	520	River_B	521	River_C	522		-1
-3 Kurast	fl	4	59	61	River_A	520	River_B	521	River_C	522		-1
-3 Kurast	fl	15	49	57	River_A	520	River_B	521	River_C	522		-1
+3 Kurast	fl	29	-1	-1	River_A	520	River_C	521	River_C	522		-1
+3 Kurast	fl	4	53	55	River_A	520	River_C	521	River_C	522		-1
+3 Kurast	fl	4	59	61	River_A	520	River_C	521	River_C	522		-1
+3 Kurast	fl	15	49	57	River_A	520	River_C	521	River_C	522		-1
 3 Kurast	fl	30	3	3	A3_trc_wbr	660		-1		-1		-1
 3 Kurast	fl	30	6	6	A3_trc_wbr	660		-1		-1		-1
 3 Kurast	fl	30	1	1	A3_trc_wbl	661		-1		-1		-1
@@ -2508,7 +2508,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Dungeon	co	22	-1	-1	Act3_SL_WBR	605		-1		-1		-1
 3 Dungeon	wre	22	0	0	Act3_SL_WRE A	610		-1		-1		-1
 3 Dungeon	wre	22	1	1	Act3_SL_WRE B	611		-1		-1		-1
-3 Dungeon	fl	4	53	61	PD2 River_A	520	River_B	521	River_C	522		-1
+3 Dungeon	fl	4	53	61	PD2 River_A	520	River_C	521	River_C	522		-1
 3 Dungeon	fl	6	0	0	PD2 T3_RC	391		-1		-1		-1
 3 Dungeon	fl	6	1	1	PD2 T3_WTR	384		-1		-1		-1
 3 Dungeon	fl	6	2	2	PD2 T3_WR2	387		-1		-1		-1
@@ -2577,7 +2577,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Dungeon	fl	8	50	50	wl_walkway	280		-1		-1		-1
 3 Dungeon	fl	8	52	52	wr_walkway	281		-1		-1		-1
 3 Dungeon	fl	8	56	56	wl_walkway	280		-1		-1		-1
-3 Dungeon	fl	10	0	0	PD2 River_A	520	River_B	521	River_C	522		-1
+3 Dungeon	fl	10	0	0	PD2 River_A	520	River_C	521	River_C	522		-1
 3 Dungeon	fl	10	37	37	PD2 RB_WL _T	523		-1		-1		-1
 3 Dungeon	fl	10	41	41	PD2 RB_WL _T	523		-1		-1		-1
 3 Dungeon	fl	10	45	45	PD2 RB_WL _T	523		-1		-1		-1
@@ -2589,11 +2589,11 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Dungeon	fl	10	56	56	PD2 RB_WBL_X	530		-1		-1		-1
 3 Dungeon	fl	10	59	59	PD2 RB_WL_B	531		-1		-1		-1
 3 Dungeon	fl	10	1	3	PD2 RB_WR_B	532		-1		-1		-1
-3 Dungeon	wr	10	0	7	PD2  tree01	472	tree02	473	tree03	474	tree04	475
-3 Dungeon	wl	10	0	7	PD2  tree01	472	tree02	473	tree03	474	tree04	475
-3 Dungeon	wl	10	13	13	PD2  tree01	472	tree02	473	tree03	474	tree04	475
-3 Dungeon	wtr	10	0	2	PD2  tree01	472	tree02	473	tree03	474	tree04	475
-3 Dungeon	wbl	10	0	2	PD2  tree01	472	tree02	473	tree03	474	tree04	475
+3 Dungeon	wr	10	0	7	PD2  tree01	472	tree03	473	tree03	474	tree04	475
+3 Dungeon	wl	10	0	7	PD2  tree01	472	tree03	473	tree03	474	tree04	475
+3 Dungeon	wl	10	13	13	PD2  tree01	472	tree03	473	tree03	474	tree04	475
+3 Dungeon	wtr	10	0	2	PD2  tree01	472	tree03	473	tree03	474	tree04	475
+3 Dungeon	wbl	10	0	2	PD2  tree01	472	tree03	473	tree03	474	tree04	475
 3 Dungeon	fl	11	42	42	PD2 RB_WTLL_TW	536		-1		-1		-1
 3 Dungeon	fl	11	31	31	PD2 RB_WL_B	531		-1		-1		-1
 3 Dungeon	fl	11	35	35	PD2 RB_WL_B	531		-1		-1		-1
@@ -2622,7 +2622,7 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Dungeon	fl	12	6	6	PD2 RB_WTR	529		-1		-1		-1
 3 Dungeon	fl	12	29	31	PD2 RB_WR_T	524		-1		-1		-1
 3 Dungeon	fl	12	28	28	PD2 RB_WBL	525		-1		-1		-1
-3 Dungeon	fl	12	2	2	PD2 River_A	520	River_B	521	River_C	522		-1
+3 Dungeon	fl	12	2	2	PD2 River_A	520	River_C	521	River_C	522		-1
 3 Dungeon	fl	12	10	10	PD2 RB_WL _T	523		-1		-1		-1
 3 Dungeon	fl	12	14	14	PD2 RB_WL _T	523		-1		-1		-1
 3 Dungeon	fl	12	48	48	PD2 RB_WL _T	523		-1		-1		-1
@@ -3206,8 +3206,8 @@ Expansion
 5 Siege	fl	10	20	20	trench wre 10 18	1277		-1		-1		-1
 5 Siege	fl	10	21	21	trench wre 10 19	1278		-1		-1		-1
 5 Siege	fl	10	22	22	trench wre 10 20	1279		-1		-1		-1
-5 Siege	wr	3	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-5 Siege	wl	3	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+5 Siege	wr	3	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+5 Siege	wl	3	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 5 Siege	wtlr	3	-1	-1	C_WTLL	55		-1		-1		-1
 5 Siege	wtll	3	-1	-1	C_WTLL	55		-1		-1		-1
 5 Siege	wbr	3	-1	-1	C_WBR	50		-1		-1		-1
@@ -3503,16 +3503,16 @@ Expansion
 5 Barricade	fl	4	10	10	"lowwall 4 9,11,22"	1325		-1		-1		-1
 5 Barricade	fl	4	22	22	"lowwall 4 9,11,22"	1325		-1		-1		-1
 5 Barricade	fl	4	20	20	lowwall 4 20	1326		-1		-1		-1
-5 Barricade	wr	3	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-5 Barricade	wl	3	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+5 Barricade	wr	3	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+5 Barricade	wl	3	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 5 Barricade	wtlr	3	-1	-1	C_WTLL	55		-1		-1		-1
 5 Barricade	wtll	3	-1	-1	C_WTLL	55		-1		-1		-1
 5 Barricade	wbr	3	-1	-1	C_WBR	50		-1		-1		-1
 5 Barricade	wtlr	0	-1	-1	C_WTLL	55		-1		-1		-1
 5 Barricade	wtll	0	-1	-1	C_WTLL	55		-1		-1		-1
 5 Barricade	wbr	0	-1	-1	C_WBR	50		-1		-1		-1
-5 Barricade	wr	0	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-5 Barricade	wl	0	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+5 Barricade	wr	0	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+5 Barricade	wl	0	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 5 Barricade	co	20	3	3	temple ent co 	1299		-1		-1		-1
 5 Barricade	co	22	0	0	arch co 11 6	1245		-1		-1		-1
 5 Barricade	wr	20	7	7	arch 1a	1327		-1		-1		-1
@@ -3534,11 +3534,11 @@ Expansion
 5 Barricade	wre	1	1	1	temple ent wre 1 1	1419		-1		-1		-1
 5 Barricade	co	20	4	4	shrine 22 3	1337		-1		-1		-1
 5 Barricade	wre	2	1	1	ice cave rt ent	1352		-1		-1		-1
-5 Barricade	wre	2	0	0	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-5 Barricade	wre	2	2	2	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
+5 Barricade	wre	2	0	0	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+5 Barricade	wre	2	2	2	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
 5 Barricade	wle	2	1	1	ice cave lt ent 	1353		-1		-1		-1
-5 Barricade	wle	2	0	0	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
-5 Barricade	wle	2	2	2	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+5 Barricade	wle	2	0	0	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
+5 Barricade	wle	2	2	2	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 5 Barricade	fl	17	2	2	ice ent lt ent a	1449		-1		-1		-1
 5 Barricade	fl	17	3	3	ice ent lt ent b	1450		-1		-1		-1
 5 Barricade	fl	17	1	1	ice ent lt ent c	1451		-1		-1		-1
@@ -3642,7 +3642,7 @@ Expansion
 5 Ice	fl	7	17	17	pool fl 7 17	1436		-1		-1		-1
 5 Ice	fl	7	7	7	pool fl 7 7	1437		-1		-1		-1
 5 Ice	fl	7	24	24	pool fl 7 7	1437		-1		-1		-1
-5 Ice	fl	7	0	0	pool fl 7 0	1438	pool fl 7 0	1439		-1		-1
+5 Ice	fl	7	0	0	pool fl 7 0	1438		1439		-1		-1
 5 Ice	fl	7	1	2	"pool island 7 1,2"	1259		-1		-1		-1
 5 Ice	fl	7	30	30	"bridge fl 7 30,32,34"	1440		-1		-1		-1
 5 Ice	fl	7	31	31	"bridge fl 7 31,33,35"	1441		-1		-1		-1
@@ -3758,14 +3758,14 @@ Expansion
 5 Baal	fl	4	14	14	Act4 39 4	1004		-1		-1		-1
 5 Baal	fl	4	18	18	Act4 39 4	1004		-1		-1		-1
 5 Baal	fl	4	22	22	Act4 39 4	1004		-1		-1		-1
-5 Baal	fl	4	23	23	lava	1486	lava	1487		-1		-1
-5 Baal	fl	4	19	19	lava	1486	lava	1487		-1		-1
-5 Baal	fl	4	15	15	lava	1486	lava	1487		-1		-1
-5 Baal	fl	4	11	11	lava	1486	lava	1487		-1		-1
-5 Baal	fl	4	7	7	lava	1486	lava	1487		-1		-1
-5 Baal	fl	4	43	48	lava	1486	lava	1487		-1		-1
-5 Baal	fl	4	3	3	lava	1486	lava	1487		-1		-1
-5 Baal	fl	3	31	55	lava	1486	lava	1487		-1		-1
+5 Baal	fl	4	23	23	lava	1486		1487		-1		-1
+5 Baal	fl	4	19	19	lava	1486		1487		-1		-1
+5 Baal	fl	4	15	15	lava	1486		1487		-1		-1
+5 Baal	fl	4	11	11	lava	1486		1487		-1		-1
+5 Baal	fl	4	7	7	lava	1486		1487		-1		-1
+5 Baal	fl	4	43	48	lava	1486		1487		-1		-1
+5 Baal	fl	4	3	3	lava	1486		1487		-1		-1
+5 Baal	fl	3	31	55	lava	1486		1487		-1		-1
 5 Baal	wl	6	0	8	baal low lw 2 0-3	1381		-1		-1		-1
 5 Baal	wr	6	5	10	baal low rw 1 0-3	1380		-1		-1		-1
 5 Baal	fl	10	49	49	bridge left out	1019		-1		-1		-1
@@ -3862,8 +3862,8 @@ Expansion
 5 Lava	wl	40	7	7	wagon 40 7	1483		-1		-1		-1
 5 Lava	wl	40	9	9	wagon 40 9	1484		-1		-1		-1
 5 Lava	wl	40	11	11	wagon 40 11	1485		-1		-1		-1
-5 Lava	fl	38	48	49	lava	1486	lava	1487		-1		-1
-5 Lava	fl	38	52	53	lava	1486	lava	1487		-1		-1
+5 Lava	fl	38	48	49	lava	1486		1487		-1		-1
+5 Lava	fl	38	52	53	lava	1486		1487		-1		-1
 5 Lava	wl	40	0	0	chariot1 40 0	1488		-1		-1		-1
 5 Lava	wl	40	1	1	chariot1 40 1	1489		-1		-1		-1
 5 Lava	wl	40	3	3	chariot2 40 3	1490		-1		-1		-1
@@ -3894,19 +3894,19 @@ Expansion
 36	wtlr	1	0	2	PD2 - WTLR	1226		-1		-1		-1
 36	wl	1	0	2	PD2 - Wall Left	1213		-1		-1		-1
 36	wr	1	0	2	PD2 - Wall Right	1212		-1		-1		-1
-37	fl	0	1	46	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-37	fl	2	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	0	1	46	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+37	fl	2	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	2	4	7	River T A	4		-1		-1		-1
-37	fl	2	8	11	River M A	6	River M B	7	River M C	8		-1
-37	fl	2	12	15	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	2	8	11	River M A	6	River M C	7	River M C	8		-1
+37	fl	2	12	15	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	2	16	19	River T A	4		-1		-1		-1
-37	fl	2	20	24	River M A	6	River M B	7	River M C	8		-1
-37	fl	3	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	2	20	24	River M A	6	River M C	7	River M C	8		-1
+37	fl	3	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	3	4	7	River B A	5		-1		-1		-1
-37	fl	3	8	11	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	3	8	11	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	3	12	15	River B A	5		-1		-1		-1
-37	wr	0	0	18	F_WR	60	F_WR B	70		-1		-1
-37	wl	0	0	18	F_WL	61	F_WL B	71		-1		-1
+37	wr	0	0	18	F_WR	60		70		-1		-1
+37	wl	0	0	18	F_WL	61		71		-1		-1
 37	wtlr	0	15	15	F_WTLL	64		-1		-1		-1
 37	wtlr	0	0	1	F_WTLL	64		-1		-1		-1
 37	wtll	0	15	15	F_WR	60		-1		-1		-1
@@ -3915,14 +3915,14 @@ Expansion
 37	wbr	0	5	-1	F_WBR	65		-1		-1		-1
 37	wtr	0	-1	-1	F_WBL	62		-1		-1		-1
 37	wbl	0	-1	-1	F_WTR	63		-1		-1		-1
-37	wr	2	0	3	Stn_WR a	11	Stn_WR b	12		-1		-1
+37	wr	2	0	3	Stn_WR a	11		12		-1		-1
 37	wr	2	4	4	Stn_L R E	18		-1		-1		-1
-37	wl	2	0	3	Stn_WL a	13	Stn_WL b	14		-1		-1
+37	wl	2	0	3	Stn_WL a	13		14		-1		-1
 37	wl	2	4	4	Stn_L L E	17		-1		-1		-1
-37	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+37	wtr	2	0	4	Stn_WL a	13		14		-1		-1
 37	wtlr	2	0	4	Stn_X	16		-1		-1		-1
 37	wtll	2	0	4	Stn_X	16		-1		-1		-1
-37	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
+37	wbl	2	0	4	Stn_WR a	11		12		-1		-1
 37	fl	4	0	3	Bridge M	79		-1		-1		-1
 37	fl	4	4	4	Bridge T A	76		-1		-1		-1
 37	fl	4	5	6	Bridge M	79		-1		-1		-1
@@ -3985,18 +3985,18 @@ Expansion
 37	wl	0	1	1	WLD 1	35		-1		-1		-1
 37	wl	0	2	-1	WL A	21		-1		-1		-1
 37	wtll	0	-1	-1	WTLL	24		-1		-1		-1
-37	fl	0	1	47	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	0	1	47	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	0	54	54	Waypoint	307		-1		-1		-1
-37	fl	0	49	49	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-37	fl	2	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	0	49	49	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+37	fl	2	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	2	4	7	River T A	4		-1		-1		-1
-37	fl	2	8	11	River M A	6	River M B	7	River M C	8		-1
-37	fl	2	12	15	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	2	8	11	River M A	6	River M C	7	River M C	8		-1
+37	fl	2	12	15	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	2	16	19	River T A	4		-1		-1		-1
-37	fl	2	20	24	River M A	6	River M B	7	River M C	8		-1
-37	fl	3	0	3	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	2	20	24	River M A	6	River M C	7	River M C	8		-1
+37	fl	3	0	3	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	3	4	7	River B A	5		-1		-1		-1
-37	fl	3	8	11	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+37	fl	3	8	11	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
 37	fl	3	12	15	River B A	5		-1		-1		-1
 37	wr	10	2	2	WBL	22		-1		-1		-1
 37	wr	10	0	1	WR A	20		-1		-1		-1
@@ -4022,14 +4022,14 @@ Expansion
 37	wr	10	9	9	Crypt_12	437		-1		-1		-1
 37	wr	10	12	12	Crypt_21	438		-1		-1		-1
 37	wl	10	13	13	Crypt_22	439		-1		-1		-1
-37	fl	10	0	0	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-37	fl	10	5	11	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
-37	wr	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
-37	wl	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
-37	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+37	fl	10	0	0	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+37	fl	10	5	11	Floor Path A	0	Floor Path C	1	Floor Path C	2	Floor Path D	3
+37	wr	2	0	4	Stn_WR a	11		12		-1		-1
+37	wl	2	0	4	Stn_WL a	13		14		-1		-1
+37	wtr	2	0	4	Stn_WL a	13		14		-1		-1
 37	wtlr	2	0	4	Stn_X	16		-1		-1		-1
 37	wtll	2	0	4	Stn_X	16		-1		-1		-1
-37	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
+37	wbl	2	0	4	Stn_WR a	11		12		-1		-1
 37	wr	2	0	13	F_WR	60		-1		-1		-1
 37	wl	2	0	13	F_WL	61		-1		-1		-1
 37	wtlr	2	-1	-1	F_WTLL	64		-1		-1		-1
@@ -4037,22 +4037,22 @@ Expansion
 37	wbr	2	-1	-1	F_WBR	65		-1		-1		-1
 37	wtr	2	-1	-1	F_WTR	63		-1		-1		-1
 37	wbl	2	-1	-1	F_WBL	62		-1		-1		-1
-37	wr	2	14	23	Stn_WR a	11	Stn_WR b	12		-1		-1
-37	wl	2	14	23	Stn_WL a	13	Stn_WL b	14		-1		-1
-37	wr	3	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-37	wl	3	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
-37	wtr	3	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+37	wr	2	14	23	Stn_WR a	11		12		-1		-1
+37	wl	2	14	23	Stn_WL a	13		14		-1		-1
+37	wr	3	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+37	wl	3	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
+37	wtr	3	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 37	wtlr	3	-1	-1	C_WTLL	55		-1		-1		-1
 37	wtll	3	-1	-1	C_WTLL	55		-1		-1		-1
 37	wbr	3	-1	-1	C_WBR	50		-1		-1		-1
 37	wbl	3	-1	-1	C_WL b	52		-1		-1		-1
-37	wr	23	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
-37	wl	23	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+37	wr	23	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
+37	wl	23	-1	-1	C_WL a	51	C_WL c	52	C_WL c	53	C_WL d	54
 37	wtr	23	-1	-1	C_WRE 2	59		-1		-1		-1
 37	wtlr	23	-1	-1	C_WTLL	55		-1		-1		-1
 37	wtll	23	-1	-1	C_WTLL	55		-1		-1		-1
 37	wbr	23	-1	-1	C_WBR	50		-1		-1		-1
-37	wbl	23	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
+37	wbl	23	-1	-1	C_WR a	46	C_WR c	47	C_WR c	48	C_WR d	49
 37	wle	3	0	0	C_WLE 1	56		-1		-1		-1
 37	wle	3	1	1	C_WLE 2	57		-1		-1		-1
 37	wre	4	0	0	C_WRE 1	58		-1		-1		-1
@@ -4123,8 +4123,8 @@ Expansion
 37	wle	0	0	0	WLE B	33		-1		-1		-1
 37	wle	1	0	0	WLE A	32		-1		-1		-1
 37	wle	1	1	1	WLE B	33		-1		-1		-1
-37	wl	2	-1	-1	WL A	21	WL B	39		-1		-1
-37	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+37	wl	2	-1	-1	WL A	21		39		-1		-1
+37	wl	4	-1	-1	WL A	21		39		-1		-1
 38	wl	50	1	2	hellcaves_obj Walls Left	81		-1		-1		-1
 38	wr	50	1	2	hellcaves_obj Walls Right	80		-1		-1		-1
 38	wl	50	3	3	hellcaves_obj Walls NC Left	83		-1		-1		-1
