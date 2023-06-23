@@ -24,33 +24,33 @@ Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Runes 1 unstack			1						r01	3	r02	2																				0
-Runes 2 unstack			1						r03	3	r04	2	Runes 1 unstack	2																		0
-Runes 3 unstack			1						r05	3	r06	2	Runes 2 unstack	5																		0
-Runes 4 unstack			1						r07	3	r08	2	Runes 3 unstack	7																		0
-Runes 1			1						r01s	3	r02s	2																				0
-Runes 2			1						r03s	3	r04s	2	Runes 1	2																		0
-Runes 3			1						r05s	3	r06s	2	Runes 2	5																		0
-Runes 4			1						r07s	3	r08s	2	Runes 3	7																		0
-Runes 5			1						r09s	3	r10s	2	Runes 4	12																		0
-Runes 6			1						r11s	3	r12s	2	Runes 5	22																		0
-Runes 7			1						r13s	3	r14s	2	Runes 6	45																		0
-Runes 8			1						r15s	3	r16s	2	Runes 7	90																		0
-Runes 9			1						r17s	3	r18s	2	Runes 8	180																		0
-Runes 10			1						r19s	3	r20s	2	Runes 9	360																		0
-Runes 11			1						r21s	3	r22s	2	Runes 10	720																		0
-Runes 12			1						r23s	3	r24s	2	Runes 11	1066																		0
-Runes 13			1						r25s	3	r26s	2	Runes 12	1519																		0
-Runes 14			1						r27s	3	r28s	2	Runes 13	2170																		0
-Runes 15			1						r29s	3	r30s	2	Runes 14	2941																		0
-Runes 16			1						r31s	3	r32s	2	Runes 15	3957																		0
-Runes 17			1						r33s	1	Runes 16	5170																				0
-Runes 12 equiv			1						r23s	3	r24s	2	Runes 11	1066	lpp	3																0
-Runes 13 equiv			1						r25s	3	r26s	2	Runes 12 equiv	1517	lbox	2																0
-Runes 14 equiv			1						r27s	3	r28s	2	Runes 13 equiv	2170																		0
-Runes 15 equiv			1						r29s	3	r30s	2	Runes 14 equiv	2941																		0
-Runes 16 equiv			1						r31s	3	r32s	2	Runes 15 equiv	3957																		0
-Runes 17 equiv			1						r33s	1	Runes 16 equiv	5170																				0
+Runes 1 unstack			1						r01	1	r02	1																				0
+Runes 2 unstack			1						r03	1	r04	1	Runes 1 unstack	1																		0
+Runes 3 unstack			1						r05	1	r06	1	Runes 2 unstack	1																		0
+Runes 4 unstack			1						r07	1	r08	1	Runes 3 unstack	1																		0
+Runes 1			1						r01s	1	r02s	1																				0
+Runes 2			1						r03s	1	r04s	1	Runes 1	1																		0
+Runes 3			1						r05s	1	r06s	1	Runes 2	1																		0
+Runes 4			1						r07s	1	r08s	1	Runes 3	1																		0
+Runes 5			1						r09s	1	r10s	1	Runes 4	1																		0
+Runes 6			1						r11s	1	r12s	1	Runes 5	1																		0
+Runes 7			1						r13s	1	r14s	1	Runes 6	1																		0
+Runes 8			1						r15s	1	r16s	1	Runes 7	1																		0
+Runes 9			1						r17s	1	r18s	1	Runes 8	1																		0
+Runes 10			1						r19s	1	r20s	1	Runes 9	1																		0
+Runes 11			1						r21s	1	r22s	1	Runes 10	1																		0
+Runes 12			1						r23s	1	r24s	1	Runes 11	1																		0
+Runes 13			1						r25s	1	r26s	1	Runes 12	1																		0
+Runes 14			1						r27s	1	r28s	1	Runes 13	1																		0
+Runes 15			1						r29s	1	r30s	1	Runes 14	1																		0
+Runes 16			1						r31s	1	r32s	1	Runes 15	1																		0
+Runes 17			1						r33s	1	Runes 16	1																				0
+Runes 12 equiv			1						r23s	1	r24s	1	Runes 11	1	lpp	1																0
+Runes 13 equiv			1						r25s	1	r26s	1	Runes 12 equiv	1	lbox	1																0
+Runes 14 equiv			1						r27s	1	r28s	1	Runes 13 equiv	1																		0
+Runes 15 equiv			1						r29s	1	r30s	1	Runes 14 equiv	1																		0
+Runes 16 equiv			1						r31s	1	r32s	1	Runes 15 equiv	1																		0
+Runes 17 equiv			1						r33s	1	Runes 16 equiv	1																				0
 Map Tier 1			1			400	800		t21	1	t12	1	t13	1	t22	1	t23	1	t16	1	t33	1										0
 Map Tier 2			1			400	800		t15	1	t11	1	t14	1	t34	1	t36	1	t26	1												0
 Map Tier 3			1			400	800		t31	2	t32	2	t24	2	t25	2	t35	2	t3a	2	t37	2	t38	2	t39	2						0
@@ -242,231 +242,231 @@ Act 5 (H) Good	5	85	1						Jewelry C	120	Chipped Gem	7	Flawed Gem	20	Normal Gem	
 Map Good t1	20	85	1						Jewelry C	120	Chipped Gem	7	Flawed Gem	20	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T1 Map Drop	8						0
 Map Good t2	20	86	1						Jewelry C	120	Chipped Gem	7	Flawed Gem	20	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T2 Map Drop	8						0
 Map Good t3	20	87	1						Jewelry C	120	Chipped Gem	7	Flawed Gem	20	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T3 Map Drop	8						0
-Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
-Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
-Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
-Act 2 Chest A	6	12	4					173	gld	295	Act 2 Junk	295	Act 2 Equip A	196	Act 2 Good	39																0
-Act 2 Chest B	6	15	4					173	gld	295	Act 2 Junk	295	Act 2 Equip B	196	Act 2 Good	39																0
-Act 2 Chest C	6	18	4					145	gld	272	Act 2 Junk	218	Act 3 Junk	54	Act 2 Equip C	272	Act 2 Good	36														0
-Act 3 Chest A	6	20	4					173	gld	295	Act 3 Junk	295	Act 3 Equip A	196	Act 3 Good	39																0
-Act 3 Chest B	6	22	4					173	gld	295	Act 3 Junk	295	Act 3 Equip B	196	Act 3 Good	39																0
-Act 3 Chest C	6	24	4					173	gld	295	Act 3 Junk	295	Act 3 Equip C	196	Act 3 Good	39																0
-Act 4 Chest A	6	26	4					173	gld	295	Act 4 Junk	295	Act 4 Equip A	196	Act 4 Good	39																0
-Act 4 Chest B	6	28	4					173	gld	295	Act 4 Junk	295	Act 4 Equip B	196	Act 4 Good	39																0
-Act 4 Chest C	6	30	4					173	gld	295	Act 4 Junk	295	Act 4 Equip B	196	Act 4 Good	39																0
-Act 5 Chest A	6	32	4					173	gld	295	Act 5 Junk	295	Act 5 Equip A	196	Act 5 Good	39																0
-Act 5 Chest B	6	34	4					173	gld	295	Act 5 Junk	295	Act 5 Equip B	196	Act 5 Good	39																0
-Act 5 Chest C	6	36	4					173	gld	295	Act 5 Junk	295	Act 5 Equip B	196	Act 5 Good	39																0
-Act 1 (N) Chest A	6	38	4					173	gld	295	Act 1 (N) Junk	295	Act 1 (N) Equip A	196	Act 1 (N) Good	39																0
-Act 1 (N) Chest B	6	40	4					173	gld	295	Act 1 (N) Junk	295	Act 1 (N) Equip B	196	Act 1 (N) Good	39																0
-Act 1 (N) Chest C	6	42	4					173	gld	295	Act 1 (N) Junk	295	Act 1 (N) Equip B	196	Act 1 (N) Good	39																0
-Act 2 (N) Chest A	6	44	4					173	gld	295	Act 2 (N) Junk	295	Act 2 (N) Equip A	196	Act 2 (N) Good	39																0
-Act 2 (N) Chest B	6	46	4					173	gld	295	Act 2 (N) Junk	295	Act 2 (N) Equip B	196	Act 2 (N) Good	39																0
-Act 2 (N) Chest C	6	48	4					173	gld	295	Act 2 (N) Junk	295	Act 2 (N) Equip B	196	Act 2 (N) Good	39																0
-Act 3 (N) Chest A	6	50	4					173	gld	295	Act 3 (N) Junk	295	Act 3 (N) Equip A	196	Act 3 (N) Good	39																0
-Act 3 (N) Chest B	6	52	4					173	gld	295	Act 3 (N) Junk	295	Act 3 (N) Equip B	196	Act 3 (N) Good	39																0
-Act 3 (N) Chest C	6	54	4					173	gld	295	Act 3 (N) Junk	295	Act 3 (N) Equip B	196	Act 3 (N) Good	39																0
-Act 4 (N) Chest A	6	56	4					173	gld	295	Act 4 (N) Junk	295	Act 4 (N) Equip A	196	Act 4 (N) Good	39																0
-Act 4 (N) Chest B	6	58	4					173	gld	295	Act 4 (N) Junk	295	Act 4 (N) Equip B	196	Act 4 (N) Good	39																0
-Act 4 (N) Chest C	6	60	4					173	gld	295	Act 4 (N) Junk	295	Act 4 (N) Equip C	196	Act 4 (N) Good	39																0
-Act 5 (N) Chest A	6	62	4					173	gld	295	Act 5 (N) Junk	295	Act 5 (N) Equip A	196	Act 5 (N) Good	39																0
-Act 5 (N) Chest B	6	64	4					173	gld	295	Act 5 (N) Junk	295	Act 5 (N) Equip B	196	Act 5 (N) Good	39																0
-Act 5 (N) Chest C	6	66	4					173	gld	295	Act 5 (N) Junk	295	Act 5 (N) Equip B	196	Act 5 (N) Good	39																0
-Act 1 (H) Chest A	6	68	4					173	gld	295	Act 1 (H) Junk	295	Act 1 (H) Equip A	196	Act 1 (H) Good	39																0
-Act 1 (H) Chest B	6	70	4					173	gld	295	Act 1 (H) Junk	295	Act 1 (H) Equip B	196	Act 1 (H) Good	39																0
-Act 1 (H) Chest C	6	71	4					173	gld	295	Act 1 (H) Junk	295	Act 1 (H) Equip B	196	Act 1 (H) Good	39																0
-Act 2 (H) Chest A	6	72	4					173	gld	295	Act 2 (H) Junk	295	Act 2 (H) Equip A	196	Act 2 (H) Good	39																0
-Act 2 (H) Chest B	6	74	4					173	gld	295	Act 2 (H) Junk	295	Act 2 (H) Equip B	196	Act 2 (H) Good	39																0
-Act 2 (H) Chest C	6	75	4					173	gld	295	Act 2 (H) Junk	295	Act 2 (H) Equip B	196	Act 2 (H) Good	39																0
-Act 3 (H) Chest A	6	76	4					173	gld	295	Act 3 (H) Junk	295	Act 3 (H) Equip A	196	Act 3 (H) Good	39																0
-Act 3 (H) Chest B	6	78	4					173	gld	295	Act 3 (H) Junk	295	Act 3 (H) Equip B	196	Act 3 (H) Good	39																0
-Act 3 (H) Chest C	6	79	4					173	gld	295	Act 3 (H) Junk	295	Act 3 (H) Equip B	196	Act 3 (H) Good	39																0
-Act 4 (H) Chest A	6	80	4					173	gld	295	Act 4 (H) Junk	295	Act 4 (H) Equip A	196	Act 4 (H) Good	39																0
-Act 4 (H) Chest B	6	81	4					173	gld	295	Act 4 (H) Junk	295	Act 4 (H) Equip B	196	Act 4 (H) Good	39																0
-Act 4 (H) Chest C	6	82	4					173	gld	295	Act 4 (H) Junk	295	Act 4 (H) Equip B	196	Act 4 (H) Good	39																0
-Act 5 (H) Chest A	6	83	4					173	gld	295	Act 5 (H) Junk	295	Act 5 (H) Equip A	196	Act 5 (H) Good	39																0
-Act 5 (H) Chest B	6	84	4					173	gld	295	Act 5 (H) Junk	295	Act 5 (H) Equip B	196	Act 5 (H) Good	39																0
-Act 5 (H) Chest C	6	85	4					173	gld	295	Act 5 (H) Junk	295	Act 5 (H) Equip B	196	Act 5 (H) Good	39																0
-Act 1 H2H A	7	0	1					95	gld	316	Act 1 Equip A	241	Act 1 Junk	316	Act 1 Good	30																0
-Act 1 H2H B	7	5	1					95	gld	316	Act 1 Equip B	241	Act 1 Junk	316	Act 1 Good	30																0
-Act 1 H2H C	7	9	1					95	gld	316	Act 1 Equip C	241	Act 1 Junk	316	Act 1 Good	30																0
-Act 2 H2H A	7	12	1					95	gld	316	Act 2 Equip A	241	Act 2 Junk	316	Act 2 Good	30																0
-Act 2 H2H B	7	15	1					95	gld	316	Act 2 Equip B	241	Act 2 Junk	316	Act 2 Good	30																0
-Act 2 H2H C	7	18	1					95	gld	316	Act 2 Equip C	241	Act 2 Junk	316	Act 3 Good	30																0
-Act 3 H2H A	7	20	1					95	gld	316	Act 3 Equip A	241	Act 3 Junk	316	Act 3 Good	30																0
-Act 3 H2H B	7	22	1					95	gld	316	Act 3 Equip B	241	Act 3 Junk	316	Act 3 Good	30																0
-Act 3 H2H C	7	24	1					95	gld	316	Act 3 Equip C	241	Act 3 Junk	316	Act 3 Good	30																0
-Act 4 H2H A	7	26	1					95	gld	316	Act 4 Equip A	241	Act 4 Junk	316	Act 4 Good	30																0
-Act 4 H2H B	7	29	1					95	gld	316	Act 4 Equip B	241	Act 4 Junk	316	Act 4 Good	30																0
-Act 5 H2H A	7	32	1					95	gld	316	Act 5 Equip A	241	Act 5 Junk	316	Act 5 Good	30																0
-Act 5 H2H B	7	34	1					95	gld	316	Act 5 Equip B	241	Act 5 Junk	316	Act 5 Good	30																0
-Act 5 H2H C	7	36	1					95	gld	316	Act 5 Equip C	241	Act 5 Junk	316	Act 5 Good	30																0
-Act 1 (N) H2H A	7	38	1					95	gld	316	Act 1 (N) Equip A	241	Act 1 (N) Junk	316	Act 1 (N) Good	30																0
-Act 1 (N) H2H B	7	40	1					95	gld	316	Act 1 (N) Equip B	241	Act 1 (N) Junk	316	Act 1 (N) Good	30																0
-Act 1 (N) H2H C	7	41	1					95	gld	316	Act 1 (N) Equip B	241	Act 1 (N) Junk	316	Act 1 (N) Good	30																0
-Act 2 (N) H2H A	7	42	1					95	gld	316	Act 2 (N) Equip A	241	Act 2 (N) Junk	316	Act 2 (N) Good	30																0
-Act 2 (N) H2H B	7	44	1					95	gld	316	Act 2 (N) Equip B	241	Act 2 (N) Junk	316	Act 2 (N) Good	30																0
-Act 2 (N) H2H C	7	45	1					95	gld	316	Act 2 (N) Equip B	241	Act 2 (N) Junk	316	Act 2 (N) Good	30																0
-Act 3 (N) H2H A	7	46	1					95	gld	316	Act 3 (N) Equip A	241	Act 3 (N) Junk	316	Act 3 (N) Good	30																0
-Act 3 (N) H2H B	7	48	1					95	gld	316	Act 3 (N) Equip B	241	Act 3 (N) Junk	316	Act 3 (N) Good	30																0
-Act 3 (N) H2H C	7	50	1					95	gld	316	Act 3 (N) Equip B	241	Act 3 (N) Junk	316	Act 3 (N) Good	30																0
-Act 4 (N) H2H A	7	51	1					95	gld	316	Act 4 (N) Equip A	241	Act 4 (N) Junk	316	Act 4 (N) Good	30																0
-Act 4 (N) H2H B	7	54	1					95	gld	316	Act 4 (N) Equip B	241	Act 4 (N) Junk	316	Act 4 (N) Good	30																0
-Act 5 (N) H2H A	7	57	1					95	gld	316	Act 5 (N) Equip A	241	Act 5 (N) Junk	316	Act 5 (N) Good	30																0
-Act 5 (N) H2H B	7	60	1					95	gld	316	Act 5 (N) Equip B	241	Act 5 (N) Junk	316	Act 5 (N) Good	30																0
-Act 5 (N) H2H C	7	62	1					95	gld	316	Act 5 (N) Equip C	241	Act 5 (N) Junk	316	Act 5 (N) Good	30																0
-Act 1 (H) H2H A	7	63	1					95	gld	316	Act 1 (H) Equip A	241	Act 1 (H) Junk	316	Act 1 (H) Good	30																0
-Act 1 (H) H2H B	7	66	1					95	gld	316	Act 1 (H) Equip B	241	Act 1 (H) Junk	316	Act 1 (H) Good	30																0
-Act 1 (H) H2H C	7	68	1					95	gld	316	Act 1 (H) Equip B	241	Act 1 (H) Junk	316	Act 1 (H) Good	30																0
-Act 2 (H) H2H A	7	69	1					95	gld	316	Act 2 (H) Equip A	241	Act 1 (H) Junk	316	Act 2 (H) Good	30																0
-Act 2 (H) H2H B	7	71	1					95	gld	316	Act 2 (H) Equip B	241	Act 1 (H) Junk	316	Act 2 (H) Good	30																0
-Act 2 (H) H2H C	7	73	1					95	gld	316	Act 2 (H) Equip B	241	Act 1 (H) Junk	316	Act 2 (H) Good	30																0
-Act 3 (H) H2H A	7	74	1					95	gld	316	Act 3 (H) Equip A	241	Act 1 (H) Junk	316	Act 3 (H) Good	30																0
-Act 3 (H) H2H B	7	76	1					95	gld	316	Act 3 (H) Equip B	241	Act 1 (H) Junk	316	Act 3 (H) Good	30																0
-Act 3 (H) H2H C	7	77	1					95	gld	316	Act 3 (H) Equip B	241	Act 1 (H) Junk	316	Act 3 (H) Good	30																0
-Act 4 (H) H2H A	7	79	1					95	gld	316	Act 4 (H) Equip A	241	Act 1 (H) Junk	316	Act 4 (H) Good	30																0
-Act 4 (H) H2H B	7	80	1					95	gld	316	Act 4 (H) Equip B	241	Act 1 (H) Junk	316	Act 4 (H) Good	30																0
-Act 5 (H) H2H A	7	82	1					95	gld	316	Act 5 (H) Equip A	241	Act 1 (H) Junk	316	Act 5 (H) Good	30																0
-Act 5 (H) H2H B	7	83	1					95	gld	316	Act 5 (H) Equip B	241	Act 1 (H) Junk	316	Act 5 (H) Good	30																0
-Act 5 (H) H2H C	7	85	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Act 5 (H) Good	30																0
-Map H2H t1	21	85	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t1	30																0
-Map H2H t2	21	85	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t2	30																0
-Map H2H t3	21	85	1					95	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t3	30																0
-Act 1 Cast A	8	0	1					95	gld	271	Act 1 Equip A	226	Act 1 Junk	271	Act 1 Good	30	Act 1 Magic A	105														0
-Act 1 Cast B	8	5	1					95	gld	271	Act 1 Equip B	226	Act 1 Junk	271	Act 1 Good	30	Act 1 Magic B	105														0
-Act 1 Cast C	8	9	1					95	gld	271	Act 1 Equip C	226	Act 1 Junk	271	Act 1 Good	30	Act 1 Magic C	105														0
-Act 2 Cast A	8	12	1					95	gld	271	Act 2 Equip A	226	Act 2 Junk	271	Act 2 Good	30	Act 2 Magic A	105														0
-Act 2 Cast B	8	15	1					95	gld	271	Act 2 Equip B	226	Act 2 Junk	271	Act 2 Good	30	Act 2 Magic B	105														0
-Act 2 Cast C	8	18	1					95	gld	271	Act 2 Equip C	226	Act 2 Junk	271	Act 3 Good	30	Act 2 Magic C	105														0
-Act 3 Cast A	8	20	1					95	gld	271	Act 3 Equip A	226	Act 3 Junk	271	Act 3 Good	30	Act 3 Magic A	105														0
-Act 3 Cast B	8	22	1					95	gld	271	Act 3 Equip B	226	Act 3 Junk	271	Act 3 Good	30	Act 3 Magic B	105														0
-Act 3 Cast C	8	24	1					95	gld	271	Act 3 Equip C	226	Act 3 Junk	271	Act 3 Good	30	Act 3 Magic C	105														0
-Act 4 Cast A	8	26	1					95	gld	271	Act 4 Equip A	226	Act 4 Junk	271	Act 4 Good	30	Act 4 Magic A	105														0
-Act 4 Cast B	8	29	1					95	gld	271	Act 4 Equip B	226	Act 4 Junk	271	Act 4 Good	30	Act 4 Magic B	105														0
-Act 5 Cast A	8	32	1					95	gld	271	Act 5 Equip A	226	Act 5 Junk	271	Act 5 Good	30	Act 5 Magic A	105														0
-Act 5 Cast B	8	34	1					95	gld	271	Act 5 Equip B	226	Act 5 Junk	271	Act 5 Good	30	Act 5 Magic B	105														0
-Act 5 Cast C	8	36	1					95	gld	271	Act 5 Equip C	226	Act 5 Junk	271	Act 5 Good	30	Act 5 Magic C	105														0
-Act 1 (N) Cast A	8	38	1					95	gld	271	Act 1 (N) Equip A	226	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Magic A	105														0
-Act 1 (N) Cast B	8	40	1					95	gld	271	Act 1 (N) Equip B	226	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Magic B	105														0
-Act 1 (N) Cast C	8	41	1					95	gld	271	Act 1 (N) Equip B	226	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Magic B	105														0
-Act 2 (N) Cast A	8	42	1					95	gld	271	Act 2 (N) Equip A	226	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Magic A	105														0
-Act 2 (N) Cast B	8	44	1					95	gld	271	Act 2 (N) Equip B	226	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Magic B	105														0
-Act 2 (N) Cast C	8	45	1					95	gld	271	Act 2 (N) Equip B	226	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Magic B	105														0
-Act 3 (N) Cast A	8	46	1					95	gld	271	Act 3 (N) Equip A	226	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Magic A	105														0
-Act 3 (N) Cast B	8	48	1					95	gld	271	Act 3 (N) Equip B	226	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Magic B	105														0
-Act 3 (N) Cast C	8	50	1					95	gld	271	Act 3 (N) Equip B	226	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Magic B	105														0
-Act 4 (N) Cast A	8	51	1					95	gld	271	Act 4 (N) Equip A	226	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Magic A	105														0
-Act 4 (N) Cast B	8	54	1					95	gld	271	Act 4 (N) Equip B	226	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Magic B	105														0
-Act 5 (N) Cast A	8	57	1					95	gld	271	Act 5 (N) Equip A	226	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Magic A	105														0
-Act 5 (N) Cast B	8	60	1					95	gld	271	Act 5 (N) Equip B	226	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Magic B	105														0
-Act 5 (N) Cast C	8	62	1					95	gld	271	Act 5 (N) Equip C	226	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Magic B	105														0
-Act 1 (H) Cast A	8	63	1					95	gld	271	Act 1 (H) Equip A	226	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Magic A	105														0
-Act 1 (H) Cast B	8	66	1					95	gld	271	Act 1 (H) Equip B	226	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Magic B	105														0
-Act 1 (H) Cast C	8	68	1					95	gld	271	Act 1 (H) Equip B	226	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Magic B	105														0
-Act 2 (H) Cast A	8	69	1					95	gld	271	Act 2 (H) Equip A	226	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Magic A	105														0
-Act 2 (H) Cast B	8	71	1					95	gld	271	Act 2 (H) Equip B	226	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Magic B	105														0
-Act 2 (H) Cast C	8	72	1					95	gld	271	Act 2 (H) Equip B	226	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Magic B	105														0
-Act 3 (H) Cast A	8	74	1					95	gld	271	Act 3 (H) Equip A	226	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Magic A	105														0
-Act 3 (H) Cast B	8	75	1					95	gld	271	Act 3 (H) Equip B	226	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Magic B	105														0
-Act 3 (H) Cast C	8	77	1					95	gld	271	Act 3 (H) Equip B	226	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Magic B	105														0
-Act 4 (H) Cast A	8	78	1					95	gld	271	Act 4 (H) Equip A	226	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Magic A	105														0
-Act 4 (H) Cast B	8	80	1					95	gld	271	Act 4 (H) Equip B	226	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Magic B	105														0
-Act 5 (H) Cast A	8	81	1					95	gld	271	Act 5 (H) Equip A	226	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Magic A	105														0
-Act 5 (H) Cast B	8	83	1					95	gld	271	Act 5 (H) Equip B	226	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Magic B	105														0
-Act 5 (H) Cast C	8	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Magic B	105														0
-Map Cast t1	22	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t1	30	Act 5 (H) Magic B	105														0
-Map Cast t2	22	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t2	30	Act 5 (H) Magic B	105														0
-Map Cast t3	22	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t3	30	Act 5 (H) Magic B	105														0
-Act 1 Miss A	9	0	1					95	gld	271	Act 1 Equip A	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow A	90	Ammo	45												0
-Act 1 Miss B	9	5	1					95	gld	271	Act 1 Equip B	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow B	90	Ammo	45												0
-Act 1 Miss C	9	9	1					95	gld	271	Act 1 Equip C	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow C	90	Ammo	45												0
-Act 2 Miss A	9	12	1					95	gld	271	Act 2 Equip A	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow A	90	Ammo	45												0
-Act 2 Miss B	9	15	1					95	gld	271	Act 2 Equip B	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow B	90	Ammo	45												0
-Act 2 Miss C	9	18	1					95	gld	271	Act 2 Equip C	196	Act 2 Junk	271	Act 3 Good	30	Act 2 Bow C	90	Ammo	45												0
-Act 3 Miss A	9	20	1					95	gld	271	Act 3 Equip A	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow A	90	Ammo	45												0
-Act 3 Miss B	9	22	1					95	gld	271	Act 3 Equip B	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow B	90	Ammo	45												0
-Act 3 Miss C	9	24	1					95	gld	271	Act 3 Equip C	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow C	90	Ammo	45												0
-Act 4 Miss A	9	26	1					95	gld	271	Act 4 Equip A	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow A	90	Ammo	45												0
-Act 4 Miss B	9	29	1					95	gld	271	Act 4 Equip B	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow B	90	Ammo	45												0
-Act 5 Miss A	9	32	1					95	gld	271	Act 5 Equip A	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow A	90	Ammo	45												0
-Act 5 Miss B	9	34	1					95	gld	271	Act 5 Equip B	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	45												0
-Act 5 Miss C	9	36	1					95	gld	271	Act 5 Equip C	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	45												0
-Act 1 (N) Miss A	9	38	1					95	gld	271	Act 1 (N) Equip A	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow A	90	Ammo	45												0
-Act 1 (N) Miss B	9	40	1					95	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo	45												0
-Act 1 (N) Miss C	9	41	1					95	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo	45												0
-Act 2 (N) Miss A	9	42	1					95	gld	271	Act 2 (N) Equip A	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow A	90	Ammo	45												0
-Act 2 (N) Miss B	9	44	1					95	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo	45												0
-Act 2 (N) Miss C	9	45	1					95	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo	45												0
-Act 3 (N) Miss A	9	46	1					95	gld	271	Act 3 (N) Equip A	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow A	90	Ammo	45												0
-Act 3 (N) Miss B	9	48	1					95	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo	45												0
-Act 3 (N) Miss C	9	50	1					95	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo	45												0
-Act 4 (N) Miss A	9	51	1					95	gld	271	Act 4 (N) Equip A	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow A	90	Ammo	45												0
-Act 4 (N) Miss B	9	54	1					95	gld	271	Act 4 (N) Equip B	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow B	90	Ammo	45												0
-Act 5 (N) Miss A	9	57	1					95	gld	271	Act 5 (N) Equip A	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow A	90	Ammo	45												0
-Act 5 (N) Miss B	9	60	1					95	gld	271	Act 5 (N) Equip B	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo	45												0
-Act 5 (N) Miss C	9	62	1					95	gld	271	Act 5 (N) Equip C	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo	45												0
-Act 1 (H) Miss A	9	63	1					95	gld	271	Act 1 (H) Equip A	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow A	90	Ammo	45												0
-Act 1 (H) Miss B	9	66	1					95	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo	45												0
-Act 1 (H) Miss C	9	68	1					95	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo	45												0
-Act 2 (H) Miss A	9	69	1					95	gld	271	Act 2 (H) Equip A	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow A	90	Ammo	45												0
-Act 2 (H) Miss B	9	71	1					95	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo	45												0
-Act 2 (H) Miss C	9	72	1					95	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo	45												0
-Act 3 (H) Miss A	9	74	1					95	gld	271	Act 3 (H) Equip A	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow A	90	Ammo	45												0
-Act 3 (H) Miss B	9	75	1					95	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo	45												0
-Act 3 (H) Miss C	9	77	1					95	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo	45												0
-Act 4 (H) Miss A	9	78	1					95	gld	271	Act 4 (H) Equip A	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow A	90	Ammo	45												0
-Act 4 (H) Miss B	9	80	1					95	gld	271	Act 4 (H) Equip B	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow B	90	Ammo	45												0
-Act 5 (H) Miss A	9	81	1					95	gld	271	Act 5 (H) Equip A	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow A	90	Ammo	45												0
-Act 5 (H) Miss B	9	83	1					95	gld	271	Act 5 (H) Equip B	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo	45												0
-Act 5 (H) Miss C	9	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo	45												0
-Map Miss t1	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t1	30	Act 5 (H) Bow B	90	Ammo	45												0
-Map Miss t2	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t2	30	Act 5 (H) Bow B	90	Ammo	45												0
-Map Miss t3	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t3	30	Act 5 (H) Bow B	90	Ammo	45												0
-Act 1 Wraith A	10	0	1					195	Act 1 Good	111	Act 1 Magic A	693																				0
-Act 1 Wraith B	10	5	1					195	Act 1 Good	111	Act 1 Magic B	693																				0
-Act 1 Wraith C	10	9	1					195	Act 1 Good	111	Act 1 Magic C	693																				0
-Act 2 Wraith A	10	12	1					195	Act 2 Good	111	Act 2 Magic A	693																				0
-Act 2 Wraith B	10	15	1					195	Act 2 Good	111	Act 2 Magic B	693																				0
-Act 2 Wraith C	10	18	1					195	Act 3 Good	111	Act 2 Magic C	693																				0
-Act 3 Wraith A	10	20	1					195	Act 3 Good	111	Act 3 Magic A	693																				0
-Act 3 Wraith B	10	22	1					195	Act 3 Good	111	Act 3 Magic B	693																				0
-Act 3 Wraith C	10	24	1					195	Act 3 Good	111	Act 3 Magic C	693																				0
-Act 4 Wraith A	10	26	1					195	Act 4 Good	111	Act 4 Magic A	693																				0
-Act 4 Wraith B	10	29	1					195	Act 4 Good	111	Act 4 Magic B	693																				0
-Act 5 Wraith A	10	32	1					195	Act 5 Good	111	Act 5 Magic A	693																				0
-Act 5 Wraith B	10	34	1					195	Act 5 Good	111	Act 5 Magic B	693																				0
-Act 5 Wraith C	10	36	1					195	Act 5 Good	111	Act 5 Magic C	693																				0
-Act 1 (N) Wraith A	10	38	1					195	Act 1 (N) Good	111	Act 1 (N) Magic A	693																				0
-Act 1 (N) Wraith B	10	40	1					195	Act 1 (N) Good	111	Act 1 (N) Magic B	693																				0
-Act 1 (N) Wraith C	10	41	1					195	Act 1 (N) Good	111	Act 1 (N) Magic B	693																				0
-Act 2 (N) Wraith A	10	42	1					195	Act 2 (N) Good	111	Act 2 (N) Magic A	693																				0
-Act 2 (N) Wraith B	10	44	1					195	Act 2 (N) Good	111	Act 2 (N) Magic B	693																				0
-Act 2 (N) Wraith C	10	45	1					195	Act 2 (N) Good	111	Act 2 (N) Magic B	693																				0
-Act 3 (N) Wraith A	10	46	1					195	Act 3 (N) Good	111	Act 3 (N) Magic A	693																				0
-Act 3 (N) Wraith B	10	48	1					195	Act 3 (N) Good	111	Act 3 (N) Magic B	693																				0
-Act 3 (N) Wraith C	10	50	1					195	Act 3 (N) Good	111	Act 3 (N) Magic B	693																				0
-Act 4 (N) Wraith A	10	51	1					195	Act 4 (N) Good	111	Act 4 (N) Magic A	693																				0
-Act 4 (N) Wraith B	10	54	1					195	Act 4 (N) Good	111	Act 4 (N) Magic B	693																				0
-Act 5 (N) Wraith A	10	57	1					195	Act 5 (N) Good	111	Act 5 (N) Magic A	693																				0
-Act 5 (N) Wraith B	10	60	1					195	Act 5 (N) Good	111	Act 5 (N) Magic B	693																				0
-Act 5 (N) Wraith C	10	62	1					195	Act 5 (N) Good	111	Act 5 (N) Magic C	693																				0
-Act 1 (H) Wraith A	10	63	1					195	Act 1 (H) Good	111	Act 1 (H) Magic A	693																				0
-Act 1 (H) Wraith B	10	66	1					195	Act 1 (H) Good	111	Act 1 (H) Magic B	693																				0
-Act 1 (H) Wraith C	10	68	1					195	Act 1 (H) Good	111	Act 1 (H) Magic B	693																				0
-Act 2 (H) Wraith A	10	69	1					195	Act 2 (H) Good	111	Act 2 (H) Magic A	693																				0
-Act 2 (H) Wraith B	10	71	1					195	Act 2 (H) Good	111	Act 2 (H) Magic B	693																				0
-Act 2 (H) Wraith C	10	72	1					195	Act 2 (H) Good	111	Act 2 (H) Magic B	693																				0
-Act 3 (H) Wraith A	10	74	1					195	Act 3 (H) Good	111	Act 3 (H) Magic A	693																				0
-Act 3 (H) Wraith B	10	75	1					195	Act 3 (H) Good	111	Act 3 (H) Magic B	693																				0
-Act 3 (H) Wraith C	10	77	1					195	Act 3 (H) Good	111	Act 3 (H) Magic B	693																				0
-Act 4 (H) Wraith A	10	78	1					195	Act 4 (H) Good	111	Act 4 (H) Magic A	693																				0
-Act 4 (H) Wraith B	10	80	1					195	Act 4 (H) Good	111	Act 4 (H) Magic B	693																				0
-Act 5 (H) Wraith A	10	81	1					195	Act 5 (H) Good	111	Act 5 (H) Magic A	693																				0
-Act 5 (H) Wraith B	10	83	1					195	Act 5 (H) Good	111	Act 5 (H) Magic B	693																				0
-Act 5 (H) Wraith C	10	85	1					195	Act 5 (H) Good	111	Act 5 (H) Magic C	693																				0
-Map Wraith t1	24	85	1					195	Map Good t1	111	Act 5 (H) Magic C	693																				0
-Map Wraith t2	24	85	1					195	Map Good t2	111	Act 5 (H) Magic C	693																				0
-Map Wraith t3	24	85	1					195	Map Good t3	111	Act 5 (H) Magic C	693																				0
+Act 1 Chest A	6	0	4					0	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
+Act 1 Chest B	6	5	4					0	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
+Act 1 Chest C	6	9	4					0	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
+Act 2 Chest A	6	12	4					0	gld	295	Act 2 Junk	295	Act 2 Equip A	196	Act 2 Good	39																0
+Act 2 Chest B	6	15	4					0	gld	295	Act 2 Junk	295	Act 2 Equip B	196	Act 2 Good	39																0
+Act 2 Chest C	6	18	4					0	gld	272	Act 2 Junk	218	Act 3 Junk	54	Act 2 Equip C	272	Act 2 Good	36														0
+Act 3 Chest A	6	20	4					0	gld	295	Act 3 Junk	295	Act 3 Equip A	196	Act 3 Good	39																0
+Act 3 Chest B	6	22	4					0	gld	295	Act 3 Junk	295	Act 3 Equip B	196	Act 3 Good	39																0
+Act 3 Chest C	6	24	4					0	gld	295	Act 3 Junk	295	Act 3 Equip C	196	Act 3 Good	39																0
+Act 4 Chest A	6	26	4					0	gld	295	Act 4 Junk	295	Act 4 Equip A	196	Act 4 Good	39																0
+Act 4 Chest B	6	28	4					0	gld	295	Act 4 Junk	295	Act 4 Equip B	196	Act 4 Good	39																0
+Act 4 Chest C	6	30	4					0	gld	295	Act 4 Junk	295	Act 4 Equip B	196	Act 4 Good	39																0
+Act 5 Chest A	6	32	4					0	gld	295	Act 5 Junk	295	Act 5 Equip A	196	Act 5 Good	39																0
+Act 5 Chest B	6	34	4					0	gld	295	Act 5 Junk	295	Act 5 Equip B	196	Act 5 Good	39																0
+Act 5 Chest C	6	36	4					0	gld	295	Act 5 Junk	295	Act 5 Equip B	196	Act 5 Good	39																0
+Act 1 (N) Chest A	6	38	4					0	gld	295	Act 1 (N) Junk	295	Act 1 (N) Equip A	196	Act 1 (N) Good	39																0
+Act 1 (N) Chest B	6	40	4					0	gld	295	Act 1 (N) Junk	295	Act 1 (N) Equip B	196	Act 1 (N) Good	39																0
+Act 1 (N) Chest C	6	42	4					0	gld	295	Act 1 (N) Junk	295	Act 1 (N) Equip B	196	Act 1 (N) Good	39																0
+Act 2 (N) Chest A	6	44	4					0	gld	295	Act 2 (N) Junk	295	Act 2 (N) Equip A	196	Act 2 (N) Good	39																0
+Act 2 (N) Chest B	6	46	4					0	gld	295	Act 2 (N) Junk	295	Act 2 (N) Equip B	196	Act 2 (N) Good	39																0
+Act 2 (N) Chest C	6	48	4					0	gld	295	Act 2 (N) Junk	295	Act 2 (N) Equip B	196	Act 2 (N) Good	39																0
+Act 3 (N) Chest A	6	50	4					0	gld	295	Act 3 (N) Junk	295	Act 3 (N) Equip A	196	Act 3 (N) Good	39																0
+Act 3 (N) Chest B	6	52	4					0	gld	295	Act 3 (N) Junk	295	Act 3 (N) Equip B	196	Act 3 (N) Good	39																0
+Act 3 (N) Chest C	6	54	4					0	gld	295	Act 3 (N) Junk	295	Act 3 (N) Equip B	196	Act 3 (N) Good	39																0
+Act 4 (N) Chest A	6	56	4					0	gld	295	Act 4 (N) Junk	295	Act 4 (N) Equip A	196	Act 4 (N) Good	39																0
+Act 4 (N) Chest B	6	58	4					0	gld	295	Act 4 (N) Junk	295	Act 4 (N) Equip B	196	Act 4 (N) Good	39																0
+Act 4 (N) Chest C	6	60	4					0	gld	295	Act 4 (N) Junk	295	Act 4 (N) Equip C	196	Act 4 (N) Good	39																0
+Act 5 (N) Chest A	6	62	4					0	gld	295	Act 5 (N) Junk	295	Act 5 (N) Equip A	196	Act 5 (N) Good	39																0
+Act 5 (N) Chest B	6	64	4					0	gld	295	Act 5 (N) Junk	295	Act 5 (N) Equip B	196	Act 5 (N) Good	39																0
+Act 5 (N) Chest C	6	66	4					0	gld	295	Act 5 (N) Junk	295	Act 5 (N) Equip B	196	Act 5 (N) Good	39																0
+Act 1 (H) Chest A	6	68	4					0	gld	295	Act 1 (H) Junk	295	Act 1 (H) Equip A	196	Act 1 (H) Good	39																0
+Act 1 (H) Chest B	6	70	4					0	gld	295	Act 1 (H) Junk	295	Act 1 (H) Equip B	196	Act 1 (H) Good	39																0
+Act 1 (H) Chest C	6	71	4					0	gld	295	Act 1 (H) Junk	295	Act 1 (H) Equip B	196	Act 1 (H) Good	39																0
+Act 2 (H) Chest A	6	72	4					0	gld	295	Act 2 (H) Junk	295	Act 2 (H) Equip A	196	Act 2 (H) Good	39																0
+Act 2 (H) Chest B	6	74	4					0	gld	295	Act 2 (H) Junk	295	Act 2 (H) Equip B	196	Act 2 (H) Good	39																0
+Act 2 (H) Chest C	6	75	4					0	gld	295	Act 2 (H) Junk	295	Act 2 (H) Equip B	196	Act 2 (H) Good	39																0
+Act 3 (H) Chest A	6	76	4					0	gld	295	Act 3 (H) Junk	295	Act 3 (H) Equip A	196	Act 3 (H) Good	39																0
+Act 3 (H) Chest B	6	78	4					0	gld	295	Act 3 (H) Junk	295	Act 3 (H) Equip B	196	Act 3 (H) Good	39																0
+Act 3 (H) Chest C	6	79	4					0	gld	295	Act 3 (H) Junk	295	Act 3 (H) Equip B	196	Act 3 (H) Good	39																0
+Act 4 (H) Chest A	6	80	4					0	gld	295	Act 4 (H) Junk	295	Act 4 (H) Equip A	196	Act 4 (H) Good	39																0
+Act 4 (H) Chest B	6	81	4					0	gld	295	Act 4 (H) Junk	295	Act 4 (H) Equip B	196	Act 4 (H) Good	39																0
+Act 4 (H) Chest C	6	82	4					0	gld	295	Act 4 (H) Junk	295	Act 4 (H) Equip B	196	Act 4 (H) Good	39																0
+Act 5 (H) Chest A	6	83	4					0	gld	295	Act 5 (H) Junk	295	Act 5 (H) Equip A	196	Act 5 (H) Good	39																0
+Act 5 (H) Chest B	6	84	4					0	gld	295	Act 5 (H) Junk	295	Act 5 (H) Equip B	196	Act 5 (H) Good	39																0
+Act 5 (H) Chest C	6	85	4					0	gld	295	Act 5 (H) Junk	295	Act 5 (H) Equip B	196	Act 5 (H) Good	39																0
+Act 1 H2H A	7	0	1					0	gld	316	Act 1 Equip A	241	Act 1 Junk	316	Act 1 Good	30																0
+Act 1 H2H B	7	5	1					0	gld	316	Act 1 Equip B	241	Act 1 Junk	316	Act 1 Good	30																0
+Act 1 H2H C	7	9	1					0	gld	316	Act 1 Equip C	241	Act 1 Junk	316	Act 1 Good	30																0
+Act 2 H2H A	7	12	1					0	gld	316	Act 2 Equip A	241	Act 2 Junk	316	Act 2 Good	30																0
+Act 2 H2H B	7	15	1					0	gld	316	Act 2 Equip B	241	Act 2 Junk	316	Act 2 Good	30																0
+Act 2 H2H C	7	18	1					0	gld	316	Act 2 Equip C	241	Act 2 Junk	316	Act 3 Good	30																0
+Act 3 H2H A	7	20	1					0	gld	316	Act 3 Equip A	241	Act 3 Junk	316	Act 3 Good	30																0
+Act 3 H2H B	7	22	1					0	gld	316	Act 3 Equip B	241	Act 3 Junk	316	Act 3 Good	30																0
+Act 3 H2H C	7	24	1					0	gld	316	Act 3 Equip C	241	Act 3 Junk	316	Act 3 Good	30																0
+Act 4 H2H A	7	26	1					0	gld	316	Act 4 Equip A	241	Act 4 Junk	316	Act 4 Good	30																0
+Act 4 H2H B	7	29	1					0	gld	316	Act 4 Equip B	241	Act 4 Junk	316	Act 4 Good	30																0
+Act 5 H2H A	7	32	1					0	gld	316	Act 5 Equip A	241	Act 5 Junk	316	Act 5 Good	30																0
+Act 5 H2H B	7	34	1					0	gld	316	Act 5 Equip B	241	Act 5 Junk	316	Act 5 Good	30																0
+Act 5 H2H C	7	36	1					0	gld	316	Act 5 Equip C	241	Act 5 Junk	316	Act 5 Good	30																0
+Act 1 (N) H2H A	7	38	1					0	gld	316	Act 1 (N) Equip A	241	Act 1 (N) Junk	316	Act 1 (N) Good	30																0
+Act 1 (N) H2H B	7	40	1					0	gld	316	Act 1 (N) Equip B	241	Act 1 (N) Junk	316	Act 1 (N) Good	30																0
+Act 1 (N) H2H C	7	41	1					0	gld	316	Act 1 (N) Equip B	241	Act 1 (N) Junk	316	Act 1 (N) Good	30																0
+Act 2 (N) H2H A	7	42	1					0	gld	316	Act 2 (N) Equip A	241	Act 2 (N) Junk	316	Act 2 (N) Good	30																0
+Act 2 (N) H2H B	7	44	1					0	gld	316	Act 2 (N) Equip B	241	Act 2 (N) Junk	316	Act 2 (N) Good	30																0
+Act 2 (N) H2H C	7	45	1					0	gld	316	Act 2 (N) Equip B	241	Act 2 (N) Junk	316	Act 2 (N) Good	30																0
+Act 3 (N) H2H A	7	46	1					0	gld	316	Act 3 (N) Equip A	241	Act 3 (N) Junk	316	Act 3 (N) Good	30																0
+Act 3 (N) H2H B	7	48	1					0	gld	316	Act 3 (N) Equip B	241	Act 3 (N) Junk	316	Act 3 (N) Good	30																0
+Act 3 (N) H2H C	7	50	1					0	gld	316	Act 3 (N) Equip B	241	Act 3 (N) Junk	316	Act 3 (N) Good	30																0
+Act 4 (N) H2H A	7	51	1					0	gld	316	Act 4 (N) Equip A	241	Act 4 (N) Junk	316	Act 4 (N) Good	30																0
+Act 4 (N) H2H B	7	54	1					0	gld	316	Act 4 (N) Equip B	241	Act 4 (N) Junk	316	Act 4 (N) Good	30																0
+Act 5 (N) H2H A	7	57	1					0	gld	316	Act 5 (N) Equip A	241	Act 5 (N) Junk	316	Act 5 (N) Good	30																0
+Act 5 (N) H2H B	7	60	1					0	gld	316	Act 5 (N) Equip B	241	Act 5 (N) Junk	316	Act 5 (N) Good	30																0
+Act 5 (N) H2H C	7	62	1					0	gld	316	Act 5 (N) Equip C	241	Act 5 (N) Junk	316	Act 5 (N) Good	30																0
+Act 1 (H) H2H A	7	63	1					0	gld	316	Act 1 (H) Equip A	241	Act 1 (H) Junk	316	Act 1 (H) Good	30																0
+Act 1 (H) H2H B	7	66	1					0	gld	316	Act 1 (H) Equip B	241	Act 1 (H) Junk	316	Act 1 (H) Good	30																0
+Act 1 (H) H2H C	7	68	1					0	gld	316	Act 1 (H) Equip B	241	Act 1 (H) Junk	316	Act 1 (H) Good	30																0
+Act 2 (H) H2H A	7	69	1					0	gld	316	Act 2 (H) Equip A	241	Act 1 (H) Junk	316	Act 2 (H) Good	30																0
+Act 2 (H) H2H B	7	71	1					0	gld	316	Act 2 (H) Equip B	241	Act 1 (H) Junk	316	Act 2 (H) Good	30																0
+Act 2 (H) H2H C	7	73	1					0	gld	316	Act 2 (H) Equip B	241	Act 1 (H) Junk	316	Act 2 (H) Good	30																0
+Act 3 (H) H2H A	7	74	1					0	gld	316	Act 3 (H) Equip A	241	Act 1 (H) Junk	316	Act 3 (H) Good	30																0
+Act 3 (H) H2H B	7	76	1					0	gld	316	Act 3 (H) Equip B	241	Act 1 (H) Junk	316	Act 3 (H) Good	30																0
+Act 3 (H) H2H C	7	77	1					0	gld	316	Act 3 (H) Equip B	241	Act 1 (H) Junk	316	Act 3 (H) Good	30																0
+Act 4 (H) H2H A	7	79	1					0	gld	316	Act 4 (H) Equip A	241	Act 1 (H) Junk	316	Act 4 (H) Good	30																0
+Act 4 (H) H2H B	7	80	1					0	gld	316	Act 4 (H) Equip B	241	Act 1 (H) Junk	316	Act 4 (H) Good	30																0
+Act 5 (H) H2H A	7	82	1					0	gld	316	Act 5 (H) Equip A	241	Act 1 (H) Junk	316	Act 5 (H) Good	30																0
+Act 5 (H) H2H B	7	83	1					0	gld	316	Act 5 (H) Equip B	241	Act 1 (H) Junk	316	Act 5 (H) Good	30																0
+Act 5 (H) H2H C	7	85	1					0	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Act 5 (H) Good	30																0
+Map H2H t1	21	85	1					0	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t1	30																0
+Map H2H t2	21	85	1					0	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t2	30																0
+Map H2H t3	21	85	1					0	gld	316	Act 5 (H) Equip C	241	Act 1 (H) Junk	316	Map Good t3	30																0
+Act 1 Cast A	8	0	1					0	gld	271	Act 1 Equip A	226	Act 1 Junk	271	Act 1 Good	30	Act 1 Magic A	105														0
+Act 1 Cast B	8	5	1					0	gld	271	Act 1 Equip B	226	Act 1 Junk	271	Act 1 Good	30	Act 1 Magic B	105														0
+Act 1 Cast C	8	9	1					0	gld	271	Act 1 Equip C	226	Act 1 Junk	271	Act 1 Good	30	Act 1 Magic C	105														0
+Act 2 Cast A	8	12	1					0	gld	271	Act 2 Equip A	226	Act 2 Junk	271	Act 2 Good	30	Act 2 Magic A	105														0
+Act 2 Cast B	8	15	1					0	gld	271	Act 2 Equip B	226	Act 2 Junk	271	Act 2 Good	30	Act 2 Magic B	105														0
+Act 2 Cast C	8	18	1					0	gld	271	Act 2 Equip C	226	Act 2 Junk	271	Act 3 Good	30	Act 2 Magic C	105														0
+Act 3 Cast A	8	20	1					0	gld	271	Act 3 Equip A	226	Act 3 Junk	271	Act 3 Good	30	Act 3 Magic A	105														0
+Act 3 Cast B	8	22	1					0	gld	271	Act 3 Equip B	226	Act 3 Junk	271	Act 3 Good	30	Act 3 Magic B	105														0
+Act 3 Cast C	8	24	1					0	gld	271	Act 3 Equip C	226	Act 3 Junk	271	Act 3 Good	30	Act 3 Magic C	105														0
+Act 4 Cast A	8	26	1					0	gld	271	Act 4 Equip A	226	Act 4 Junk	271	Act 4 Good	30	Act 4 Magic A	105														0
+Act 4 Cast B	8	29	1					0	gld	271	Act 4 Equip B	226	Act 4 Junk	271	Act 4 Good	30	Act 4 Magic B	105														0
+Act 5 Cast A	8	32	1					0	gld	271	Act 5 Equip A	226	Act 5 Junk	271	Act 5 Good	30	Act 5 Magic A	105														0
+Act 5 Cast B	8	34	1					0	gld	271	Act 5 Equip B	226	Act 5 Junk	271	Act 5 Good	30	Act 5 Magic B	105														0
+Act 5 Cast C	8	36	1					0	gld	271	Act 5 Equip C	226	Act 5 Junk	271	Act 5 Good	30	Act 5 Magic C	105														0
+Act 1 (N) Cast A	8	38	1					0	gld	271	Act 1 (N) Equip A	226	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Magic A	105														0
+Act 1 (N) Cast B	8	40	1					0	gld	271	Act 1 (N) Equip B	226	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Magic B	105														0
+Act 1 (N) Cast C	8	41	1					0	gld	271	Act 1 (N) Equip B	226	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Magic B	105														0
+Act 2 (N) Cast A	8	42	1					0	gld	271	Act 2 (N) Equip A	226	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Magic A	105														0
+Act 2 (N) Cast B	8	44	1					0	gld	271	Act 2 (N) Equip B	226	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Magic B	105														0
+Act 2 (N) Cast C	8	45	1					0	gld	271	Act 2 (N) Equip B	226	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Magic B	105														0
+Act 3 (N) Cast A	8	46	1					0	gld	271	Act 3 (N) Equip A	226	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Magic A	105														0
+Act 3 (N) Cast B	8	48	1					0	gld	271	Act 3 (N) Equip B	226	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Magic B	105														0
+Act 3 (N) Cast C	8	50	1					0	gld	271	Act 3 (N) Equip B	226	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Magic B	105														0
+Act 4 (N) Cast A	8	51	1					0	gld	271	Act 4 (N) Equip A	226	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Magic A	105														0
+Act 4 (N) Cast B	8	54	1					0	gld	271	Act 4 (N) Equip B	226	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Magic B	105														0
+Act 5 (N) Cast A	8	57	1					0	gld	271	Act 5 (N) Equip A	226	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Magic A	105														0
+Act 5 (N) Cast B	8	60	1					0	gld	271	Act 5 (N) Equip B	226	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Magic B	105														0
+Act 5 (N) Cast C	8	62	1					0	gld	271	Act 5 (N) Equip C	226	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Magic B	105														0
+Act 1 (H) Cast A	8	63	1					0	gld	271	Act 1 (H) Equip A	226	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Magic A	105														0
+Act 1 (H) Cast B	8	66	1					0	gld	271	Act 1 (H) Equip B	226	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Magic B	105														0
+Act 1 (H) Cast C	8	68	1					0	gld	271	Act 1 (H) Equip B	226	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Magic B	105														0
+Act 2 (H) Cast A	8	69	1					0	gld	271	Act 2 (H) Equip A	226	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Magic A	105														0
+Act 2 (H) Cast B	8	71	1					0	gld	271	Act 2 (H) Equip B	226	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Magic B	105														0
+Act 2 (H) Cast C	8	72	1					0	gld	271	Act 2 (H) Equip B	226	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Magic B	105														0
+Act 3 (H) Cast A	8	74	1					0	gld	271	Act 3 (H) Equip A	226	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Magic A	105														0
+Act 3 (H) Cast B	8	75	1					0	gld	271	Act 3 (H) Equip B	226	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Magic B	105														0
+Act 3 (H) Cast C	8	77	1					0	gld	271	Act 3 (H) Equip B	226	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Magic B	105														0
+Act 4 (H) Cast A	8	78	1					0	gld	271	Act 4 (H) Equip A	226	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Magic A	105														0
+Act 4 (H) Cast B	8	80	1					0	gld	271	Act 4 (H) Equip B	226	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Magic B	105														0
+Act 5 (H) Cast A	8	81	1					0	gld	271	Act 5 (H) Equip A	226	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Magic A	105														0
+Act 5 (H) Cast B	8	83	1					0	gld	271	Act 5 (H) Equip B	226	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Magic B	105														0
+Act 5 (H) Cast C	8	85	1					0	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Magic B	105														0
+Map Cast t1	22	85	1					0	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t1	30	Act 5 (H) Magic B	105														0
+Map Cast t2	22	85	1					0	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t2	30	Act 5 (H) Magic B	105														0
+Map Cast t3	22	85	1					0	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t3	30	Act 5 (H) Magic B	105														0
+Act 1 Miss A	9	0	1					0	gld	271	Act 1 Equip A	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow A	90	Ammo	45												0
+Act 1 Miss B	9	5	1					0	gld	271	Act 1 Equip B	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow B	90	Ammo	45												0
+Act 1 Miss C	9	9	1					0	gld	271	Act 1 Equip C	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow C	90	Ammo	45												0
+Act 2 Miss A	9	12	1					0	gld	271	Act 2 Equip A	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow A	90	Ammo	45												0
+Act 2 Miss B	9	15	1					0	gld	271	Act 2 Equip B	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow B	90	Ammo	45												0
+Act 2 Miss C	9	18	1					0	gld	271	Act 2 Equip C	196	Act 2 Junk	271	Act 3 Good	30	Act 2 Bow C	90	Ammo	45												0
+Act 3 Miss A	9	20	1					0	gld	271	Act 3 Equip A	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow A	90	Ammo	45												0
+Act 3 Miss B	9	22	1					0	gld	271	Act 3 Equip B	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow B	90	Ammo	45												0
+Act 3 Miss C	9	24	1					0	gld	271	Act 3 Equip C	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow C	90	Ammo	45												0
+Act 4 Miss A	9	26	1					0	gld	271	Act 4 Equip A	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow A	90	Ammo	45												0
+Act 4 Miss B	9	29	1					0	gld	271	Act 4 Equip B	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow B	90	Ammo	45												0
+Act 5 Miss A	9	32	1					0	gld	271	Act 5 Equip A	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow A	90	Ammo	45												0
+Act 5 Miss B	9	34	1					0	gld	271	Act 5 Equip B	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	45												0
+Act 5 Miss C	9	36	1					0	gld	271	Act 5 Equip C	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	45												0
+Act 1 (N) Miss A	9	38	1					0	gld	271	Act 1 (N) Equip A	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow A	90	Ammo	45												0
+Act 1 (N) Miss B	9	40	1					0	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo	45												0
+Act 1 (N) Miss C	9	41	1					0	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo	45												0
+Act 2 (N) Miss A	9	42	1					0	gld	271	Act 2 (N) Equip A	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow A	90	Ammo	45												0
+Act 2 (N) Miss B	9	44	1					0	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo	45												0
+Act 2 (N) Miss C	9	45	1					0	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo	45												0
+Act 3 (N) Miss A	9	46	1					0	gld	271	Act 3 (N) Equip A	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow A	90	Ammo	45												0
+Act 3 (N) Miss B	9	48	1					0	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo	45												0
+Act 3 (N) Miss C	9	50	1					0	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo	45												0
+Act 4 (N) Miss A	9	51	1					0	gld	271	Act 4 (N) Equip A	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow A	90	Ammo	45												0
+Act 4 (N) Miss B	9	54	1					0	gld	271	Act 4 (N) Equip B	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow B	90	Ammo	45												0
+Act 5 (N) Miss A	9	57	1					0	gld	271	Act 5 (N) Equip A	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow A	90	Ammo	45												0
+Act 5 (N) Miss B	9	60	1					0	gld	271	Act 5 (N) Equip B	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo	45												0
+Act 5 (N) Miss C	9	62	1					0	gld	271	Act 5 (N) Equip C	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo	45												0
+Act 1 (H) Miss A	9	63	1					0	gld	271	Act 1 (H) Equip A	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow A	90	Ammo	45												0
+Act 1 (H) Miss B	9	66	1					0	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo	45												0
+Act 1 (H) Miss C	9	68	1					0	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo	45												0
+Act 2 (H) Miss A	9	69	1					0	gld	271	Act 2 (H) Equip A	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow A	90	Ammo	45												0
+Act 2 (H) Miss B	9	71	1					0	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo	45												0
+Act 2 (H) Miss C	9	72	1					0	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo	45												0
+Act 3 (H) Miss A	9	74	1					0	gld	271	Act 3 (H) Equip A	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow A	90	Ammo	45												0
+Act 3 (H) Miss B	9	75	1					0	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo	45												0
+Act 3 (H) Miss C	9	77	1					0	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo	45												0
+Act 4 (H) Miss A	9	78	1					0	gld	271	Act 4 (H) Equip A	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow A	90	Ammo	45												0
+Act 4 (H) Miss B	9	80	1					0	gld	271	Act 4 (H) Equip B	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow B	90	Ammo	45												0
+Act 5 (H) Miss A	9	81	1					0	gld	271	Act 5 (H) Equip A	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow A	90	Ammo	45												0
+Act 5 (H) Miss B	9	83	1					0	gld	271	Act 5 (H) Equip B	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo	45												0
+Act 5 (H) Miss C	9	85	1					0	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo	45												0
+Map Miss t1	23	85	1					0	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t1	30	Act 5 (H) Bow B	90	Ammo	45												0
+Map Miss t2	23	85	1					0	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t2	30	Act 5 (H) Bow B	90	Ammo	45												0
+Map Miss t3	23	85	1					0	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t3	30	Act 5 (H) Bow B	90	Ammo	45												0
+Act 1 Wraith A	10	0	1					0	Act 1 Good	111	Act 1 Magic A	693																				0
+Act 1 Wraith B	10	5	1					0	Act 1 Good	111	Act 1 Magic B	693																				0
+Act 1 Wraith C	10	9	1					0	Act 1 Good	111	Act 1 Magic C	693																				0
+Act 2 Wraith A	10	12	1					0	Act 2 Good	111	Act 2 Magic A	693																				0
+Act 2 Wraith B	10	15	1					0	Act 2 Good	111	Act 2 Magic B	693																				0
+Act 2 Wraith C	10	18	1					0	Act 3 Good	111	Act 2 Magic C	693																				0
+Act 3 Wraith A	10	20	1					0	Act 3 Good	111	Act 3 Magic A	693																				0
+Act 3 Wraith B	10	22	1					0	Act 3 Good	111	Act 3 Magic B	693																				0
+Act 3 Wraith C	10	24	1					0	Act 3 Good	111	Act 3 Magic C	693																				0
+Act 4 Wraith A	10	26	1					0	Act 4 Good	111	Act 4 Magic A	693																				0
+Act 4 Wraith B	10	29	1					0	Act 4 Good	111	Act 4 Magic B	693																				0
+Act 5 Wraith A	10	32	1					0	Act 5 Good	111	Act 5 Magic A	693																				0
+Act 5 Wraith B	10	34	1					0	Act 5 Good	111	Act 5 Magic B	693																				0
+Act 5 Wraith C	10	36	1					0	Act 5 Good	111	Act 5 Magic C	693																				0
+Act 1 (N) Wraith A	10	38	1					0	Act 1 (N) Good	111	Act 1 (N) Magic A	693																				0
+Act 1 (N) Wraith B	10	40	1					0	Act 1 (N) Good	111	Act 1 (N) Magic B	693																				0
+Act 1 (N) Wraith C	10	41	1					0	Act 1 (N) Good	111	Act 1 (N) Magic B	693																				0
+Act 2 (N) Wraith A	10	42	1					0	Act 2 (N) Good	111	Act 2 (N) Magic A	693																				0
+Act 2 (N) Wraith B	10	44	1					0	Act 2 (N) Good	111	Act 2 (N) Magic B	693																				0
+Act 2 (N) Wraith C	10	45	1					0	Act 2 (N) Good	111	Act 2 (N) Magic B	693																				0
+Act 3 (N) Wraith A	10	46	1					0	Act 3 (N) Good	111	Act 3 (N) Magic A	693																				0
+Act 3 (N) Wraith B	10	48	1					0	Act 3 (N) Good	111	Act 3 (N) Magic B	693																				0
+Act 3 (N) Wraith C	10	50	1					0	Act 3 (N) Good	111	Act 3 (N) Magic B	693																				0
+Act 4 (N) Wraith A	10	51	1					0	Act 4 (N) Good	111	Act 4 (N) Magic A	693																				0
+Act 4 (N) Wraith B	10	54	1					0	Act 4 (N) Good	111	Act 4 (N) Magic B	693																				0
+Act 5 (N) Wraith A	10	57	1					0	Act 5 (N) Good	111	Act 5 (N) Magic A	693																				0
+Act 5 (N) Wraith B	10	60	1					0	Act 5 (N) Good	111	Act 5 (N) Magic B	693																				0
+Act 5 (N) Wraith C	10	62	1					0	Act 5 (N) Good	111	Act 5 (N) Magic C	693																				0
+Act 1 (H) Wraith A	10	63	1					0	Act 1 (H) Good	111	Act 1 (H) Magic A	693																				0
+Act 1 (H) Wraith B	10	66	1					0	Act 1 (H) Good	111	Act 1 (H) Magic B	693																				0
+Act 1 (H) Wraith C	10	68	1					0	Act 1 (H) Good	111	Act 1 (H) Magic B	693																				0
+Act 2 (H) Wraith A	10	69	1					0	Act 2 (H) Good	111	Act 2 (H) Magic A	693																				0
+Act 2 (H) Wraith B	10	71	1					0	Act 2 (H) Good	111	Act 2 (H) Magic B	693																				0
+Act 2 (H) Wraith C	10	72	1					0	Act 2 (H) Good	111	Act 2 (H) Magic B	693																				0
+Act 3 (H) Wraith A	10	74	1					0	Act 3 (H) Good	111	Act 3 (H) Magic A	693																				0
+Act 3 (H) Wraith B	10	75	1					0	Act 3 (H) Good	111	Act 3 (H) Magic B	693																				0
+Act 3 (H) Wraith C	10	77	1					0	Act 3 (H) Good	111	Act 3 (H) Magic B	693																				0
+Act 4 (H) Wraith A	10	78	1					0	Act 4 (H) Good	111	Act 4 (H) Magic A	693																				0
+Act 4 (H) Wraith B	10	80	1					0	Act 4 (H) Good	111	Act 4 (H) Magic B	693																				0
+Act 5 (H) Wraith A	10	81	1					0	Act 5 (H) Good	111	Act 5 (H) Magic A	693																				0
+Act 5 (H) Wraith B	10	83	1					0	Act 5 (H) Good	111	Act 5 (H) Magic B	693																				0
+Act 5 (H) Wraith C	10	85	1					0	Act 5 (H) Good	111	Act 5 (H) Magic C	693																				0
+Map Wraith t1	24	85	1					0	Map Good t1	111	Act 5 (H) Magic C	693																				0
+Map Wraith t2	24	85	1					0	Map Good t2	111	Act 5 (H) Magic C	693																				0
+Map Wraith t3	24	85	1					0	Map Good t3	111	Act 5 (H) Magic C	693																				0
 Act 1 Citem A	11	0	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip A	37	Act 1 Good	3																		0
 Act 1 Citem B	11	5	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip B	37	Act 1 Good	3																		0
 Act 1 Citem C	11	9	1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip C	37	Act 1 Good	3																		0
@@ -690,51 +690,51 @@ Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2								
 Map Unique t1		85	-3					0	Map Uitem t1	1	Act 5 (H) Cpot C	2																				0
 Map Unique t2		85	-3					0	Map Uitem t2	1	Act 5 (H) Cpot C	2																				0
 Map Unique t3		85	-3					0	Map Uitem t3	1	Act 5 (H) Cpot C	2																				0
-Quill 1	16	0	1					265	gld	367	Act 1 Junk	367																				0
-Quill 2	16	4	1					265	gld	367	Act 1 Junk	367																				0
-Quill 3	16	8	1					257	gld	361	Act 1 Junk	361	Act 1 Good	19																		0
-Quill 4	16	12	1					257	gld	361	Act 1 Junk	361	Act 1 Good	19																		0
-Quill 5	16	20	1					257	gld	361	Act 3 Junk	361	Act 3 Good	19																		0
-Quill 1 (N)	16	32	1					265	gld	367	Act 1 (N) Junk	367																				0
-Quill 2 (N)	16	35	1					257	gld	361	Act 1 (N) Junk	361	Act 1 (N) Good	19																		0
-Quill 3 (N)	16	38	1					257	gld	361	Act 1 (N) Junk	361	Act 1 (N) Good	19																		0
-Quill 4 (N)	16	40	1					257	gld	361	Act 1 (N) Junk	361	Act 1 (N) Good	19																		0
-Quill 5 (N)	16	46	1					257	gld	361	Act 3 (N) Junk	361	Act 3 (N) Good	19																		0
-Quill 1 (H)	16	60	1					265	gld	367	Act 1 (H) Junk	367																				0
-Quill 2 (H)	16	62	1					242	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
-Quill 3 (H)	16	65	1					242	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
-Quill 4 (H)	16	68	1					242	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
-Quill 5 (H)	16	85	1					242	gld	351	Act 3 (H) Junk	351	Act 3 (H) Good	55																		0
-Map Quill t1	27	85	1					242	gld	351	Act 3 (H) Junk	351	Map Good t1	55																		0
-Map Quill t2	27	85	1					242	gld	351	Act 3 (H) Junk	351	Map Good t2	55																		0
-Map Quill t3	27	85	1					242	gld	351	Act 3 (H) Junk	351	Map Good t3	55																		0
-Swarm 1	17	0	1					415	Potion 2	292	Misc 1	143	Act 2 Good	23	Act 2 Magic A	143																0
-Swarm 2	17	20	1					415	Potion 3	292	Misc 2	143	Act 3 Good	23	Act 3 Magic A	143																0
-Swarm 1 (N)	17	40	1					415	Potion 6	292	Misc 2	143	Act 2 (N) Good	23	Act 2 (N) Magic A	143																0
-Swarm 2 (N)	17	46	1					415	Potion 6	292	Misc 2	143	Act 3 (N) Good	23	Act 3 (N) Magic A	143																0
-Swarm 1 (H)	17	68	1					415	Potion 6	292	Misc 2	143	Act 2 (H) Good	23	Act 2 (H) Magic A	143																0
-Swarm 2 (H)	17	74	1					415	Potion 6	292	Misc 2	143	Act 3 (H) Good	23	Act 3 (H) Magic A	143																0
-Map Swarm t1	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t1	23	Act 3 (H) Magic A	143																0
-Map Swarm t2	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t2	23	Act 3 (H) Magic A	143																0
-Map Swarm t3	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t3	23	Act 3 (H) Magic A	143																0
-Andariel			7	983	983	983	1024	1	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62																0
-Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	20														0
-Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	61	tes	20														0
-Andarielq			7	995	995	1024	1024	1	Act 2 Equip A	845	Act 2 Good	133																				0
-Andarielq (N)			7	995	995	1024	1024	1	Act 2 (N) Equip A	845	Act 2 (N) Good	133	tes	42																		0
-Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	810	Act 4 (H) Good	127	tes	42																		0
+Quill 1	16	0	1					0	gld	367	Act 1 Junk	367																				0
+Quill 2	16	4	1					0	gld	367	Act 1 Junk	367																				0
+Quill 3	16	8	1					0	gld	361	Act 1 Junk	361	Act 1 Good	19																		0
+Quill 4	16	12	1					0	gld	361	Act 1 Junk	361	Act 1 Good	19																		0
+Quill 5	16	20	1					0	gld	361	Act 3 Junk	361	Act 3 Good	19																		0
+Quill 1 (N)	16	32	1					0	gld	367	Act 1 (N) Junk	367																				0
+Quill 2 (N)	16	35	1					0	gld	361	Act 1 (N) Junk	361	Act 1 (N) Good	19																		0
+Quill 3 (N)	16	38	1					0	gld	361	Act 1 (N) Junk	361	Act 1 (N) Good	19																		0
+Quill 4 (N)	16	40	1					0	gld	361	Act 1 (N) Junk	361	Act 1 (N) Good	19																		0
+Quill 5 (N)	16	46	1					0	gld	361	Act 3 (N) Junk	361	Act 3 (N) Good	19																		0
+Quill 1 (H)	16	60	1					0	gld	367	Act 1 (H) Junk	367																				0
+Quill 2 (H)	16	62	1					0	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
+Quill 3 (H)	16	65	1					0	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
+Quill 4 (H)	16	68	1					0	gld	351	Act 1 (H) Junk	351	Act 1 (H) Good	55																		0
+Quill 5 (H)	16	85	1					0	gld	351	Act 3 (H) Junk	351	Act 3 (H) Good	55																		0
+Map Quill t1	27	85	1					0	gld	351	Act 3 (H) Junk	351	Map Good t1	55																		0
+Map Quill t2	27	85	1					0	gld	351	Act 3 (H) Junk	351	Map Good t2	55																		0
+Map Quill t3	27	85	1					0	gld	351	Act 3 (H) Junk	351	Map Good t3	55																		0
+Swarm 1	17	0	1					0	Potion 2	292	Misc 1	143	Act 2 Good	23	Act 2 Magic A	143																0
+Swarm 2	17	20	1					0	Potion 3	292	Misc 2	143	Act 3 Good	23	Act 3 Magic A	143																0
+Swarm 1 (N)	17	40	1					0	Potion 6	292	Misc 2	143	Act 2 (N) Good	23	Act 2 (N) Magic A	143																0
+Swarm 2 (N)	17	46	1					0	Potion 6	292	Misc 2	143	Act 3 (N) Good	23	Act 3 (N) Magic A	143																0
+Swarm 1 (H)	17	68	1					0	Potion 6	292	Misc 2	143	Act 2 (H) Good	23	Act 2 (H) Magic A	143																0
+Swarm 2 (H)	17	74	1					0	Potion 6	292	Misc 2	143	Act 3 (H) Good	23	Act 3 (H) Magic A	143																0
+Map Swarm t1	28	74	1					0	Potion 6	292	Misc 2	143	Map Good t1	23	Act 3 (H) Magic A	143																0
+Map Swarm t2	28	74	1					0	Potion 6	292	Misc 2	143	Map Good t2	23	Act 3 (H) Magic A	143																0
+Map Swarm t3	28	74	1					0	Potion 6	292	Misc 2	143	Map Good t3	23	Act 3 (H) Magic A	143																0
+Andariel			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62																0
+Andariel (N)			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	20														0
+Andariel (H)			7	983	983	983	1024	0	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	61	tes	20														0
+Andarielq			7	995	995	1024	1024	0	Act 2 Equip A	845	Act 2 Good	133																				0
+Andarielq (N)			7	995	995	1024	1024	0	Act 2 (N) Equip A	845	Act 2 (N) Good	133	tes	42																		0
+Andarielq (H)			7	995	995	1024	1024	0	Act 4 (H) Equip A	810	Act 4 (H) Good	127	tes	42																		0
 Duriel - Base			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 3 Equip A	395	Act 3 Junk	311	Act 3 Good	62																0
 Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62	tes	20														0
 Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	tes	15														0
 Durielq - Base			7	993	993	1024	1024	0	Act 3 Equip A	845	Act 3 Good	133																				0
 Durielq (N) - Base			7	993	993	1024	1024	0	Act 3 (N) Equip A	845	Act 3 (N) Good	133	tes	42																		0
 Durielq (H) - Base			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	tes	17																		0
-Radament			5	900	900	900	1024	1	"gld,mul=1280"	228	Act 3 Equip B	395	Act 3 Junk	311	Act 3 Good	62																0
-Radament (N)			5	900	900	900	1024	1	"gld,mul=1536"	228	Act 3 (N) Equip B	395	Act 3 (N) Junk	311	Act 3 (N) Good	62																0
-Radament (H)			5	900	900	900	1024	1	"gld,mul=2048"	228	Act 3 (H) Equip C	395	Act 3 (H) Junk	311	Act 3 (H) Good	62																0
-Flying Scimitar			1					95	Act 2 Good	45	scm	859																				0
-Flying Scimitar (N)			1					95	Act 2 (N) Good	45	scm	376	9sm	482																		0
-Flying Scimitar (H)			1					95	Act 2 (H) Good	45	scm	105	9sm	271	7sm	482																0
+Radament			5	900	900	900	1024	0	"gld,mul=1280"	228	Act 3 Equip B	395	Act 3 Junk	311	Act 3 Good	62																0
+Radament (N)			5	900	900	900	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip B	395	Act 3 (N) Junk	311	Act 3 (N) Good	62																0
+Radament (H)			5	900	900	900	1024	0	"gld,mul=2048"	228	Act 3 (H) Equip C	395	Act 3 (H) Junk	311	Act 3 (H) Good	62																0
+Flying Scimitar			1					0	Act 2 Good	45	scm	859																				0
+Flying Scimitar (N)			1					0	Act 2 (N) Good	45	scm	376	9sm	482																		0
+Flying Scimitar (H)			1					0	Act 2 (H) Good	45	scm	105	9sm	271	7sm	482																0
 Mephisto			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 4 Equip A	799	Act 4 Junk	76	Act 4 Good	46																0
 Mephisto (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 4 (N) Equip A	799	Act 4 (N) Junk	76	Act 4 (N) Good	46	ceh	15														0
 Mephisto (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 4 (H) Equip A	787	Act 4 (H) Junk	75	Act 4 (H) Good	45	ceh	15														0
@@ -747,49 +747,49 @@ Diablo (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip A	787	Act 5 
 Diabloq			7	993	993	1024	1024	0	Act 5 Equip A	945	Act 5 Good	54																				0
 Diabloq (N)			7	993	993	1024	1024	0	Act 5 (N) Equip A	945	Act 5 (N) Good	54	bet	17																		0
 Diabloq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip A	928	Act 5 (H) Good	53	bet	17																		0
-Summoner			5	900	900	972	1024	4	"gld,mul=1280"	248	Act 2 Equip C	414	Act 3 Junk	138	Act 2 Good	82	Act 3 Magic A	110														0
-Summoner (N)			5	900	900	972	1024	4	"gld,mul=1536"	248	Act 2 (N) Equip C	414	Act 3 (N) Junk	138	Act 2 (N) Good	82	Act 3 (N) Magic A	110														0
-Summoner (H)			5	900	900	972	1024	4	"gld,mul=2048"	242	Act 2 (H) Equip C	403	Act 3 (H) Junk	134	Act 2 (H) Good	80	Act 3 (H) Magic A	107	pk2	27												0
-Council			3	650	800	800	1024	4	"gld,mul=1280"	248	Act 4 Equip A	414	Act 4 Junk	138	Act 4 Good	82	Act 4 Magic A	110														0
-Council (N)			3	650	800	800	1024	4	"gld,mul=1536"	248	Act 4 (N) Equip A	414	Act 4 (N) Junk	138	Act 4 (N) Good	82	Act 4 (N) Magic A	110														0
-Council (H)			3	650	800	800	1024	4	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Act 4 (H) Good	82	Act 4 (H) Magic A	110														0
-Map Council t1			3	650	800	800	1024	4	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Map Good t1	82	Act 4 (H) Magic A	110														0
-Map Council t2			3	650	800	800	1024	4	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Map Good t2	82	Act 4 (H) Magic A	110														0
-Map Council t3			3	650	800	800	1024	4	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Map Good t3	82	Act 4 (H) Magic A	110														0
+Summoner			5	900	900	972	1024	0	"gld,mul=1280"	248	Act 2 Equip C	414	Act 3 Junk	138	Act 2 Good	82	Act 3 Magic A	110														0
+Summoner (N)			5	900	900	972	1024	0	"gld,mul=1536"	248	Act 2 (N) Equip C	414	Act 3 (N) Junk	138	Act 2 (N) Good	82	Act 3 (N) Magic A	110														0
+Summoner (H)			5	900	900	972	1024	0	"gld,mul=2048"	242	Act 2 (H) Equip C	403	Act 3 (H) Junk	134	Act 2 (H) Good	80	Act 3 (H) Magic A	107	pk2	27												0
+Council			3	650	800	800	1024	0	"gld,mul=1280"	248	Act 4 Equip A	414	Act 4 Junk	138	Act 4 Good	82	Act 4 Magic A	110														0
+Council (N)			3	650	800	800	1024	0	"gld,mul=1536"	248	Act 4 (N) Equip A	414	Act 4 (N) Junk	138	Act 4 (N) Good	82	Act 4 (N) Magic A	110														0
+Council (H)			3	650	800	800	1024	0	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Act 4 (H) Good	82	Act 4 (H) Magic A	110														0
+Map Council t1			3	650	800	800	1024	0	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Map Good t1	82	Act 4 (H) Magic A	110														0
+Map Council t2			3	650	800	800	1024	0	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Map Good t2	82	Act 4 (H) Magic A	110														0
+Map Council t3			3	650	800	800	1024	0	"gld,mul=2048"	248	Act 4 (H) Equip A	414	Act 4 (H) Junk	138	Map Good t3	82	Act 4 (H) Magic A	110														0
 Griswold			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Griswold (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Griswold (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Map Miniboss t3			-4					0	Map Uitem	1	Map H2H	2																				0
-Cow			1					95	gld	286	Act 5 Equip A	286	Act 5 Junk	286	Act 5 Good	45																0
-Cow (N)			1					95	gld	286	Act 5 (N) Equip A	286	Act 5 (N) Junk	286	Act 5 (N) Good	45																0
-Cow (H)			1					95	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Act 5 (H) Good	45																0
-Map Cow t1			1					109	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Map Good t1	45																0
-Map Cow t2			1					109	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Map Good t2	45																0
-Map Cow t3			1					109	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Map Good t3	45																0
-Trapped Soul			1					95	gld	286	Act 4 Equip A	120	Act 4 Junk	497																		0
-Trapped Soul (N)			1					95	gld	286	Act 4 (N) Equip A	120	Act 4 (N) Junk	497																		0
-Trapped Soul (H)			1					95	gld	286	Act 4 (H) Equip A	120	Act 4 (H) Junk	497																		0
-Haphesto			5	800	800	900	1024	3	"gld,mul=1280"	340	Act 5 Equip A	461	Act 5 Junk	121	Act 5 Good	72																0
-Haphesto (N)			5	800	800	900	1024	3	"gld,mul=1536"	340	Act 5 (N) Equip A	461	Act 5 (N) Junk	121	Act 5 (N) Good	72																0
-Haphesto (H)			5	800	800	900	1024	3	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	72																0
-Nihlathak			5	900	900	900	1024	3	"gld,mul=1280"	340	Act 5 Equip B	461	Act 5 Junk	121	Act 5 Good	72																0
-Nihlathak (N)			5	900	900	900	1024	3	"gld,mul=1536"	340	Act 5 (N) Equip B	461	Act 5 (N) Junk	121	Act 5 (N) Good	72																0
-Nihlathak (H)			5	900	900	900	1024	2	"gld,mul=2048"	332	Act 5 (H) Equip B	451	Act 5 (H) Junk	71	Act 5 (H) Good	71	pk3	24														0
+Cow			1					0	gld	286	Act 5 Equip A	286	Act 5 Junk	286	Act 5 Good	45																0
+Cow (N)			1					0	gld	286	Act 5 (N) Equip A	286	Act 5 (N) Junk	286	Act 5 (N) Good	45																0
+Cow (H)			1					0	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Act 5 (H) Good	45																0
+Map Cow t1			1					0	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Map Good t1	45																0
+Map Cow t2			1					0	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Map Good t2	45																0
+Map Cow t3			1					0	gld	286	Act 5 (H) Equip B	286	Act 5 (H) Junk	286	Map Good t3	45																0
+Trapped Soul			1					0	gld	286	Act 4 Equip A	120	Act 4 Junk	497																		0
+Trapped Soul (N)			1					0	gld	286	Act 4 (N) Equip A	120	Act 4 (N) Junk	497																		0
+Trapped Soul (H)			1					0	gld	286	Act 4 (H) Equip A	120	Act 4 (H) Junk	497																		0
+Haphesto			5	800	800	900	1024	0	"gld,mul=1280"	340	Act 5 Equip A	461	Act 5 Junk	121	Act 5 Good	72																0
+Haphesto (N)			5	800	800	900	1024	0	"gld,mul=1536"	340	Act 5 (N) Equip A	461	Act 5 (N) Junk	121	Act 5 (N) Good	72																0
+Haphesto (H)			5	800	800	900	1024	0	"gld,mul=2048"	340	Act 5 (H) Equip A	461	Act 5 (H) Junk	121	Act 5 (H) Good	72																0
+Nihlathak			5	900	900	900	1024	0	"gld,mul=1280"	340	Act 5 Equip B	461	Act 5 Junk	121	Act 5 Good	72																0
+Nihlathak (N)			5	900	900	900	1024	0	"gld,mul=1536"	340	Act 5 (N) Equip B	461	Act 5 (N) Junk	121	Act 5 (N) Good	72																0
+Nihlathak (H)			5	900	900	900	1024	0	"gld,mul=2048"	332	Act 5 (H) Equip B	451	Act 5 (H) Junk	71	Act 5 (H) Good	71	pk3	24														0
 Baal			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 1 (N) Equip A	799	Act 1 (N) Junk	76	Act 1 (N) Good	46																0
 Baal (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 1 (H) Equip A	799	Act 1 (H) Junk	76	Act 1 (H) Good	46	fed	15														0
 Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	fed	15														0
 Baalq			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54																				0
 Baalq (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	945	Act 1 (H) Good	54	fed	17																		0
 Baalq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	fed	17																		0
-Blood Raven			5	800	800	972	1024	3	"gld,mul=1280"	340	Act 1 Equip B	461	Act 1 Junk	121	Act 1 Good	121																0
-Blood Raven (N)			5	800	800	972	1024	3	"gld,mul=1536"	340	Act 1 (N) Equip B	461	Act 1 (N) Junk	121	Act 1 (N) Good	121																0
-Blood Raven (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 1 (H) Equip B	461	Act 1 (H) Junk	121	Act 1 (H) Good	121	pk1	26														0
+Blood Raven			5	800	800	972	1024	0	"gld,mul=1280"	340	Act 1 Equip B	461	Act 1 Junk	121	Act 1 Good	121																0
+Blood Raven (N)			5	800	800	972	1024	0	"gld,mul=1536"	340	Act 1 (N) Equip B	461	Act 1 (N) Junk	121	Act 1 (N) Good	121																0
+Blood Raven (H)			5	800	800	972	1024	0	"gld,mul=2048"	340	Act 1 (H) Equip B	461	Act 1 (H) Junk	121	Act 1 (H) Good	121	pk1	26														0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
-Izual			5	800	800	972	1024	3	"gld,mul=1280"	340	Act 4 Equip B	461	Act 4 Junk	121	Act 4 Good	121																0
-Izual (N)			5	800	800	972	1024	3	"gld,mul=1536"	340	Act 4 (N) Equip B	461	Act 4 (N) Junk	121	Act 4 (N) Good	121																0
-Izual (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 4 (H) Equip B	461	Act 4 (H) Junk	121	Act 4 (H) Good	121	pk3	26														0
+Izual			5	800	800	972	1024	0	"gld,mul=1280"	340	Act 4 Equip B	461	Act 4 Junk	121	Act 4 Good	121																0
+Izual (N)			5	800	800	972	1024	0	"gld,mul=1536"	340	Act 4 (N) Equip B	461	Act 4 (N) Junk	121	Act 4 (N) Good	121																0
+Izual (H)			5	800	800	972	1024	0	"gld,mul=2048"	340	Act 4 (H) Equip B	461	Act 4 (H) Junk	121	Act 4 (H) Good	121	pk3	26														0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
@@ -896,26 +896,26 @@ Durielq (H)			5					0	Durielq (H) - Base	2																						0
 ROP			1	1024				0	Diablo	1																						0
 ROP (N)			1	1024				0	Diablo (N)	4																						0
 ROP (H)			1	1024				0	Diablo (H)	1																						0
-Countess Rune			3					10	Runes 4 unstack	20																						0
-Countess Rune (N)			3					10	Runes 8	20																						0
-Countess Rune (H)			3					10	Runes 12 equiv	30																						0
-Countess Item			5					1	"gld,mul=1280"	228	Act 1 Equip C	395	Act 2 Junk	311	Act 2 Good	62																0
-Countess Item (N)			5					1	"gld,mul=1536"	228	Act 1 (N) Equip C	395	Act 2 (N) Junk	311	Act 2 (N) Good	62																0
-Countess Item (H)			5					1	"gld,mul=2048"	228	Act 1 (H) Equip C	395	Act 2 (H) Junk	311	Act 2 (H) Good	62	pk1	20														0
+Countess Rune			3					0	Runes 4 unstack	20																						0
+Countess Rune (N)			3					0	Runes 8	20																						0
+Countess Rune (H)			3					0	Runes 12 equiv	30																						0
+Countess Item			5					0	"gld,mul=1280"	228	Act 1 Equip C	395	Act 2 Junk	311	Act 2 Good	62																0
+Countess Item (N)			5					0	"gld,mul=1536"	228	Act 1 (N) Equip C	395	Act 2 (N) Junk	311	Act 2 (N) Good	62																0
+Countess Item (H)			5					0	"gld,mul=2048"	228	Act 1 (H) Equip C	395	Act 2 (H) Junk	311	Act 2 (H) Good	62	pk1	20														0
 Countess			-2	883	883	883	1024	0	Countess Rune	1	Countess Item	1																				0
 Countess (N)			-2	883	883	983	1024	0	Countess Rune (N)	1	Countess Item (N)	1																				0
 Countess (H)			-2	883	883	983	1024	0	Countess Rune (H)	1	Countess Item (H)	1																				0
 Uber Andariel			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
 Uber Duriel			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
 Uber Izual			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
-Bloodwitch (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 2 (H) Equip B	461	Act 2 (H) Junk	121	Act 2 (H) Good	121	pk2	26														0
-Treasure Fallen Gem			3					13	Perfect Gem	3	Flawless Gem	2																				0
-Treasure Fallen Map			3					13	T3 Map Drop	1	imra	1	rera	1	imma	1	scou	1														0
-Treasure Fallen Rune			3					12	Runes 10	3																						0
+Bloodwitch (H)			5	800	800	972	1024	0	"gld,mul=2048"	340	Act 2 (H) Equip B	461	Act 2 (H) Junk	121	Act 2 (H) Good	121	pk2	26														0
+Treasure Fallen Gem			3					0	Perfect Gem	3	Flawless Gem	2																				0
+Treasure Fallen Map			3					0	T3 Map Drop	1	imra	1	rera	1	imma	1	scou	1														0
+Treasure Fallen Rune			3					0	Runes 10	3																						0
 Treasure Fallen			-4					0	Treasure Fallen Gem	1	Treasure Fallen Map	1	Treasure Fallen Rune	1	"gld,mul=2048"	1																0
-Map Void			1					400	mp5	5	yps	10	rvl	40																		0
-Map Void2			2					100	mp5	10	rvl	70																				0
-Map Void3			2					25	mp5	10	yps	10	rvl	50																		0
+Map Void			1					0	mp5	5	yps	10	rvl	40																		0
+Map Void2			2					0	mp5	10	rvl	70																				0
+Map Void3			2					0	mp5	10	yps	10	rvl	50																		0
 BR Arena Runes 1			1						r01	3	r02	2																				0
 BR Arena Runes 2			1						r03	3	r04	2	BR Arena Runes 1	2																		0
 BR Arena Runes 3			1						r05	3	r06	2	BR Arena Runes 2	5																		0
@@ -938,9 +938,9 @@ BR Arena Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	2								
 BR Arena misc			1						wss	20	lbox	8	toa	1																		0
 BR Arena jewerly			1						rin	2	amu	2	jew	4	cm3	1	cm2	1	cm1	1												0
 BR Arena Potions			1						hp4	1	hp5	1	mp4	1	mp5	1																0
-BR Arena Chests N		30	1	1600	1000	1400	500	10	Act 5 Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 6	4	BR Arena jewerly	8												0
-BR Arena Chests NM		60	1	1600	1000	1400	500	10	Act 5 (N) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 14	4	BR Arena jewerly	8												0
-BR Arena Chests H		90	1	1600	1000	1400	500	10	Act 5 (H) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 17	4	BR Arena jewerly	8												0
+BR Arena Chests N		30	1	1600	1000	1400	500	0	Act 5 Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 6	4	BR Arena jewerly	8												0
+BR Arena Chests NM		60	1	1600	1000	1400	500	0	Act 5 (N) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 14	4	BR Arena jewerly	8												0
+BR Arena Chests H		90	1	1600	1000	1400	500	0	Act 5 (H) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 17	4	BR Arena jewerly	8												0
 BR Arena Bodies N		30	1	1000	850	1400	800	0	Act 5 Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Potions	7	BR Arena Perfect Gem	2	BR Arena Runes 6	4	BR Arena jewerly	2								0
 BR Arena Bodies NM		60	1	1000	850	1400	800	0	Act 5 (N) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Potions	7	BR Arena Perfect Gem	2	BR Arena Runes 14	4	BR Arena jewerly	2								0
 BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Potions	7	BR Arena Perfect Gem	2	BR Arena Runes 17	4	BR Arena jewerly	2								0
