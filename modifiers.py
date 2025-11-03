@@ -49,7 +49,7 @@ def more_monster_types(filename, row):
 
 def easier_rune_cubing(filename, row):
     if filename == 'cubemain.txt':
-        match = re.match('r(\d{2})', row['output'])
+        match = re.match('r(\\d{2})', row['output'])
         if match:
             for value in row.items():
                 if value[0].startswith('input'):
