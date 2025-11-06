@@ -8,7 +8,10 @@ from diablo_writer import DiabloWriter
 
 
 def get_methods(package):
-    return list(filter(lambda x: callable(x) and not (x.__name__.startswith('__')),
+    return list(filter(lambda x: callable(x) and
+                               not x.__name__.startswith('__') and
+                               hasattr(x, '__module__') and
+                               x.__module__ == package.__name__,
                        map(lambda x: getattr(package, x), dir(package))))
 
 
