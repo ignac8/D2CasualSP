@@ -17,12 +17,30 @@ def more_common_drops(filename, row):
     return row
 
 
-def better_rune_drop(filename, row):
+def equal_rune_drop(filename, row):
     if filename == 'treasureclassex.txt':
-        if row['Treasure Class'].startswith('Runes'):
-            for value in row.items():
-                if value[1].isnumeric() and value[0].startswith('Prob'):
-                    row[value[0]] = 1
+        tc_name = row.get('Treasure Class', '')
+        if tc_name.startswith('Runes '):
+            tier_str = tc_name.replace('Runes ', '')
+            if tier_str.isdigit():
+                tier = int(tier_str)
+                if tier == 1:
+                    row['Item1'] = 'r01'
+                    row['Prob1'] = '1'
+                    row['Item2'] = 'r02'
+                    row['Prob2'] = '1'
+                elif tier <= 16:
+                    row['Item1'] = f'r{str(2*tier - 1).zfill(2)}'
+                    row['Prob1'] = '1'
+                    row['Item2'] = f'r{str(2*tier).zfill(2)}'
+                    row['Prob2'] = '1'
+                    row['Item3'] = f'Runes {tier - 1}'
+                    row['Prob3'] = str(2 * (tier - 1))
+                elif tier == 17:
+                    row['Item1'] = 'r33'
+                    row['Prob1'] = '1'
+                    row['Item2'] = 'Runes 16'
+                    row['Prob2'] = '32'
     return row
 
 
@@ -127,4 +145,40 @@ def better_shrines(filename, row):
 def no_experience_penalty(filename, row):
     if filename == 'experience.txt':
         row['ExpRatio'] = 1024
+    return row
+
+
+def max_stats_unique_items(filename, row):
+    if filename == 'uniqueitems.txt':
+        for i in range(1, 13):
+            max_field = f'max{i}'
+            min_field = f'min{i}'
+            if max_field in row and row[max_field]:
+                row[min_field] = row[max_field]
+    return row
+
+
+def max_stats_set_items(filename, row):
+    if filename == 'setitems.txt':
+        for i in range(1, 10):
+            max_field = f'max{i}'
+            min_field = f'min{i}'
+            if max_field in row and row[max_field]:
+                row[min_field] = row[max_field]
+        for i in range(1, 6):
+            for suffix in ['a', 'b']:
+                max_field = f'amax{i}{suffix}'
+                min_field = f'amin{i}{suffix}'
+                if max_field in row and row[max_field]:
+                    row[min_field] = row[max_field]
+    return row
+
+
+def max_stats_magic_affixes(filename, row):
+    if filename in ['magicprefix.txt', 'magicsuffix.txt']:
+        for i in range(1, 4):
+            max_field = f'mod{i}max'
+            min_field = f'mod{i}min'
+            if max_field in row and row[max_field]:
+                row[min_field] = row[max_field]
     return row
