@@ -51,7 +51,7 @@ Write-Host "[3/3] Launching Diablo 2 Resurrected..." -ForegroundColor Yellow
 $D2R_EXE = "C:\Program Files (x86)\Diablo II Resurrected\D2R.exe"
 
 if (Test-Path $D2R_EXE) {
-    Start-Process $D2R_EXE -ArgumentList "-mod D2RCasualSP -txt"
+    Start-Process $D2R_EXE -ArgumentList "-mod D2RCasualSP -txt -enablerespec"
     Write-Host "  Success: Game launched with D2RCasualSP mod" -ForegroundColor Green
 } else {
     Write-Host "  Error: D2R executable not found at $D2R_EXE" -ForegroundColor Red

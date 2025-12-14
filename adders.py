@@ -44,6 +44,21 @@ def prepare_for_runeword(filename):
     return rows
 
 
+def socket_unique_item(filename):
+    rows = list()
+    if filename == 'cubemain.txt':
+        row = dict()
+        row['description'] = 'socket unique item'
+        row['enabled'] = str(int(True))
+        row['version'] = '0'
+        row['numinputs'] = '2'
+        row['input 1'] = 'any,uni,nos'  # any unique with no sockets
+        row['input 2'] = 'tbk'           # Tome of Town Portal
+        row['output'] = 'useitem,sock=1' # same item + 1 socket
+        rows.append(row)
+    return rows
+
+
 def add_missing_gamble_items(filename):
     rows = list()
     if filename == 'gamble.txt':
