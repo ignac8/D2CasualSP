@@ -182,3 +182,15 @@ def max_stats_magic_affixes(filename, row):
             if max_field in row and row[max_field]:
                 row[min_field] = row[max_field]
     return row
+
+
+def equal_affix_frequency(filename, row):
+    """Make all magic affixes equally likely to spawn.
+
+    This normalizes affix spawn rates so rare affixes (like +2 skills)
+    have the same chance as common ones (like attack rating).
+    """
+    if filename in ['magicprefix.txt', 'magicsuffix.txt']:
+        if row.get('frequency') and row.get('spawnable') == '1':
+            row['frequency'] = '1'
+    return row
