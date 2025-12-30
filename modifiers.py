@@ -148,48 +148,14 @@ def no_experience_penalty(filename, row):
     return row
 
 
-def max_stats_unique_items(filename, row):
-    if filename == 'uniqueitems.txt':
-        for i in range(1, 13):
-            max_field = f'max{i}'
-            min_field = f'min{i}'
-            if max_field in row and row[max_field]:
-                row[min_field] = row[max_field]
-    return row
-
-
-def max_stats_set_items(filename, row):
+def disable_cannotloot(filename, row):
     if filename == 'setitems.txt':
-        for i in range(1, 10):
-            max_field = f'max{i}'
-            min_field = f'min{i}'
-            if max_field in row and row[max_field]:
-                row[min_field] = row[max_field]
-        for i in range(1, 6):
-            for suffix in ['a', 'b']:
-                max_field = f'amax{i}{suffix}'
-                min_field = f'amin{i}{suffix}'
-                if max_field in row and row[max_field]:
-                    row[min_field] = row[max_field]
-    return row
-
-
-def max_stats_magic_affixes(filename, row):
-    if filename in ['magicprefix.txt', 'magicsuffix.txt']:
-        for i in range(1, 4):
-            max_field = f'mod{i}max'
-            min_field = f'mod{i}min'
-            if max_field in row and row[max_field]:
-                row[min_field] = row[max_field]
+        if row.get('cannotloot') == '1':
+            row['cannotloot'] = ''
     return row
 
 
 def equal_affix_frequency(filename, row):
-    """Make all magic affixes equally likely to spawn.
-
-    This normalizes affix spawn rates so rare affixes (like +2 skills)
-    have the same chance as common ones (like attack rating).
-    """
     if filename in ['magicprefix.txt', 'magicsuffix.txt']:
         if row.get('frequency') and row.get('spawnable') == '1':
             row['frequency'] = '1'

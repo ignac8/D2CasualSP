@@ -52,9 +52,9 @@ def socket_unique_item(filename):
         row['enabled'] = str(int(True))
         row['version'] = '0'
         row['numinputs'] = '2'
-        row['input 1'] = 'any,uni,nos'  # any unique with no sockets
-        row['input 2'] = 'tbk'           # Tome of Town Portal
-        row['output'] = 'useitem,sock=1' # same item + 1 socket
+        row['input 1'] = 'any,uni,nos'
+        row['input 2'] = 'tbk'
+        row['output'] = 'useitem,sock=1'
         rows.append(row)
     return rows
 
@@ -62,11 +62,9 @@ def socket_unique_item(filename):
 def add_missing_gamble_items(filename):
     rows = list()
     if filename == 'gamble.txt':
-        # Get the templates directory path
         templates_dir = Path('templates')
         excel_path = templates_dir.joinpath('D2RCasualSP').joinpath('D2RCasualSP.mpq').joinpath('data').joinpath('global').joinpath('excel')
 
-        # Read existing gamble items to avoid duplicates
         existing_codes = set()
         gamble_path = excel_path.joinpath('gamble.txt')
         with open(gamble_path, mode='r', newline='') as gamble_file:
@@ -75,7 +73,6 @@ def add_missing_gamble_items(filename):
                 if row.get('code'):
                     existing_codes.add(row['code'])
 
-        # Read all weapons
         weapons_path = excel_path.joinpath('weapons.txt')
         with open(weapons_path, mode='r', newline='') as weapons_file:
             reader = DiabloReader(weapons_file)
@@ -83,11 +80,9 @@ def add_missing_gamble_items(filename):
                 code = row.get('code', '')
                 rarity = row.get('rarity', '')
                 name = row.get('name', '')
-                # Skip if code is empty, already in gamble, or has null rarity (quest items/potions/markers)
                 if code and code not in existing_codes and rarity:
                     rows.append({'name': name, 'code': code})
 
-        # Read all armor
         armor_path = excel_path.joinpath('armor.txt')
         with open(armor_path, mode='r', newline='') as armor_file:
             reader = DiabloReader(armor_file)
@@ -95,7 +90,6 @@ def add_missing_gamble_items(filename):
                 code = row.get('code', '')
                 rarity = row.get('rarity', '')
                 name = row.get('name', '')
-                # Skip if code is empty, already in gamble, or has null rarity (quest items)
                 if code and code not in existing_codes and rarity:
                     rows.append({'name': name, 'code': code})
 
