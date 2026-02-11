@@ -130,8 +130,8 @@ def better_gambling(filename, row):
         row['GambleRare'] = int(max_chance / 2)
         row['GambleSet'] = int(max_chance / 10)
         row['GambleUnique'] = int(max_chance / 5)
-        row['GambleUber'] = int(row['GambleUber']) * 10
-        row['GambleUltra'] = int(row['GambleUltra']) * 10
+        row['GambleUber'] = 100
+        row['GambleUltra'] = 100
     return row
 
 
@@ -159,4 +159,18 @@ def equal_affix_frequency(filename, row):
     if filename in ['magicprefix.txt', 'magicsuffix.txt']:
         if row.get('frequency') and row.get('spawnable') == '1':
             row['frequency'] = '1'
+    return row
+
+
+def equal_unique_rarity(filename, row):
+    if filename in ['uniqueitems.txt', 'setitems.txt']:
+        if row.get('rarity'):
+            row['rarity'] = '1'
+    return row
+
+
+def cheaper_gambling(filename, row):
+    if filename in ['weapons.txt', 'armor.txt', 'misc.txt']:
+        if row.get('gamble cost') and row['gamble cost'].isdigit():
+            row['gamble cost'] = str(int(int(row['gamble cost']) / 10))
     return row
