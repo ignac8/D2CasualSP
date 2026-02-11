@@ -32,6 +32,12 @@ if (-not (Test-Path $D2R_MODS_PATH)) {
     Write-Host "  Created mods directory" -ForegroundColor Gray
 }
 
+# Remove old mod files to prevent stale files from previous versions
+$D2R_MOD_DEST = Join-Path $D2R_MODS_PATH "D2RCasualSP"
+if (Test-Path $D2R_MOD_DEST) {
+    Remove-Item -Path $D2R_MOD_DEST -Recurse -Force
+}
+
 # Copy the mod
 Copy-Item -Path $SOURCE_PATH -Destination $D2R_MODS_PATH -Recurse -Force
 
