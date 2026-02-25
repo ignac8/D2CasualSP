@@ -113,7 +113,7 @@ def main():
         shutil.copy2(EXTRACTED_DIR / fname, TEMPLATES_DIR / fname)
         print(f"  Updated {fname}")
 
-    print(f"\nDone. Run ./build_and_deploy.sh to regenerate and deploy.")
+    print(f"\nDone. Run python3 build_and_deploy.py to regenerate and deploy.")
 
 
 if __name__ == "__main__":
