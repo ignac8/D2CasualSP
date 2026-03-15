@@ -11,5 +11,5 @@ class DiabloWriter:
         self.file.write(line)
 
     def write_row(self, row):
-        line = '\t'.join(map(escape, map(lambda key: row.get(key, ''), self.fieldnames))) + '\r\n'
+        line = '\t'.join(escape(row.get(key, '')) for key in self.fieldnames) + '\r\n'
         self.file.write(line)

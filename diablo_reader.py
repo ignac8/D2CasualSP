@@ -1,5 +1,3 @@
-import re
-
 from escape_utils import unescape
 
 
@@ -21,6 +19,6 @@ class DiabloReader:
     def _readline(self):
         line = self.file.readline()
         if line:
-            return list(map(unescape, re.split('\t', line)))
+            return list(map(unescape, line.split('\t')))
         else:
             return []
