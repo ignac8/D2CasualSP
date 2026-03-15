@@ -170,10 +170,10 @@ def extract_d2r_files(d2r_path: Path, output_dir: Path):
 
 
 def main():
-    d2r_default = Path.home() / "Games/bnet/pfx/drive_c/Program Files (x86)/Diablo II Resurrected"
+    from platform_utils import get_d2r_path
     output_default = SCRIPT_DIR / "work"
 
-    d2r_path = Path(sys.argv[1]) if len(sys.argv) > 1 else d2r_default
+    d2r_path = Path(sys.argv[1]) if len(sys.argv) > 1 else get_d2r_path()
     output_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else output_default
 
     print(f"D2R path: {d2r_path}")

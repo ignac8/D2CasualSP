@@ -1,35 +1,12 @@
 import shutil
 import subprocess
 import sys
-from enum import Enum
 from pathlib import Path
+
+from platform_utils import get_d2r_mods_path
 
 SCRIPT_DIR = Path(__file__).parent
 MOD_NAME = "D2RCasualSP"
-
-
-class Platform(Enum):
-    WINDOWS = "windows"
-    WSL = "wsl"
-    LINUX = "linux"
-
-
-def detect_platform():
-    if sys.platform == "win32":
-        return Platform.WINDOWS
-    try:
-        if "microsoft" in Path("/proc/version").read_text().lower():
-            return Platform.WSL
-    except OSError:
-        pass
-    return Platform.LINUX
-
-
-D2R_MODS = {
-    Platform.WINDOWS: Path(r"C:\Program Files (x86)\Diablo II Resurrected\mods"),
-    Platform.WSL: Path("/mnt/c/Program Files (x86)/Diablo II Resurrected/mods"),
-    Platform.LINUX: Path.home() / "Games/bnet/pfx/drive_c/Program Files (x86)/Diablo II Resurrected/mods",
-}
 
 
 def generate():
@@ -51,7 +28,7 @@ def deploy(mods_path):
 
 
 def main():
-    mods_path = D2R_MODS[detect_platform()]
+    mods_path = get_d2r_mods_path()
     generate()
     deploy(mods_path)
 

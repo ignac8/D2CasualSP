@@ -3,12 +3,13 @@ from pathlib import Path
 
 from casc_extract import extract_d2r_files
 from diablo_reader import DiabloReader
+from platform_utils import get_d2r_path
 
 SCRIPT_DIR = Path(__file__).parent
 TEMPLATES_DIR = SCRIPT_DIR / "templates/D2RCasualSP/D2RCasualSP.mpq/data/global/excel"
 WORK_DIR = SCRIPT_DIR / "work"
 EXTRACTED_DIR = WORK_DIR / "data/data/global/excel"
-D2R_PATH = Path.home() / "Games/bnet/pfx/drive_c/Program Files (x86)/Diablo II Resurrected"
+D2R_PATH = get_d2r_path()
 
 
 def read_file(path):
