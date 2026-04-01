@@ -678,7 +678,7 @@ Swarm 1 (N)	17	40	1					0	Potion 6	12	Misc 2	6	Act 2 (N) Good	1	Act 2 (N) Magic 
 Swarm 2 (N)	17	46	1					0	Potion 6	12	Misc 2	6	Act 3 (N) Good	1	Act 3 (N) Magic A	6																						0
 Swarm 1 (H)	17	68	1					0	Potion 6	12	Misc 2	6	Act 2 (H) Good	1	Act 2 (H) Magic A	6																						0
 Swarm 2 (H)	17	74	1					0	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Magic A	6																						0
-Sunder Charms			1					0	PreCrafted Cold Rupture	30	PreCrafted Flame Rift	30	PreCrafted Crack of the Heavens	20	PreCrafted Rotting Fissure	12	PreCrafted Bone Break	6	PreCrafted Black Cleft	3												"cond('MonsterTestElite', herald)*(stat('heraldtier'.accr) >3) "			1			0
+Sunder Charms			1					0	PreCrafted Cold Rupture	30	PreCrafted Flame Rift	30	PreCrafted Crack of the Heavens	20	PreCrafted Rotting Fissure	12	PreCrafted Bone Break	6	PreCrafted Black Cleft	3												"cond('MonsterTestElite', herald)*(stat('heraldtier'.accr) >0) "			1			0
 Andariel			7	983	983	983	1024	0	"gld,mul=1280"	11	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3																						0
 Andariel (N)			7	983	983	983	1024	0	"gld,mul=1536"	11	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																						0
 Andariel (H)			7	983	983	983	1024	0	"gld,mul=2048"	11	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	tes	1																				0

@@ -174,3 +174,12 @@ def cheaper_gambling(filename, row):
         if row.get('gamble cost') and row['gamble cost'].isdigit():
             row['gamble cost'] = str(int(int(row['gamble cost']) / 10))
     return row
+
+
+def sunder_charms_all_herald_tiers(filename, row):
+    if filename == 'treasureclassex.txt':
+        if row.get('Treasure Class', '') == 'Sunder Charms':
+            calc = row.get('ConditionCalc', '')
+            if 'heraldtier' in calc:
+                row['ConditionCalc'] = re.sub(r'>\s*\d+', '>0', calc)
+    return row
