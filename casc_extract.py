@@ -169,6 +169,16 @@ def extract_d2r_files(d2r_path: Path, output_dir: Path):
     return extracted
 
 
+def extract_data_version(d2r_path):
+    lib = load_casclib()
+    h_storage = open_storage(lib, d2r_path)
+    data = read_file(lib, h_storage, r"data:data\global\dataversionbuild.txt")
+    lib.CascCloseStorage(h_storage)
+    if data is None:
+        sys.exit("Error: Could not read dataversionbuild.txt from CASC storage")
+    return int(data.decode("utf-8-sig").strip())
+
+
 def main():
     from platform_utils import get_d2r_path
     output_default = SCRIPT_DIR / "work"

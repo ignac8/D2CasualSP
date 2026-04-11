@@ -1,12 +1,13 @@
 import shutil
 from pathlib import Path
 
-from casc_extract import extract_d2r_files
+from casc_extract import extract_d2r_files, extract_data_version
 from diablo_reader import DiabloReader
 from platform_utils import get_d2r_path
 
 SCRIPT_DIR = Path(__file__).parent
 TEMPLATES_DIR = SCRIPT_DIR / "templates/D2RCasualSP/D2RCasualSP.mpq/data/global/excel"
+VERSION_PATH = SCRIPT_DIR / "templates/D2RCasualSP/D2RCasualSP.mpq/data/global/dataversionbuild.txt"
 WORK_DIR = SCRIPT_DIR / "work"
 EXTRACTED_DIR = WORK_DIR / "data/data/global/excel"
 D2R_PATH = get_d2r_path()
@@ -56,7 +57,21 @@ def main():
     print()
 
     print("=" * 60)
-    print("Step 2: Comparing extracted files with templates")
+    print("Step 2: Updating data version")
+    print("=" * 60)
+    version = extract_data_version(D2R_PATH)
+    old_version = VERSION_PATH.read_text().strip() if VERSION_PATH.exists() else None
+    version_changed = old_version != str(version)
+    if version_changed:
+        VERSION_PATH.parent.mkdir(parents=True, exist_ok=True)
+        VERSION_PATH.write_text(str(version))
+        print(f"  Updated dataversionbuild.txt: {old_version} -> {version}")
+    else:
+        print(f"  Version already up to date: {version}")
+    print()
+
+    print("=" * 60)
+    print("Step 3: Comparing extracted files with templates")
     print("=" * 60)
 
     template_files = {f.name for f in TEMPLATES_DIR.glob("*.txt")}
@@ -91,7 +106,7 @@ def main():
     print()
 
     total_changes = len(new_files) + len(removed_files) + len(changed_files)
-    if total_changes == 0:
+    if total_changes == 0 and not version_changed:
         print("Templates are up to date. No changes needed.")
         return
 
@@ -99,7 +114,7 @@ def main():
 
     print()
     print("=" * 60)
-    print("Step 3: Updating templates")
+    print("Step 4: Updating templates")
     print("=" * 60)
 
     for fname in new_files:
